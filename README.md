@@ -4,7 +4,6 @@
 >This is my personnal Github account
 >Always up to learn something new and face new challenges.
 
-![self portrait](/self-cartoon.png)
 
 
 
