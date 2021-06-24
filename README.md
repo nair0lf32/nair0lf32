@@ -1,4 +1,12 @@
-### Hello there...
+### Hello there! 
+
+>med student with a passion for coding
+>This is my personnal Github account
+>Always up to learn something new and face new challenges.
+
+
+
+
 
 <!--
 **nair0lf32/nair0lf32** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
