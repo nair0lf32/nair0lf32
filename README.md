@@ -1,8 +1,8 @@
-### Hello there! 
+![logo](/sm_logo.png)  ## Hello there! 
 
->med student with a passion for coding
->This is my personnal Github account
->Always up to learn something new and face new challenges.
+Med student with a passion for coding.
+This is my personnal Github account.
+Always up to learn something new and face new challenges.
 
 
 
