@@ -3,14 +3,14 @@
   
 ##  Med student from 🇧🇯  that also codes (somehow)  
 
-I am a  web/mobile developper wannabe with good grasp of javascript,  
-php, python, java/kotlin...looking forward to learn dart/flutter, Go  
-and a bit of cybersecurity...I love learning new things (too much and that
-is a big default I'm working on). I am a self learner trying to someday contribute 
-to the developpement of solid solutions for problems in the Healthcare sector. 
-welcome to my personal GitHub. Here I put my spaghetti code and stuff...
-may you find something you like.   
-(I also happen to enjoy CTFs,videogames and memes)   
+I am a  web/mobile developper wannabe with good grasp of javascript,    
+php, python, java/kotlin...looking forward to learn dart/flutter, Go    
+and a bit of cybersecurity...I love learning new things (too much and that  
+is a big default I'm working on). I am a self learner trying to someday contribute   
+to the developpement of solid solutions for problems in the Healthcare sector.   
+welcome to my personal GitHub. Here I put my spaghetti code and stuff...  
+may you find something you like.    
+(I also happen to enjoy CTFs,videogames and memes)    
   
   
 ## Here are my awful stats:  
