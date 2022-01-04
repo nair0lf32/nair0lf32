@@ -38,7 +38,7 @@ may you find something you like.
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg' alt='codesandbox' height='40'>](https://codesandbox.io/u/nairolf32)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerone.svg' alt='hackerone' height='40'>](https://hackerone.com/nairolf?type=user)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg' alt='hackerrank' height='40'>](https://www.hackerrank.com/nair0lf32)  
 
 
-[2021 ?](https://nair0lf32.wrapped.run) Not good...let's get better!
+[2021 ?](https://nair0lf32.wrapped.run) Not so good...let's get better!
 
 <!--
 **nair0lf32/nair0lf32** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
