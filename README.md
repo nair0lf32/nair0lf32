@@ -4,25 +4,33 @@
 ##  Med student from 🇧🇯  that also codes (somehow)  
 
 I am a  web/mobile developper wannabe with good grasp of javascript,    
-php, python, java/kotlin...looking forward to learn dart/flutter, Go    
-and a bit of cybersecurity...I love learning new things (too much). I am a self learner trying to someday contribute   
-to the developpement of solid solutions for problems in the Healthcare sector.   
-welcome to my personal GitHub. Here I put my spaghetti code and stuff...  
-may you find something you like.    
-(I also happen to enjoy CTFs,videogames and memes)    
+php, python, java/kotlin
+
+Looking forward to learn dart/flutter, Go and a bit of cybersecurity
+
+I love learning new things (too much). I am a self learner trying to someday contribute   
+to the developpement of solid solutions for problems (in the Healthcare sector mostly)
+
+Welcome to my personal GitHub. Here I put my spaghetti code and stuff...  
+
+May you find something you like.
+
+(I also happen to enjoy CTFs, videogames and silly memes)    
   
   
-## Here are my awful stats:  
-
-![GitHub metrics](https://metrics.lecoq.io/nair0lf32)  
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=nair0lf32&show_icons=true&locale=en&theme=chartreuse-dark)  
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nair0lf32&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
+## Here are my terrible stats:  
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=nair0lf32&row=1&column=6&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=nair0lf32&show_icons=true&locale=en&theme=chartreuse-dark)  
+
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=nair0lf32&repo=nair0lf32&theme=chartreuse-dark)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nair0lf32&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub metrics](https://metrics.lecoq.io/nair0lf32) 
+
+## [Wrapped!](https://nair0lf32.wrapped.run)
 
 ## Languages and tools I use:
 
@@ -37,7 +45,16 @@ may you find something you like.
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg' alt='codesandbox' height='40'>](https://codesandbox.io/u/nairolf32)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerone.svg' alt='hackerone' height='40'>](https://hackerone.com/nairolf?type=user)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg' alt='hackerrank' height='40'>](https://www.hackerrank.com/nair0lf32) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/nair0lf32/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/freecodecamp.svg' alt='freecodecamp' height='40'>](https://www.freecodecamp.org/nairolf)
 
 
-[2021 ?](https://nair0lf32.wrapped.run) Not so good...let's get better!
+
+
+
+
+
+
+
+
+
+
 
 <!--
 **nair0lf32/nair0lf32** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
