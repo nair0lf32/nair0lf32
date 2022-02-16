@@ -48,15 +48,15 @@ May you find something you like.
 
 ## wanna get in touch? you might find me at those places:
  
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@6.10.0/icons/github.svg' alt='github' height='30'>](https://github.com/nair0lf32)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@6.10.0/icons/linkedin.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/florian-edemessi-b29129172/)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@6.10.0/icons/facebook.svg' alt='facebook' height='30'>](https://www.facebook.com/FlorianEdemessi)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@6.10.0/icons/twitter.svg' alt='twitter' height='30'>](https://twitter.com/florianedemessi)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@6.10.0/icons/stackoverflow.svg' alt='stackoverflow' height='30'>](https://stackoverflow.com/users/14132197/florian-edemessi)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@6.10.0/icons/reddit.svg' alt='Reddit' height='30'>](https://www.reddit.com/user/florian32edem)
+[<img src='https://www.vectorlogo.zone/logos/github/github-tile.svg' alt='github' height='30'>](https://github.com/nair0lf32)
+[<img src='https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/florian-edemessi-b29129172/)
+[<img src='https://www.vectorlogo.zone/logos/hackerone/hackerone-icon.svg' alt='hackerone' height='30'>](https://hackerone.com/nairolf?type=user)
+[<img src='https://www.vectorlogo.zone/logos/facebook/facebook-official.svg' alt='facebook' height='30'>](https://www.facebook.com/FlorianEdemessi)
+[<img src='https://www.vectorlogo.zone/logos/twitter/twitter-official.svg' alt='twitter' height='30'>](https://twitter.com/florianedemessi)
+[<img src='https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg' alt='stackoverflow' height='30'>](https://stackoverflow.com/users/14132197/florian-edemessi) [<img src='https://www.vectorlogo.zone/logos/reddit/reddit-tile.svg' alt='Reddit' height='30'>](https://www.reddit.com/user/florian32edem)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@6.10.0/icons/codesandbox.svg' alt='codesandbox' height='30'>](https://codesandbox.io/u/nairolf32)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@6.10.0/icons/hackerone.svg' alt='hackerone' height='30'>](https://hackerone.com/nairolf?type=user)
+[<img src='https://www.vectorlogo.zone/logos/codepen/codepen-icon.svg' alt='codepen' height='30'>](https://codepen.io/nair0lf32/)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@6.10.0/icons/hackerrank.svg' alt='hackerrank' height='30'>](https://www.hackerrank.com/nair0lf32)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@6.10.0/icons/codepen.svg' alt='codepen' height='30'>](https://codepen.io/nair0lf32/)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@6.10.0/icons/freecodecamp.svg' alt='freecodecamp' height='30'>](https://www.freecodecamp.org/nairolf)
 
 
