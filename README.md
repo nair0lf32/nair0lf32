@@ -14,14 +14,6 @@ May you find something you like.
   
 ## Here are my terrible stats:  
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=nair0lf32&row=1&column=6&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=nair0lf32&show_icons=true&locale=en&theme=chartreuse-dark)  
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nair0lf32&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=nair0lf32&repo=nair0lf32&theme=chartreuse-dark)
-
 ![GitHub metrics](/github-metrics.svg) 
 
 ## [Wrapped!](https://nair0lf32.wrapped.run)
