@@ -18,9 +18,11 @@ May you find something you like.
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=nair0lf32&show_icons=true&locale=en&theme=chartreuse-dark)  
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nair0lf32&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=nair0lf32&repo=nair0lf32&theme=chartreuse-dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nair0lf32&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ![GitHub metrics](https://metrics.lecoq.io/nair0lf32) 
 
