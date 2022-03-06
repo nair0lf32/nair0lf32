@@ -12,15 +12,15 @@ May you find something you like.
 
 (I also happen to enjoy CTFs, videogames and silly memes)    
   
-## Here are my terrible stats/metrics :  
+## Here are my terrible stats/metrics:  
 
 ![GitHub metrics](/github-metrics-core.svg) 
 
-## Cool stuff achieved so far :
+## Cool stuff achieved so far:
 
 ![GitHub metrics](/github-metrics-badges.svg) 
 
-## Hey, check What I vibe with :
+## Hey, check What I vibe with:
 
 ![GitHub metrics](/github-metrics-social.svg) 
 
