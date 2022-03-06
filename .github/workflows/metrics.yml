@@ -17,7 +17,7 @@ jobs:
           filename: github-metrics-core.svg
           config_display: columns
           optimize: svg, css, xml
-          experimental_features: --optimize-svg
+
           base: header, activity, community, repositories, metadata
     
           plugin_languages: yes
@@ -27,7 +27,6 @@ jobs:
           plugin_habits: yes
           plugin_habits_facts: yes
           
-          
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.NAIROLF32_METRICS }}
@@ -35,7 +34,6 @@ jobs:
           filename: github-metrics-badges.svg
           config_display: columns
           optimize: svg, css, xml
-          experimental_features: --optimize-svg
           base: ""
           plugin_achievements: yes
           plugin_achievements_display: compact
@@ -52,7 +50,6 @@ jobs:
           filename: github-metrics-social.svg
           config_display: columns
           optimize: svg, css, xml
-          experimental_features: --optimize-svg
           base: ""
           plugin_anilist: yes
           plugin_anilist_user: nairolf32
