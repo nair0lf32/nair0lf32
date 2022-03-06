@@ -22,9 +22,7 @@ May you find something you like.
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=nair0lf32&repo=nair0lf32&theme=chartreuse-dark)
 
-
-
-![GitHub metrics](https://metrics.lecoq.io/nair0lf32) 
+![GitHub metrics](/github-metrics.svg) 
 
 ## [Wrapped!](https://nair0lf32.wrapped.run)
 
