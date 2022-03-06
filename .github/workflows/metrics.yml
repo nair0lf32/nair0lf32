@@ -14,7 +14,7 @@ jobs:
         with:
           token: ${{ secrets.NAIROLF32_METRICS }}
           config_timezone: Africa/Porto-Novo
-          filename: github-metrics-core.svg
+          filename: github-metrics.svg
           config_display: columns
           optimize: svg, css, xml
           experimental_features: --optimize-svg
