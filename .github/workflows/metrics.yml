@@ -14,5 +14,8 @@ jobs:
         with:
           token: ${{ secrets.NAIROLF32_METRICS }}
           config_timezone: Africa/Porto-Novo
-          filename: metrics.base.svg
+          filename: github-metrics.svg
           base: header, activity, community, repositories, metadata
+          plugin_achievements: yes
+          plugin_languages: yes
+          plugin_languages_indepth: yes
