@@ -12,7 +12,7 @@ May you find something you like.
 
 (I also happen to enjoy CTFs, videogames and silly memes)    
   
-## Here are my terrible stats:  
+## Here are my terrible stats and metrics:  
 
 ![GitHub metrics](/github-metrics.svg) 
 
