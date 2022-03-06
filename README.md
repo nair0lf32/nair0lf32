@@ -14,10 +14,7 @@ May you find something you like.
   
 ## Here are my terrible stats and metrics:  
 
-![GitHub metrics](/github-metrics-core.svg) 
-
-![GitHub languages](/github-metrics-langs.svg)
-
+![GitHub metrics](/github-metrics.svg) 
 
 ## [Wrapped!](https://nair0lf32.wrapped.run)
 
