@@ -16,11 +16,11 @@ May you find something you like.
 
 ![GitHub metrics](/github-metrics-core.svg) 
 
-## Cool stuff achieved so far:
+## Not much but honest work (achievements):
 
 ![GitHub metrics](/github-metrics-badges.svg) 
 
-## Hey, check What I vibe with:
+## Cool stuff I vibe on:
 
 ![GitHub metrics](/github-metrics-social.svg) 
 
