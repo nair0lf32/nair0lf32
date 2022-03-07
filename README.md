@@ -16,7 +16,7 @@ May you find something you like.
 
 ![GitHub metrics](/github-metrics-core.svg) 
 
-## Not much but honest work (achievements):
+## Not much but honest work:
 
 ![GitHub metrics](/github-metrics-badges.svg) 
 
