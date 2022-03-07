@@ -14,6 +14,7 @@ jobs:
         with:
           token: ${{ secrets.NAIROLF32_METRICS }}
           config_timezone: Africa/Porto-Novo
+          template: terminal
           filename: github-metrics-core.svg
           base: header, activity, community, repositories, metadata
           plugin_languages: yes
@@ -25,10 +26,11 @@ jobs:
         with:
           token: ${{ secrets.NAIROLF32_METRICS }}
           config_timezone: Africa/Porto-Novo
+          template: terminal
           filename: github-metrics-badges.svg
           base: ""
           plugin_achievements: yes
-          plugin_achievements_display: compact
+          plugin_achievements_display: detailed
           plugin_achievements_threshold: X 
           plugin_notable: yes
           plugin_notable_indepth: yes
@@ -37,12 +39,13 @@ jobs:
         with:
           token: ${{ secrets.NAIROLF32_METRICS }}
           config_timezone: Africa/Porto-Novo
+          template: terminal
           filename: github-metrics-social.svg
           base: ""
           plugin_anilist: yes
           plugin_anilist_user: nairolf32
-          plugin_anilist_medias: anime
-          plugin_anilist_sections: favorites, watching, characters
+          plugin_anilist_medias: anime, manga
+          plugin_anilist_sections: favorites, watching, reading, characters
           plugin_music: yes
           plugin_music_token: ${{ secrets.SPOTIFY_SECRET }}
           plugin_music_mode: recent
