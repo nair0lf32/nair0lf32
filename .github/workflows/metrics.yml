@@ -29,7 +29,7 @@ jobs:
           filename: github-metrics-badges.svg
           base: ""
           plugin_achievements: yes
-          plugin_achievements_display: detailed
+          plugin_achievements_display: compact
           plugin_achievements_threshold: X 
           plugin_notable: yes
           plugin_notable_indepth: yes
@@ -49,5 +49,4 @@ jobs:
           plugin_music_mode: recent
           plugin_music_provider: spotify
           plugin_music_user: nairolf32
-          
           
