@@ -24,6 +24,8 @@ jobs:
           plugin_habits_facts: yes         
       - uses: lowlighter/metrics@latest
         with:
+          token: ${{ secrets.NAIROLF32_METRICS }}
+          config_timezone: Africa/Porto-Novo        
           filename: github-metrics-badges.svg
           base: ""
           plugin_achievements: yes
@@ -34,6 +36,8 @@ jobs:
           plugin_notable_repositories: yes  
       - uses: lowlighter/metrics@latest
         with:
+          token: ${{ secrets.NAIROLF32_METRICS }}
+          config_timezone: Africa/Porto-Novo        
           filename: github-metrics-social.svg
           base: ""
           plugin_anilist: yes
