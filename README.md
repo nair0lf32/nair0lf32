@@ -57,4 +57,3 @@ May you find something you like.
 [<img src='https://www.vectorlogo.zone/logos/codepen/codepen-icon.svg' alt='codepen' height='30'>](https://codepen.io/nair0lf32/)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@6.10.0/icons/hackerrank.svg' alt='hackerrank' height='30'>](https://www.hackerrank.com/nair0lf32)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@6.10.0/icons/freecodecamp.svg' alt='freecodecamp' height='30'>](https://www.freecodecamp.org/nairolf)
-
