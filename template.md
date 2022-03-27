@@ -3,27 +3,38 @@
   
 ##  That med student from 🇧🇯 who also codes (somehow)  
 
-I am a  web/mobile developper wannabe with a good grasp of javascript, php, python, java/kotlin.
-Looking forward to learn dart/flutter, Go and a bit of cybersecurity. 
-I love learning new things (too much). I am a self learner trying to someday contribute to the 
-development of solid solutions for some world's major problems (Healthcare sector mostly).
+I am a  web/mobile developper **wannabe** with a good grasp of javascript, php, python, java/kotlin.
+Looking forward to learn dart/flutter, Go and also a bit of cybersecurity.
+I love learning new things (geez, alot!). I am a self-learner trying to someday contribute to the development
+of solid solutions for some world's major problems (Healthcare sector mostly).
 Welcome to my personal GitHub. Here I put my spaghetti code and stuff. 
 May you find something you like. 
 
 (I also happen to enjoy CTFs, videogames and silly memes)    
   
-## Here are my terrible stats/metrics:  
+## About my rookie numbers:  
 
-I joined GitHub on *{{ f.date(REGISTRATION_DATE, {date:true}) }}*.
-I contributed to *{{ REPOSITORIES_CONTRIBUTED_TO }}* repositories and made *{{ COMMITS }}* commits.
+I joined GitHub on 📆 **{{ f.date(REGISTRATION_DATE, {date:true}) }}**.
+It's been **{{ REGISTERED_YEARS }}** now and so far, I contributed to **{{ REPOSITORIES_CONTRIBUTED_TO }}** repositories and made **{{ COMMITS }}** commits
+(**{{ COMMITS_PUBLIC }}** are public and **{{ COMMITS_PRIVATE }}** belong to the shadows). I am member of **{{ ORGANIZATIONS }}** organizations.
+I made **{{ PULL_REQUESTS }}** pull requests and involved myself into **{{ ISSUES }}** issues.
+I am following **{{ FOLLOWING }}** great, amazing, and very inspiring coders and got **{{ FOLLOWERS }}** super-cool ones behind me, to which I am very thankful.
+I own **{{ REPOSITORIES }}** repositories with ⭐ **{{ STARGAZERS }}** stargazers. I starred **{{ STARRED }}** repositories myself 
+Currently in **{{ LOCATION }}**, I am learning and working on new things daily, using my favorite coding languages:
 
 <%- await embed(`nairolf-languages`, {languages:true, languages_details:"lines, percentage, bytes-size", languages_indepth:true}) %>
 
-## Not much but honest work:
+## My "not much but honest" work:
 
+<%- await embed(`nairolf-contributions`, {notable:true, notable-indepth:true, notable-repositories:true}) %>
+
+<%- await embed(`nairolf-achievements`, {achievements:true, achievements-display:"detailed", achievements-treshold:"X"}) %>
 
 ## Cool stuff I vibe on:
 
+<%- await embed(`nairolf-music`, {music:true, music-token:${{ secrets.SPOTIFY_SECRET }}, music-mode:"recent", music-played_at:true, music-provider:"spotify", music-user:"nairolf32"}) %>
+
+<%- await embed(`nairolf-anilist`, {anilist:true, anilist-user:"nairolf32", anilist-media:"anime,manga", anilist-sections:"favorites, characters"}) %>
 
 
 ## [Wrapped!](https://nair0lf32.wrapped.run)
