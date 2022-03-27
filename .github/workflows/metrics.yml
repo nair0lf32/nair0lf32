@@ -16,7 +16,7 @@ jobs:
           config_timezone: Africa/Porto-Novo
           template: markdown
           markdown: >-
-            https://github.com/nair0lf32/nair0lf32/blob/main/template.md
+            template.md
           filename: test.md
           config_output: markdown
           base: header, activity, community, repositories, metadata
