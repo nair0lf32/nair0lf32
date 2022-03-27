@@ -14,7 +14,11 @@ jobs:
         with:
           token: ${{ secrets.NAIROLF32_METRICS }}
           config_timezone: Africa/Porto-Novo
-          filename: github-metrics-core.svg
+          template: markdown
+          markdown: >-
+            https://github.com/nair0lf32/nair0lf32/blob/main/template.md
+          filename: test.md
+          config_output: markdown
           base: header, activity, community, repositories, metadata
           plugin_lines: yes
           plugin_languages: yes
@@ -22,24 +26,14 @@ jobs:
           plugin_languages_details: bytes-size, percentage, lines
           plugin_habits: yes
           plugin_habits_facts: yes         
-      - uses: lowlighter/metrics@latest
-        with:
-          token: ${{ secrets.NAIROLF32_METRICS }}
-          config_timezone: Africa/Porto-Novo        
-          filename: github-metrics-badges.svg
-          base: ""
+
           plugin_achievements: yes
           plugin_achievements_display: compact
           plugin_achievements_threshold: X 
           plugin_notable: yes
           plugin_notable_indepth: yes
           plugin_notable_repositories: yes  
-      - uses: lowlighter/metrics@latest
-        with:
-          token: ${{ secrets.NAIROLF32_METRICS }}
-          config_timezone: Africa/Porto-Novo        
-          filename: github-metrics-social.svg
-          base: ""
+
           plugin_anilist: yes
           plugin_anilist_user: nairolf32
           plugin_anilist_medias: anime, manga
