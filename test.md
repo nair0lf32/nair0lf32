@@ -14,15 +14,17 @@ May you find something you like.
   
 ## Here are my terrible stats/metrics:  
 
-![GitHub metrics](/github-metrics-core.svg) 
+I joined GitHub on *5 Jan 2018*.
+I contributed to *66* repositories and made *1790* commits.
+
+<img src="https://github.com/nair0lf32/nair0lf32/blob/main/.cache/nairolf-languages.svg">
 
 ## Not much but honest work:
 
-![GitHub metrics](/github-metrics-badges.svg) 
 
 ## Cool stuff I vibe on:
 
-![GitHub metrics](/github-metrics-social.svg) 
+
 
 ## [Wrapped!](https://nair0lf32.wrapped.run)
 
