@@ -17,19 +17,19 @@ jobs:
           template: markdown
           markdown: >-
             template.md
-          filename: test.md
+          filename: README.md
           config_output: markdown
+          markdown_cache: .cache
           base: header, activity, community, repositories, metadata
-          plugin_lines: yes
+          
           plugin_languages: yes
           plugin_languages_indepth: yes
-          plugin_languages_details: bytes-size, percentage, lines
-          plugin_habits: yes
-          plugin_habits_facts: yes         
+          plugin_languages_details: bytes-size, percentage, lines       
 
           plugin_achievements: yes
-          plugin_achievements_display: compact
-          plugin_achievements_threshold: X 
+          plugin_achievements_display: detailed
+          plugin_achievements_threshold: X
+          
           plugin_notable: yes
           plugin_notable_indepth: yes
           plugin_notable_repositories: yes  
@@ -38,6 +38,7 @@ jobs:
           plugin_anilist_user: nairolf32
           plugin_anilist_medias: anime, manga
           plugin_anilist_sections: favorites, characters
+          
           plugin_music: yes
           plugin_music_token: ${{ secrets.SPOTIFY_SECRET }}
           plugin_music_mode: recent
