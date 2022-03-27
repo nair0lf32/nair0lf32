@@ -14,15 +14,17 @@ May you find something you like.
   
 ## Here are my terrible stats/metrics:  
 
-![GitHub metrics](/github-metrics-core.svg) 
+I joined GitHub on *{{ f.date(REGISTRATION_DATE, {date:true}) }}*.
+I contributed to *{{ REPOSITORIES_CONTRIBUTED_TO }}* repositories and made *{{ COMMITS }}* commits.
+
+<%- await embed(`nairolf-languages`, {languages:true, languages_details:"lines, percentage, bytes-size", languages_indepth:true}) %>
 
 ## Not much but honest work:
 
-![GitHub metrics](/github-metrics-badges.svg) 
 
 ## Cool stuff I vibe on:
 
-![GitHub metrics](/github-metrics-social.svg) 
+
 
 ## [Wrapped!](https://nair0lf32.wrapped.run)
 
