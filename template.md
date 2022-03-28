@@ -18,7 +18,7 @@ May you find something you like.
 - I made **{{ PULL_REQUESTS }}** pull requests and involved myself into **{{ ISSUES }}** issues.
 - I am 🚶‍♂️ following **{{ FOLLOWING }}** great and very inspiring coders and got **{{ FOLLOWERS }}** super-cool ones behind me, to which I am very thankful 💛.
 - I own **{{ REPOSITORIES }}** repositories with ⭐ **{{ STARGAZERS }}** stargazers. I starred **{{ STARRED }}** repositories myself. 
-- I am Currently in 🌍 **{{ LOCATION }}**, learning and working on new things daily, using my favorite coding languages:
+- I am Currently in 🌍 **{{ LOCATION }}**, learning and working on new things daily, using these coding languages:
 
 <%- await embed(`nairolf-languages`, {languages:true, languages_details:"lines, percentage, bytes-size", languages_indepth:true}) %>
 
@@ -34,7 +34,7 @@ May you find something you like.
 
 ## Cool stuff I vibe on:
 
-### My music (my taste is better than yours, it's not debatable)🎵
+### My music 🎵
 
 <%- await embed(`nairolf-music`, {music:true, music_token:"${{ secrets.SPOTIFY_SECRET }}", music_mode:"recent", music_played_at:true, music_provider:"spotify", music_user:"nairolf32"}) %>
 
