@@ -1,7 +1,6 @@
-
 # Hi 👾, I'm Florian EDEMESSI <img width="50" height="50" src="/sm_logo.png">  
   
-##  That med student from 🇧🇯 who also codes (somehow)  
+##  That med student from 🇧🇯 who also codes (somehow) 
 
 I am a  web/mobile developper **wannabe** with a good grasp of javascript, php, python, java/kotlin.
 Looking forward to learn dart/flutter, Go and also a bit of cybersecurity.
@@ -14,30 +13,36 @@ May you find something you like.
   
 ## About my rookie numbers:  
 
-I joined GitHub on 📆 **{{ f.date(REGISTRATION_DATE, {date:true}) }}**.
-It's been **{{ Math.round(REGISTERED_YEARS) }}** years now and so far, I contributed to **{{ REPOSITORIES_CONTRIBUTED_TO }}** repositories and made **{{ COMMITS }}** commits
-(**{{ COMMITS_PUBLIC }}** are public and **{{ COMMITS_PRIVATE }}** belong to the shadows). I am member of **{{ ORGANIZATIONS }}** organizations.
-I made **{{ PULL_REQUESTS }}** pull requests and involved myself into **{{ ISSUES }}** issues.
-I am following **{{ FOLLOWING }}** great, amazing, and very inspiring coders and got **{{ FOLLOWERS }}** super-cool ones behind me, to which I am very thankful.
-I own **{{ REPOSITORIES }}** repositories with ⭐ **{{ STARGAZERS }}** stargazers. I starred **{{ STARRED }}** repositories myself 
-Currently in **{{ LOCATION }}**, I am learning and working on new things daily, using my favorite coding languages:
+- I joined GitHub on 📆 **{{ f.date(REGISTRATION_DATE, {date:true}) }}**.
+- It's been ⏳ **{{ Math.round(REGISTERED_YEARS) }}** years now and so far, I contributed to **{{ REPOSITORIES_CONTRIBUTED_TO }}** repositories, made **{{ COMMITS }}** commits, and joined **{{ ORGANIZATIONS }}** organizations 💼.
+- I made **{{ PULL_REQUESTS }}** pull requests and involved myself into **{{ ISSUES }}** issues.
+- I am 🚶‍♂️ following **{{ FOLLOWING }}** great and very inspiring coders and got **{{ FOLLOWERS }}** super-cool ones behind me, to which I am very thankful 💛.
+- I own **{{ REPOSITORIES }}** repositories with ⭐ **{{ STARGAZERS }}** stargazers. I starred **{{ STARRED }}** repositories myself. 
+- I am Currently in 🌍 **{{ LOCATION }}**, learning and working on new things daily, using my favorite coding languages:
 
 <%- await embed(`nairolf-languages`, {languages:true, languages_details:"lines, percentage, bytes-size", languages_indepth:true}) %>
 
 ## My "not much but honest" work:
 
+### Contributions 🤝
+
 <%- await embed(`nairolf-contributions`, {notable:true, notable_indepth:true, notable_repositories:true}) %>
+
+### Achievements 🥇
 
 <%- await embed(`nairolf-achievements`, {achievements:true, achievements_display:"detailed", achievements_treshold:"X"}) %>
 
 ## Cool stuff I vibe on:
 
+### My music (my taste is better than yours, it's not debatable)🎵
+
 <%- await embed(`nairolf-music`, {music:true, music_token:"${{ secrets.SPOTIFY_SECRET }}", music_mode:"recent", music_played_at:true, music_provider:"spotify", music_user:"nairolf32"}) %>
+
+### My decent amount of weeb 🏯
 
 <%- await embed(`nairolf-anilist`, {anilist:true, anilist_user:"nairolf32", anilist_media:"anime,manga", anilist_sections:"favorites, characters"}) %>
 
-
-## [Wrapped!](https://nair0lf32.wrapped.run)
+#### [Wrapped!](https://nair0lf32.wrapped.run)
 
 ## Languages and tools I use:
 
