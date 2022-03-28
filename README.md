@@ -15,11 +15,11 @@ May you find something you like.
 ## About my rookie numbers:  
 
 I joined GitHub on 📆 **5 Jan 2018**.
-It's been **01/01/1970** years now and so far, I contributed to **66** repositories and made **1796** commits
-(**1796** are public and **0** belong to the shadows). I am member of **0** organizations.
+It's been **4** years now and so far, I contributed to **66** repositories and made **1798** commits
+(**1798** are public and **0** belong to the shadows). I am member of **0** organizations.
 I made **25** pull requests and involved myself into **4** issues.
 I am following **37** great, amazing, and very inspiring coders and got **62** super-cool ones behind me, to which I am very thankful.
-I own **65** repositories with ⭐ **13** stargazers. I starred **327** repositories myself 
+I own **65** repositories with ⭐ **13** stargazers. I starred **328** repositories myself 
 Currently in **Benin, Cotonou**, I am learning and working on new things daily, using my favorite coding languages:
 
 <img src="https://github.com/nair0lf32/nair0lf32/blob/main/.cache/nairolf-languages.svg">
