@@ -26,15 +26,15 @@ Currently in **{{ LOCATION }}**, I am learning and working on new things daily, 
 
 ## My "not much but honest" work:
 
-<%- await embed(`nairolf-contributions`, {notable:true, notable-indepth:true, notable-repositories:true}) %>
+<%- await embed(`nairolf-contributions`, {notable:true, notable_indepth:true, notable_repositories:true}) %>
 
-<%- await embed(`nairolf-achievements`, {achievements:true, achievements-display:"detailed", achievements-treshold:"X"}) %>
+<%- await embed(`nairolf-achievements`, {achievements:true, achievements_display:"detailed", achievements_treshold:"X"}) %>
 
 ## Cool stuff I vibe on:
 
-<%- await embed(`nairolf-music`, {music:true, music-token:${{ secrets.SPOTIFY_SECRET }}, music-mode:"recent", music-played_at:true, music-provider:"spotify", music-user:"nairolf32"}) %>
+<%- await embed(`nairolf-music`, {music:true, music_token:${{ secrets.SPOTIFY_SECRET }}, music_mode:"recent", music_played_at:true, music_provider:"spotify", music_user:"nairolf32"}) %>
 
-<%- await embed(`nairolf-anilist`, {anilist:true, anilist-user:"nairolf32", anilist-media:"anime,manga", anilist-sections:"favorites, characters"}) %>
+<%- await embed(`nairolf-anilist`, {anilist:true, anilist_user:"nairolf32", anilist_media:"anime,manga", anilist_sections:"favorites, characters"}) %>
 
 
 ## [Wrapped!](https://nair0lf32.wrapped.run)
