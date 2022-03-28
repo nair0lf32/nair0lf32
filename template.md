@@ -32,7 +32,7 @@ Currently in **{{ LOCATION }}**, I am learning and working on new things daily, 
 
 ## Cool stuff I vibe on:
 
-<%- await embed(`nairolf-music`, {music:true, music_token:${{ secrets.SPOTIFY_SECRET }}, music_mode:"recent", music_played_at:true, music_provider:"spotify", music_user:"nairolf32"}) %>
+<%- await embed(`nairolf-music`, {music:true, music_token:"${{ secrets.SPOTIFY_SECRET }}", music_mode:"recent", music_played_at:true, music_provider:"spotify", music_user:"nairolf32"}) %>
 
 <%- await embed(`nairolf-anilist`, {anilist:true, anilist_user:"nairolf32", anilist_media:"anime,manga", anilist_sections:"favorites, characters"}) %>
 
