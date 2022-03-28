@@ -15,7 +15,7 @@ May you find something you like.
 ## About my rookie numbers:  
 
 I joined GitHub on 📆 **{{ f.date(REGISTRATION_DATE, {date:true}) }}**.
-It's been **{{ REGISTERED_YEARS }}** now and so far, I contributed to **{{ REPOSITORIES_CONTRIBUTED_TO }}** repositories and made **{{ COMMITS }}** commits
+It's been **{{ f.date(REGISTERED_YEARS, {years:true}) }}** years now and so far, I contributed to **{{ REPOSITORIES_CONTRIBUTED_TO }}** repositories and made **{{ COMMITS }}** commits
 (**{{ COMMITS_PUBLIC }}** are public and **{{ COMMITS_PRIVATE }}** belong to the shadows). I am member of **{{ ORGANIZATIONS }}** organizations.
 I made **{{ PULL_REQUESTS }}** pull requests and involved myself into **{{ ISSUES }}** issues.
 I am following **{{ FOLLOWING }}** great, amazing, and very inspiring coders and got **{{ FOLLOWERS }}** super-cool ones behind me, to which I am very thankful.
