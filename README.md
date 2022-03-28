@@ -1,7 +1,6 @@
-
 # Hi 👾, I'm Florian EDEMESSI <img width="50" height="50" src="/sm_logo.png">  
   
-##  That med student from 🇧🇯 who also codes (somehow)  
+##  That med student from 🇧🇯 who also codes (somehow) 
 
 I am a  web/mobile developper **wannabe** with a good grasp of javascript, php, python, java/kotlin.
 Looking forward to learn dart/flutter, Go and also a bit of cybersecurity.
@@ -14,30 +13,36 @@ May you find something you like.
   
 ## About my rookie numbers:  
 
-I joined GitHub on 📆 **5 Jan 2018**.
-It's been **4** years now and so far, I contributed to **66** repositories and made **1798** commits
-(**1798** are public and **0** belong to the shadows). I am member of **0** organizations.
-I made **25** pull requests and involved myself into **4** issues.
-I am following **37** great, amazing, and very inspiring coders and got **62** super-cool ones behind me, to which I am very thankful.
-I own **65** repositories with ⭐ **13** stargazers. I starred **328** repositories myself 
-Currently in **Benin, Cotonou**, I am learning and working on new things daily, using my favorite coding languages:
+- I joined GitHub on 📆 **5 Jan 2018**.
+- It's been ⏳ **4** years now and so far, I contributed to **66** repositories, made **1799** commits, and joined **0** organizations 💼.
+- I made **25** pull requests and involved myself into **4** issues.
+- I am 🚶‍♂️ following **38** great and very inspiring coders and got **62** super-cool ones behind me, to which I am very thankful 💛.
+- I own **65** repositories with ⭐ **13** stargazers. I starred **328** repositories myself. 
+- I am Currently in 🌍 **Benin, Cotonou**, learning and working on new things daily, using my favorite coding languages:
 
 <img src="https://github.com/nair0lf32/nair0lf32/blob/main/.cache/nairolf-languages.svg">
 
 ## My "not much but honest" work:
 
+### Contributions 🤝
+
 <img src="https://github.com/nair0lf32/nair0lf32/blob/main/.cache/nairolf-contributions.svg">
+
+### Achievements 🥇
 
 <img src="https://github.com/nair0lf32/nair0lf32/blob/main/.cache/nairolf-achievements.svg">
 
 ## Cool stuff I vibe on:
 
+### My music (my taste is better than yours, it's not debatable)🎵
+
 <img src="https://github.com/nair0lf32/nair0lf32/blob/main/.cache/nairolf-music.svg">
+
+### My decent amount of weeb 🏯
 
 <img src="https://github.com/nair0lf32/nair0lf32/blob/main/.cache/nairolf-anilist.svg">
 
-
-## [Wrapped!](https://nair0lf32.wrapped.run)
+#### [Wrapped!](https://nair0lf32.wrapped.run)
 
 ## Languages and tools I use:
 
