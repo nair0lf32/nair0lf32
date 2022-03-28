@@ -3,26 +3,39 @@
   
 ##  That med student from 🇧🇯 who also codes (somehow)  
 
-I am a  web/mobile developper wannabe with a good grasp of javascript, php, python, java/kotlin.
-Looking forward to learn dart/flutter, Go and a bit of cybersecurity. 
-I love learning new things (too much). I am a self learner trying to someday contribute to the 
-development of solid solutions for some world's major problems (Healthcare sector mostly).
+I am a  web/mobile developper **wannabe** with a good grasp of javascript, php, python, java/kotlin.
+Looking forward to learn dart/flutter, Go and also a bit of cybersecurity.
+I love learning new things (geez, alot!). I am a self-learner trying to someday contribute to the development
+of solid solutions for some world's major problems (Healthcare sector mostly).
 Welcome to my personal GitHub. Here I put my spaghetti code and stuff. 
 May you find something you like. 
 
 (I also happen to enjoy CTFs, videogames and silly memes)    
   
-## Here are my terrible stats/metrics:  
+## About my rookie numbers:  
 
-![GitHub metrics](/github-metrics-core.svg) 
+I joined GitHub on 📆 **5 Jan 2018**.
+It's been **4.060232717316906** now and so far, I contributed to **66** repositories and made **1796** commits
+(**1796** are public and **0** belong to the shadows). I am member of **0** organizations.
+I made **25** pull requests and involved myself into **4** issues.
+I am following **37** great, amazing, and very inspiring coders and got **62** super-cool ones behind me, to which I am very thankful.
+I own **65** repositories with ⭐ **13** stargazers. I starred **327** repositories myself 
+Currently in **Benin, Cotonou**, I am learning and working on new things daily, using my favorite coding languages:
 
-## Not much but honest work:
+<img src="https://github.com/nair0lf32/nair0lf32/blob/main/.cache/nairolf-languages.svg">
 
-![GitHub metrics](/github-metrics-badges.svg) 
+## My "not much but honest" work:
+
+<img src="https://github.com/nair0lf32/nair0lf32/blob/main/.cache/nairolf-contributions.svg">
+
+<img src="https://github.com/nair0lf32/nair0lf32/blob/main/.cache/nairolf-achievements.svg">
 
 ## Cool stuff I vibe on:
 
-![GitHub metrics](/github-metrics-social.svg) 
+<img src="https://github.com/nair0lf32/nair0lf32/blob/main/.cache/nairolf-music.svg">
+
+<img src="https://github.com/nair0lf32/nair0lf32/blob/main/.cache/nairolf-anilist.svg">
+
 
 ## [Wrapped!](https://nair0lf32.wrapped.run)
 
