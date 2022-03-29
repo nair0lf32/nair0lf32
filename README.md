@@ -14,7 +14,7 @@ May you find something you like.
 ## About my rookie numbers:  
 
 - I joined GitHub on 📆 **5 Jan 2018**.
-- It's been ⏳ **4** years now and so far, I contributed to **66** repositories, made **1804** commits, and joined **0** organizations 💼.
+- It's been ⏳ **4** years now and so far, I contributed to **66** repositories, made **1822** commits, and joined **0** organizations 💼.
 - I made **25** pull requests and involved myself into **4** issues.
 - I am 🚶‍♂️ following **34** great and very inspiring coders and got **61** super-cool ones behind me, to which I am very thankful 💛.
 - I own **65** repositories with ⭐ **13** stargazers. I starred **328** repositories myself. 
