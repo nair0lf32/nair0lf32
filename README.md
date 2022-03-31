@@ -14,9 +14,9 @@ May you find something you like.
 ## About my rookie numbers:  
 
 - I joined GitHub on 📆 **5 Jan 2018**.
-- It's been ⏳ **4** years now and so far, I contributed to **67** repositories, made **1850** commits, and joined **0** organizations 💼.
+- It's been ⏳ **4** years now and so far, I contributed to **67** repositories, made **1851** commits, and joined **0** organizations 💼.
 - I made **25** pull requests and involved myself into **4** issues.
-- I am 🚶‍♂️ following **34** great and very inspiring coders and got **61** super-cool ones behind me, to which I am very thankful 💛.
+- I am 🚶‍♂️ following **34** great and very inspiring coders and got **62** super-cool ones behind me, to which I am very thankful 💛.
 - I own **66** repositories with ⭐ **13** stargazers. I starred **331** repositories myself. 
 - I am Currently in 🌍 **Benin, Cotonou**, learning and working on new things daily, using these coding languages:
 
@@ -42,7 +42,7 @@ May you find something you like.
 
 <img src="https://github.com/nair0lf32/nair0lf32/blob/main/.cache/nairolf-anilist.svg">
 
-#### [Wrapped!](https://nair0lf32.wrapped.run)
+#### [Wrapped!](https://nair0lf32.wrapped.run) 
 
 ## Languages and tools I use:
 
@@ -63,13 +63,19 @@ May you find something you like.
   <a href="https://golang.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="30" height="30"/> </a> 
 </p>
 
+## Currently
+
+- Learning: C (from Alx program) 
+- Getting better at: Javascript (with freecodecamp) and Reactjs (openclassrooms)
+- playing: challenges on hackerrank, ctfs on tryhackme, and taking various pluralsight assessments 
+- working on: my public repos projects, no new project yet
+
+
 ## wanna get in touch? you might find me at those places:
  
-[<img src='https://www.vectorlogo.zone/logos/github/github-tile.svg' alt='github' height='30'>](https://github.com/nair0lf32)
-[<img src='https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/florian-edemessi-b29129172/)
+[<img src='https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/florian-edemessi/)
 [<img src='https://www.vectorlogo.zone/logos/hackerone/hackerone-icon.svg' alt='hackerone' height='30'>](https://hackerone.com/nairolf?type=user)
 [<img src='https://www.vectorlogo.zone/logos/facebook/facebook-official.svg' alt='facebook' height='30'>](https://www.facebook.com/FlorianEdemessi)
-[<img src='https://www.vectorlogo.zone/logos/twitter/twitter-official.svg' alt='twitter' height='30'>](https://twitter.com/florianedemessi)
 [<img src='https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg' alt='stackoverflow' height='30'>](https://stackoverflow.com/users/14132197/florian-edemessi) [<img src='https://www.vectorlogo.zone/logos/reddit/reddit-tile.svg' alt='Reddit' height='30'>](https://www.reddit.com/user/florian32edem)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@6.10.0/icons/codesandbox.svg' alt='codesandbox' height='30'>](https://codesandbox.io/u/nairolf32)
 [<img src='https://www.vectorlogo.zone/logos/codepen/codepen-icon.svg' alt='codepen' height='30'>](https://codepen.io/nair0lf32/)
