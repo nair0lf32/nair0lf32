@@ -14,10 +14,10 @@ May you find something you like.
 ## About my rookie numbers:  
 
 - I joined GitHub on 📆 **5 Jan 2018**.
-- It's been ⏳ **4** years now and so far, I contributed to **66** repositories, made **1910** commits, and joined **0** organizations 💼.
+- It's been ⏳ **4** years now and so far, I contributed to **65** repositories, made **1916** commits, and joined **0** organizations 💼.
 - I made **25** pull requests and involved myself into **4** issues.
 - I am 🚶‍♂️ following **34** great and very inspiring coders and got **61** super-cool ones behind me, to which I am very thankful 💛.
-- I own **65** repositories with ⭐ **13** stargazers. I starred **335** repositories myself. 
+- I own **64** repositories with ⭐ **14** stargazers. I starred **338** repositories myself. 
 - I am Currently in 🌍 **Benin, Cotonou**, learning and working on new things daily, using these coding languages:
 
 <img src="https://github.com/nair0lf32/nair0lf32/blob/main/.cache/nairolf-languages.svg">
