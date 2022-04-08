@@ -4,7 +4,7 @@
 
 I am a  web/mobile developper **wannabe** with a good grasp of javascript, php, python, java/kotlin.
 Looking forward to learn dart/flutter, Go and also a bit of cybersecurity.
-I love learning new things (geez, alot!). I am a self-learner trying to someday contribute to the development
+I love learning new things (a bit too much). I am a self-learner trying to someday contribute to the development
 of solid solutions for some world's major problems (Healthcare sector mostly).
 Welcome to my personal GitHub. Here I put my spaghetti code and stuff. 
 May you find something you like. 
@@ -13,12 +13,19 @@ May you find something you like.
   
 ## About my rookie numbers:  
 
-- I joined GitHub on 📆 **5 Jan 2018**.
-- It's been ⏳ **4** years now and so far, I contributed to **63** repositories, made **1928** commits, and joined **0** organizations 💼.
-- I made **25** pull requests and involved myself into **4** issues.
-- I am 🚶‍♂️ following **34** great and very inspiring coders and got **61** super-cool ones behind me, to which I am very thankful 💛.
-- I own **62** repositories with ⭐ **14** stargazers. I starred **342** repositories myself. 
-- I am Currently in 🌍 **Benin, Cotonou**, learning and working on new things daily, using these coding languages:
+I joined GitHub on 📆 **5 Jan 2018**, **4** years ago, and
+so far:
+
+- I Contributed to **63** repositories
+- Created **62** repositories with ⭐ **14** stargazers.
+- Starred **342** repositories myself.
+- Made **1929** commits
+- Joined **0** organizations 💼.
+- Made **25** pull requests 
+- Involved myself into **4** issues.
+
+I am 🚶‍♂️ following **34** great inspiring coders and got **61** great ones behind me, to which I am very thankful 💛.
+I am Currently learning and working on new things daily, using these coding languages:
 
 <img src="https://github.com/nair0lf32/nair0lf32/blob/main/.cache/nairolf-languages.svg">
 
@@ -34,13 +41,10 @@ May you find something you like.
 
 ## Cool stuff I vibe on:
 
-### My music 🎵
+| My music 🎵 | My decent amount of weeb 🏯  |
+| ----------- | --------------------------   |
+| <img src="https://github.com/nair0lf32/nair0lf32/blob/main/.cache/nairolf-music.svg"> | <img src="https://github.com/nair0lf32/nair0lf32/blob/main/.cache/nairolf-anilist.svg"> |
 
-<img src="https://github.com/nair0lf32/nair0lf32/blob/main/.cache/nairolf-music.svg">
-
-### My decent amount of weeb 🏯
-
-<img src="https://github.com/nair0lf32/nair0lf32/blob/main/.cache/nairolf-anilist.svg">
 
 #### [Wrapped!](https://nair0lf32.wrapped.run) 
 
@@ -63,22 +67,26 @@ May you find something you like.
   <a href="https://golang.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="30" height="30"/> </a> 
 </p>
 
-## Currently
-
-- Learning: C (from Alx program) 
-- Getting better at: Javascript (with freecodecamp) and Reactjs (openclassrooms)
-- playing: challenges on hackerrank, ctfs on tryhackme, and taking various pluralsight assessments 
-- working on: my public repos projects, no new project yet
-
-
 ## wanna get in touch? you might find me at those places:
- 
+
 [<img src='https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/florian-edemessi/)
-[<img src='https://www.vectorlogo.zone/logos/hackerone/hackerone-icon.svg' alt='hackerone' height='30'>](https://hackerone.com/nairolf?type=user)
 [<img src='https://www.vectorlogo.zone/logos/facebook/facebook-official.svg' alt='facebook' height='30'>](https://www.facebook.com/FlorianEdemessi)
 [<img src='https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg' alt='stackoverflow' height='30'>](https://stackoverflow.com/users/14132197/florian-edemessi) [<img src='https://www.vectorlogo.zone/logos/reddit/reddit-tile.svg' alt='Reddit' height='30'>](https://www.reddit.com/user/florian32edem)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@6.10.0/icons/codesandbox.svg' alt='codesandbox' height='30'>](https://codesandbox.io/u/nairolf32)
-[<img src='https://www.vectorlogo.zone/logos/codepen/codepen-icon.svg' alt='codepen' height='30'>](https://codepen.io/nair0lf32/)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@6.10.0/icons/hackerrank.svg' alt='hackerrank' height='30'>](https://www.hackerrank.com/nair0lf32)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@6.10.0/icons/freecodecamp.svg' alt='freecodecamp' height='30'>](https://www.freecodecamp.org/nairolf)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@6.10.0/icons/google.svg' alt='google' height='30'>](https://g.dev/nair0lf32)
+
+- Where I learn:
+  - [Alx](https://www.alxafrica.com/)
+  - [Openclassrooms](https://openclassrooms.com/) (french platform)
+  - [Freecodecamp](https://www.freecodecamp.org/nairolf) (you know this one)
+  - [Pluralsight](https://app.pluralsight.com/profile/florian-edemessi)
+  - [Google](https://g.dev/nair0lf32) (I mean...they also have codelabs)
+- Where I practice and play (or just fool around):
+  - [Codepen](https://codepen.io/nair0lf32/) (you used this one)
+  - [codesandbox](https://codesandbox.io/u/nairolf32)
+  - [onecompiler](https://onecompiler.com)
+  - [Hackerrank](https://www.hackerrank.com/nair0lf32) (:laughing:I suck hard)
+  - [Codewars](https://www.codewars.com/users/nair0lf32) (the dojo)
+  - [sololearn](https://www.sololearn.com/profile/4507307/?ref=app) (on the go)
+- Where I take myself for a hacker:
+  - [hackerone](https://hackerone.com/nairolf?type=user) (not yet)
+  - Various ctf places in my [ctf-writeups](https://github.com/nair0lf32/ctfs-writeups) repository
+
