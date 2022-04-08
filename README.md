@@ -19,36 +19,16 @@ so far:
 - I Contributed to **63** repositories
 - Created **62** repositories with ⭐ **14** stargazers.
 - Starred **342** repositories myself.
-- Made **1929** commits
+- Made **1930** commits
 - Joined **0** organizations 💼.
 - Made **25** pull requests 
 - Involved myself into **4** issues.
 
 I am 🚶‍♂️ following **34** great inspiring coders and got **61** great ones behind me, to which I am very thankful 💛.
-I am Currently learning and working on new things daily, using these coding languages:
+I am Currently learning and working on new things daily, using these coding languages and tools:
 
 <img src="https://github.com/nair0lf32/nair0lf32/blob/main/.cache/nairolf-languages.svg">
 
-## My "not much but honest" work:
-
-### Contributions 🤝
-
-<img src="https://github.com/nair0lf32/nair0lf32/blob/main/.cache/nairolf-contributions.svg">
-
-### Achievements 🥇
-
-<img src="https://github.com/nair0lf32/nair0lf32/blob/main/.cache/nairolf-achievements.svg">
-
-## Cool stuff I vibe on:
-
-| My music 🎵 | My decent amount of weeb 🏯  |
-| ----------- | --------------------------   |
-| <img src="https://github.com/nair0lf32/nair0lf32/blob/main/.cache/nairolf-music.svg"> | <img src="https://github.com/nair0lf32/nair0lf32/blob/main/.cache/nairolf-anilist.svg"> |
-
-
-#### [Wrapped!](https://nair0lf32.wrapped.run) 
-
-## Languages and tools I use:
 
 <p align="left">
    <a href="https://www.linux.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="30" height="30"/> </a> 
@@ -67,26 +47,52 @@ I am Currently learning and working on new things daily, using these coding lang
   <a href="https://golang.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="30" height="30"/> </a> 
 </p>
 
+## My "not much but honest" work:
+
+### Achievements 🥇
+
+<img src="https://github.com/nair0lf32/nair0lf32/blob/main/.cache/nairolf-achievements.svg">
+
+### Contributions 🤝
+
+<img src="https://github.com/nair0lf32/nair0lf32/blob/main/.cache/nairolf-contributions.svg">
+
+
+## Cool stuff I vibe on:
+
+### My decent amount of weeb 🏯 
+
+<img src="https://github.com/nair0lf32/nair0lf32/blob/main/.cache/nairolf-anilist.svg">
+
+### My music 🎵
+
+ <img src="https://github.com/nair0lf32/nair0lf32/blob/main/.cache/nairolf-music.svg">
+
+
 ## wanna get in touch? you might find me at those places:
 
 [<img src='https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/florian-edemessi/)
 [<img src='https://www.vectorlogo.zone/logos/facebook/facebook-official.svg' alt='facebook' height='30'>](https://www.facebook.com/FlorianEdemessi)
 [<img src='https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg' alt='stackoverflow' height='30'>](https://stackoverflow.com/users/14132197/florian-edemessi) [<img src='https://www.vectorlogo.zone/logos/reddit/reddit-tile.svg' alt='Reddit' height='30'>](https://www.reddit.com/user/florian32edem)
 
-- Where I learn:
+- Where I learn 
   - [Alx](https://www.alxafrica.com/)
   - [Openclassrooms](https://openclassrooms.com/) (french platform)
   - [Freecodecamp](https://www.freecodecamp.org/nairolf) (you know this one)
   - [Pluralsight](https://app.pluralsight.com/profile/florian-edemessi)
   - [Google](https://g.dev/nair0lf32) (I mean...they also have codelabs)
-- Where I practice and play (or just fool around):
+ 
+- Where I practice and play (or just fool around)
   - [Codepen](https://codepen.io/nair0lf32/) (you used this one)
   - [codesandbox](https://codesandbox.io/u/nairolf32)
   - [onecompiler](https://onecompiler.com)
-  - [Hackerrank](https://www.hackerrank.com/nair0lf32) (:laughing:I suck hard)
+  - [Hackerrank](https://www.hackerrank.com/nair0lf32) ( :laughing: I am turbo bad )
   - [Codewars](https://www.codewars.com/users/nair0lf32) (the dojo)
   - [sololearn](https://www.sololearn.com/profile/4507307/?ref=app) (on the go)
-- Where I take myself for a hacker:
+  
+- Where I take myself for a hacker
   - [hackerone](https://hackerone.com/nairolf?type=user) (not yet)
   - Various ctf places in my [ctf-writeups](https://github.com/nair0lf32/ctfs-writeups) repository
 
+
+[Wrapped!](https://nair0lf32.wrapped.run) 
