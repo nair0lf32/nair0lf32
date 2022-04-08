@@ -51,7 +51,7 @@ I am Currently learning and working on new things daily, using these coding lang
 
 ### Achievements 🥇
 
-<%- await embed(`nairolf-achievements`, {achievements:true, achievements_display:"detailed", achievements_treshold:"X"}) %>
+<%- await embed(`nairolf-achievements`, {achievements:true, achievements_display:"compact", achievements_treshold:"X"}) %>
 
 ### Contributions 🤝
 
