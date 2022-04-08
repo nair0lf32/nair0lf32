@@ -25,30 +25,10 @@ so far:
 - Involved myself into **{{ ISSUES }}** issues.
 
 I am 🚶‍♂️ following **{{ FOLLOWING }}** great inspiring coders and got **{{ FOLLOWERS }}** great ones behind me, to which I am very thankful 💛.
-I am Currently learning and working on new things daily, using these coding languages:
+I am Currently learning and working on new things daily, using these coding languages and tools:
 
 <%- await embed(`nairolf-languages`, {languages:true, languages_details:"lines, percentage, bytes-size", languages_indepth:true}) %>
 
-## My "not much but honest" work:
-
-### Contributions 🤝
-
-<%- await embed(`nairolf-contributions`, {notable:true, notable_indepth:true, notable_repositories:true}) %>
-
-### Achievements 🥇
-
-<%- await embed(`nairolf-achievements`, {achievements:true, achievements_display:"detailed", achievements_treshold:"X"}) %>
-
-## Cool stuff I vibe on:
-
-| My music 🎵 | My decent amount of weeb 🏯  |
-| ----------- | --------------------------   |
-| <%- await embed(`nairolf-music`, {music:true, music_token:"${{ secrets.SPOTIFY_SECRET }}", music_mode:"recent", music_played_at:true, music_provider:"spotify", music_user:"nairolf32"}) %> | <%- await embed(`nairolf-anilist`, {anilist:true, anilist_user:"nairolf32", anilist_media:"anime,manga", anilist_sections:"favorites, characters"}) %> |
-
-
-#### [Wrapped!](https://nair0lf32.wrapped.run) 
-
-## Languages and tools I use:
 
 <p align="left">
    <a href="https://www.linux.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="30" height="30"/> </a> 
@@ -67,26 +47,52 @@ I am Currently learning and working on new things daily, using these coding lang
   <a href="https://golang.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="30" height="30"/> </a> 
 </p>
 
+## My "not much but honest" work:
+
+### Achievements 🥇
+
+<%- await embed(`nairolf-achievements`, {achievements:true, achievements_display:"detailed", achievements_treshold:"X"}) %>
+
+### Contributions 🤝
+
+<%- await embed(`nairolf-contributions`, {notable:true, notable_indepth:true, notable_repositories:true}) %>
+
+
+## Cool stuff I vibe on:
+
+### My decent amount of weeb 🏯 
+
+<%- await embed(`nairolf-anilist`, {anilist:true, anilist_user:"nairolf32", anilist_media:"anime,manga", anilist_sections:"favorites, characters"}) %>
+
+### My music 🎵
+
+ <%- await embed(`nairolf-music`, {music:true, music_token:"${{ secrets.SPOTIFY_SECRET }}", music_mode:"recent", music_played_at:true, music_provider:"spotify", music_user:"nairolf32"}) %>
+
+
 ## wanna get in touch? you might find me at those places:
 
 [<img src='https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/florian-edemessi/)
 [<img src='https://www.vectorlogo.zone/logos/facebook/facebook-official.svg' alt='facebook' height='30'>](https://www.facebook.com/FlorianEdemessi)
 [<img src='https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg' alt='stackoverflow' height='30'>](https://stackoverflow.com/users/14132197/florian-edemessi) [<img src='https://www.vectorlogo.zone/logos/reddit/reddit-tile.svg' alt='Reddit' height='30'>](https://www.reddit.com/user/florian32edem)
 
-- Where I learn:
+- Where I learn 
   - [Alx](https://www.alxafrica.com/)
   - [Openclassrooms](https://openclassrooms.com/) (french platform)
   - [Freecodecamp](https://www.freecodecamp.org/nairolf) (you know this one)
   - [Pluralsight](https://app.pluralsight.com/profile/florian-edemessi)
   - [Google](https://g.dev/nair0lf32) (I mean...they also have codelabs)
-- Where I practice and play (or just fool around):
+ 
+- Where I practice and play (or just fool around)
   - [Codepen](https://codepen.io/nair0lf32/) (you used this one)
   - [codesandbox](https://codesandbox.io/u/nairolf32)
   - [onecompiler](https://onecompiler.com)
-  - [Hackerrank](https://www.hackerrank.com/nair0lf32) (:laughing:I suck hard)
+  - [Hackerrank](https://www.hackerrank.com/nair0lf32) ( :laughing: I am turbo bad )
   - [Codewars](https://www.codewars.com/users/nair0lf32) (the dojo)
   - [sololearn](https://www.sololearn.com/profile/4507307/?ref=app) (on the go)
-- Where I take myself for a hacker:
+  
+- Where I take myself for a hacker
   - [hackerone](https://hackerone.com/nairolf?type=user) (not yet)
   - Various ctf places in my [ctf-writeups](https://github.com/nair0lf32/ctfs-writeups) repository
 
+
+[Wrapped!](https://nair0lf32.wrapped.run) 
