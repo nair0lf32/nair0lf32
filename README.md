@@ -16,15 +16,15 @@ May you find something you like.
 I joined GitHub on 📆 **5 Jan 2018**, **4** years ago, and
 so far:
 
-- I Contributed to **61** repositories
-- Created **60** repositories with ⭐ **14** stargazers.
+- I Contributed to **59** repositories
+- Created **58** repositories with ⭐ **14** stargazers.
 - Starred **343** repositories myself.
-- Made **1992** commits
+- Made **1993** commits
 - Joined **0** organizations 💼.
 - Made **25** pull requests 
 - Involved myself into **4** issues.
 
-I am 🚶‍♂️ following **34** great inspiring coders and got **63** great ones behind me, to which I am very thankful 💛.
+I am 🚶‍♂️ following **34** great inspiring coders and got **62** great ones behind me, to which I am very thankful 💛.
 I am Currently learning and working on new things daily, using these coding languages and tools:
 
 <img src="https://github.com/nair0lf32/nair0lf32/blob/main/.cache/nairolf-languages.svg">
@@ -85,7 +85,6 @@ I am Currently learning and working on new things daily, using these coding lang
 - Where I practice and play (or just fool around)
   - [Codepen](https://codepen.io/nair0lf32/) (you used this one)
   - [codesandbox](https://codesandbox.io/u/nairolf32)
-  - [onecompiler](https://onecompiler.com)
   - [Hackerrank](https://www.hackerrank.com/nair0lf32) ( :laughing: I am turbo bad )
   - [Codewars](https://www.codewars.com/users/nair0lf32) (the dojo)
   - [sololearn](https://www.sololearn.com/profile/4507307/?ref=app) (on the go)
