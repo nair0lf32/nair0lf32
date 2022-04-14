@@ -19,7 +19,7 @@ so far:
 - I Contributed to **59** repositories
 - Created **58** repositories with ⭐ **14** stargazers.
 - Starred **343** repositories myself.
-- Made **2000** commits
+- Made **2002** commits
 - Joined **0** organizations 💼.
 - Made **25** pull requests 
 - Involved myself into **4** issues.
@@ -28,7 +28,6 @@ I am 🚶‍♂️ following **34** great inspiring coders and got **62** great 
 I am Currently learning and working on new things daily, using these coding languages and tools:
 
 <img src="https://github.com/nair0lf32/nair0lf32/blob/main/.cache/nairolf-languages.svg">
-
 
 <p align="left">
    <a href="https://www.linux.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="30" height="30"/> </a> 
@@ -92,6 +91,5 @@ I am Currently learning and working on new things daily, using these coding lang
 - Where I take myself for a hacker
   - [hackerone](https://hackerone.com/nairolf?type=user) (not yet)
   - Various ctf places in my [ctf-writeups](https://github.com/nair0lf32/ctfs-writeups) repository
-
 
 [Wrapped!](https://nair0lf32.wrapped.run) 
