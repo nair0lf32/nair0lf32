@@ -29,7 +29,6 @@ I am Currently learning and working on new things daily, using these coding lang
 
 <%- await embed(`nairolf-languages`, {languages:true, languages_details:"lines, percentage, bytes-size", languages_indepth:true}) %>
 
-
 <p align="left">
    <a href="https://www.linux.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="30" height="30"/> </a> 
   <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="30" height="30"/> </a> 
@@ -92,6 +91,5 @@ I am Currently learning and working on new things daily, using these coding lang
 - Where I take myself for a hacker
   - [hackerone](https://hackerone.com/nairolf?type=user) (not yet)
   - Various ctf places in my [ctf-writeups](https://github.com/nair0lf32/ctfs-writeups) repository
-
 
 [Wrapped!](https://nair0lf32.wrapped.run) 
