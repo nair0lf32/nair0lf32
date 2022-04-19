@@ -19,12 +19,12 @@ so far:
 - I Contributed to **59** repositories
 - Created **58** repositories with ⭐ **14** stargazers.
 - Starred **345** repositories myself.
-- Made **2018** commits
+- Made **2023** commits
 - Joined **0** organizations 💼.
 - Made **25** pull requests 
 - Involved myself into **4** issues.
 
-I am 🚶‍♂️ following **34** great inspiring coders and got **62** great ones behind me, to which I am very thankful 💛.
+I am 🚶‍♂️ following **34** great inspiring coders and got **63** great ones behind me, to which I am very thankful 💛.
 I am Currently learning and working on new things daily, using these coding languages and tools:
 
 <img src="https://github.com/nair0lf32/nair0lf32/blob/main/.cache/nairolf-languages.svg">
