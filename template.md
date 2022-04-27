@@ -90,6 +90,7 @@ I am Currently learning and working on new things daily, using these coding lang
   
 - Where I take myself for a hacker
   - [hackerone](https://hackerone.com/nairolf?type=user) (not yet)
+  - [Bugcrowd](https://bugcrowd.com/nairolf32)
   - Various ctf places in my [ctf-writeups](https://github.com/nair0lf32/ctfs-writeups) repository
 
 [Wrapped!](https://nair0lf32.wrapped.run) 
