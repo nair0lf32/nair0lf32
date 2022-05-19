@@ -24,7 +24,7 @@ so far:
 - Made **25** pull requests 
 - Involved myself into **4** issues.
 
-I am 🚶‍♂️ following **30** great inspiring coders and got **63** great ones behind me, to which I am very thankful 💛.
+I am 🚶‍♂️ following **30** great inspiring coders and got **64** great ones behind me, to which I am very thankful 💛.
 I am Currently learning and working on new things daily, using these coding languages and tools:
 
 <img src="https://github.com/nair0lf32/nair0lf32/blob/main/.cache/nairolf-languages.svg">
