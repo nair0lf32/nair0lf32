@@ -19,7 +19,7 @@ so far:
 - I Contributed to **61** repositories
 - Created **60** repositories with ⭐ **13** stargazers.
 - Starred **361** repositories myself.
-- Made **2144** commits
+- Made **2111** commits
 - Joined **0** organizations 💼.
 - Made **25** pull requests 
 - Involved myself into **4** issues.
