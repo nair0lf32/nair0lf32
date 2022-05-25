@@ -17,9 +17,9 @@ I joined GitHub on 📆 **5 Jan 2018**, **4** years ago, and
 so far:
 
 - I Contributed to **61** repositories
-- Created **60** repositories with ⭐ **13** stargazers.
+- Created **60** repositories with ⭐ **12** stargazers.
 - Starred **361** repositories myself.
-- Made **2111** commits
+- Made **2049** commits
 - Joined **0** organizations 💼.
 - Made **25** pull requests 
 - Involved myself into **4** issues.
