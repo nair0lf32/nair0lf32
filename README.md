@@ -16,10 +16,10 @@ May you find something you like.
 I joined GitHub on 📆 **5 Jan 2018**, **4** years ago, and
 so far:
 
-- I Contributed to **61** repositories
-- Created **60** repositories with ⭐ **12** stargazers.
-- Starred **362** repositories myself.
-- Made **2161** commits
+- I Contributed to **62** repositories
+- Created **61** repositories with ⭐ **12** stargazers.
+- Starred **366** repositories myself.
+- Made **2207** commits
 - Joined **0** organizations 💼.
 - Made **25** pull requests 
 - Involved myself into **4** issues.
