@@ -14,17 +14,7 @@ May you find something you like.
 ## About my rookie numbers:  
 
 I joined GitHub on 📆 **5 Jan 2018**, **4** years ago, and
-so far:
-
-- I Contributed to **54** repositories
-- Created **53** repositories with ⭐ **12** stargazers.
-- Starred **366** repositories myself.
-- Made **2325** commits
-- Joined **0** organizations 💼.
-- Made **25** pull requests 
-- Involved myself into **4** issues.
-
-I am 🚶‍♂️ following **30** great inspiring coders and got **63** great ones behind me, to which I am very thankful 💛.
+so far, I Contributed to **54** repositories, Created **53** repositories with ⭐ **12** stargazers, Starred **368** repositories myself, Made **2334** commits, Joined **0** organizations 💼, Made **25** pull requests, Involved myself into **4** issues. I am 🚶‍♂️ following **30** great inspiring coders and got **64** great ones behind me, to which I am very thankful 💛.
 I am Currently learning and working on new things daily, using these coding languages and tools:
 
 <img src="https://github.com/nair0lf32/nair0lf32/blob/main/.cache/nairolf-languages.svg">
@@ -48,14 +38,13 @@ I am Currently learning and working on new things daily, using these coding lang
 
 ## My "not much but honest" work:
 
-### Achievements 🥇
-
-<img src="https://github.com/nair0lf32/nair0lf32/blob/main/.cache/nairolf-achievements.svg">
-
 ### Contributions 🤝
 
 <img src="https://github.com/nair0lf32/nair0lf32/blob/main/.cache/nairolf-contributions.svg">
 
+### Achievements 🥇
+
+<img src="https://github.com/nair0lf32/nair0lf32/blob/main/.cache/nairolf-achievements.svg">
 
 ## Cool stuff I vibe on:
 
