@@ -14,17 +14,7 @@ May you find something you like.
 ## About my rookie numbers:  
 
 I joined GitHub on 📆 **{{ f.date(REGISTRATION_DATE, {date:true}) }}**, **{{ Math.round(REGISTERED_YEARS) }}** years ago, and
-so far:
-
-- I Contributed to **{{ REPOSITORIES_CONTRIBUTED_TO }}** repositories
-- Created **{{ REPOSITORIES }}** repositories with ⭐ **{{ STARGAZERS }}** stargazers.
-- Starred **{{ STARRED }}** repositories myself.
-- Made **{{ COMMITS }}** commits
-- Joined **{{ ORGANIZATIONS }}** organizations 💼.
-- Made **{{ PULL_REQUESTS }}** pull requests 
-- Involved myself into **{{ ISSUES }}** issues.
-
-I am 🚶‍♂️ following **{{ FOLLOWING }}** great inspiring coders and got **{{ FOLLOWERS }}** great ones behind me, to which I am very thankful 💛.
+so far, I Contributed to **{{ REPOSITORIES_CONTRIBUTED_TO }}** repositories, Created **{{ REPOSITORIES }}** repositories with ⭐ **{{ STARGAZERS }}** stargazers, Starred **{{ STARRED }}** repositories myself, Made **{{ COMMITS }}** commits, Joined **{{ ORGANIZATIONS }}** organizations 💼, Made **{{ PULL_REQUESTS }}** pull requests, Involved myself into **{{ ISSUES }}** issues. I am 🚶‍♂️ following **{{ FOLLOWING }}** great inspiring coders and got **{{ FOLLOWERS }}** great ones behind me, to which I am very thankful 💛.
 I am Currently learning and working on new things daily, using these coding languages and tools:
 
 <%- await embed(`nairolf-languages`, {languages:true, languages_details:"lines, percentage, bytes-size", languages_indepth:true}) %>
@@ -48,14 +38,13 @@ I am Currently learning and working on new things daily, using these coding lang
 
 ## My "not much but honest" work:
 
-### Achievements 🥇
-
-<%- await embed(`nairolf-achievements`, {achievements:true, achievements_display:"compact", achievements_treshold:"X"}) %>
-
 ### Contributions 🤝
 
 <%- await embed(`nairolf-contributions`, {notable:true, notable_indepth:true, notable_repositories:true}) %>
 
+### Achievements 🥇
+
+<%- await embed(`nairolf-achievements`, {achievements:true, achievements_display:"compact", achievements_treshold:"X"}) %>
 
 ## Cool stuff I vibe on:
 
