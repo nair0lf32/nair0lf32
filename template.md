@@ -56,30 +56,19 @@ I am Currently learning and working on new things daily, using these coding lang
 
  <%- await embed(`nairolf-music`, {music:true, music_token:"${{ secrets.SPOTIFY_SECRET }}", music_mode:"recent", music_played_at:true, music_provider:"spotify", music_user:"nairolf32"}) %>
 
-
 ## wanna get in touch? you might find me at those places:
 
 [<img src='https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/florian-edemessi/)
 [<img src='https://www.vectorlogo.zone/logos/facebook/facebook-official.svg' alt='facebook' height='30'>](https://www.facebook.com/FlorianEdemessi)
 [<img src='https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg' alt='stackoverflow' height='30'>](https://stackoverflow.com/users/14132197/florian-edemessi) [<img src='https://www.vectorlogo.zone/logos/reddit/reddit-tile.svg' alt='Reddit' height='30'>](https://www.reddit.com/user/florian32edem)
 
-- Where I learn 
-  - [Alx](https://www.alxafrica.com/)
-  - [Openclassrooms](https://openclassrooms.com/) (french platform)
-  - [Freecodecamp](https://www.freecodecamp.org/nairolf) (you know this one)
-  - [Pluralsight](https://app.pluralsight.com/profile/florian-edemessi)
-  - [Google](https://g.dev/nair0lf32) (I mean...they also have codelabs)
- 
-- Where I practice and play (or just fool around)
-  - [Codepen](https://codepen.io/nair0lf32/) (you used this one)
-  - [codesandbox](https://codesandbox.io/u/nairolf32)
-  - [Hackerrank](https://www.hackerrank.com/nair0lf32) ( :laughing: I am turbo bad )
-  - [Codewars](https://www.codewars.com/users/nair0lf32) (the dojo)
-  - [sololearn](https://www.sololearn.com/profile/4507307/?ref=app) (on the go)
-  
-- Where I take myself for a hacker
-  - [hackerone](https://hackerone.com/nairolf?type=user) (not yet)
-  - [Bugcrowd](https://bugcrowd.com/nairolf32)
-  - Various ctf places in my [ctf-writeups](https://github.com/nair0lf32/ctfs-writeups) repository
+### Places I learn (mostly), practice, or just play around:
 
-[Wrapped!](https://nair0lf32.wrapped.run) 
+[Alx](https://www.alxafrica.com/), [Openclassrooms](https://openclassrooms.com/) that french platform, [Freecodecamp](https://www.freecodecamp.org/nairolf) (you know this one), [Pluralsight](https://app.pluralsight.com/profile/florian-edemessi), [Google](https://g.dev/nair0lf32) (yes...but they also have codelabs), [Codepen](https://codepen.io/nair0lf32/), [codesandbox](https://codesandbox.io/u/nairolf32), [Hackerrank](https://www.hackerrank.com/nair0lf32) ( :laughing: I am turbo bad ), [Codewars](https://www.codewars.com/users/nair0lf32) and [sololearn](https://www.sololearn.com/profile/4507307/?ref=app) (on the go)
+  
+### Where I take myself for a hacker
+Various ctf places in my [ctf-writeups](https://github.com/nair0lf32/ctfs-writeups) repository
+
+## [Wrapped!](https://nair0lf32.wrapped.run) 
+
+![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder)
