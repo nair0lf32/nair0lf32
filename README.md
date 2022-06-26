@@ -14,7 +14,7 @@ May you find something you like.
 ## About my rookie numbers:  
 
 I joined GitHub on 📆 **5 Jan 2018**, **4** years ago, and
-so far, I Contributed to **57** repositories, Created **57** repositories with ⭐ **12** stargazers, Starred **378** repositories myself, Made **2443** commits, Joined **0** organizations 💼, Made **26** pull requests, Involved myself into **5** issues. I am 🚶‍♂️ following **29** great inspiring coders and got **62** great ones behind me, to which I am very thankful 💛.
+so far, I Contributed to **57** repositories, Created **57** repositories with ⭐ **12** stargazers, Starred **378** repositories myself, Made **2447** commits, Joined **0** organizations 💼, Made **26** pull requests, Involved myself into **5** issues. I am 🚶‍♂️ following **29** great inspiring coders and got **62** great ones behind me, to which I am very thankful 💛.
 I am Currently learning and working on new things daily, using these coding languages and tools:
 
 <img src="https://github.com/nair0lf32/nair0lf32/blob/main/.cache/nairolf-languages.svg">
@@ -64,7 +64,7 @@ I am Currently learning and working on new things daily, using these coding lang
 
 ### Places I learn (mostly), practice, or just play around:
 
-[Alx](https://www.alxafrica.com/), [Openclassrooms](https://openclassrooms.com/) that french platform, [Freecodecamp](https://www.freecodecamp.org/nairolf) (you know this one), [Pluralsight](https://app.pluralsight.com/profile/florian-edemessi), [Google](https://g.dev/nair0lf32) (yes...but they also have codelabs), [Codepen](https://codepen.io/nair0lf32/), [codesandbox](https://codesandbox.io/u/nairolf32), [Hackerrank](https://www.hackerrank.com/nair0lf32) ( :laughing: I am turbo bad ), [Codewars](https://www.codewars.com/users/nair0lf32) and [sololearn](https://www.sololearn.com/profile/4507307/?ref=app) (on the go)
+[Alx](https://www.alxafrica.com/), [Openclassrooms](https://openclassrooms.com/) that french platform, [Freecodecamp](https://www.freecodecamp.org/nairolf) (you know this one), [Pluralsight](https://app.pluralsight.com/profile/florian-edemessi), [Google](https://g.dev/nair0lf32) (yes...but they also have codelabs), [Codepen](https://codepen.io/nair0lf32/), [codesandbox](https://codesandbox.io/u/nairolf32), [Hackerrank](https://www.hackerrank.com/nair0lf32) ( :laughing: I am turbo bad ), [Codewars](https://www.codewars.com/users/nair0lf32), [GFG](https://auth.geeksforgeeks.org/user/nairolf32/profile) and [sololearn](https://www.sololearn.com/profile/4507307/?ref=app) (on the go)
   
 ### Where I take myself for a hacker
 Various ctf places in my [ctf-writeups](https://github.com/nair0lf32/ctfs-writeups) repository
