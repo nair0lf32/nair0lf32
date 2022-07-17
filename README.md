@@ -67,7 +67,8 @@ I am Currently learning and working on new things daily, using these coding lang
 [Alx](https://www.alxafrica.com/), [Openclassrooms](https://openclassrooms.com/) that french platform, [Freecodecamp](https://www.freecodecamp.org/nairolf) (you know this one), [Pluralsight](https://app.pluralsight.com/profile/florian-edemessi), [Google](https://g.dev/nair0lf32) (yes...but they also have codelabs), [Codepen](https://codepen.io/nair0lf32/), [codesandbox](https://codesandbox.io/u/nairolf32), [Hackerrank](https://www.hackerrank.com/nair0lf32) ( :laughing: I am turbo bad ), [Codewars](https://www.codewars.com/users/nair0lf32), [GFG](https://auth.geeksforgeeks.org/user/nairolf32/profile) and [sololearn](https://www.sololearn.com/profile/4507307/?ref=app) (on the go)
   
 ### Where I take myself for a hacker
-Various ctf places in my [ctf-writeups](https://github.com/nair0lf32/ctfs-writeups) repository
+
+Various CTF places listed in my [ctf-writeups](https://github.com/nair0lf32/ctfs-writeups) repository
 
 ## [Wrapped!](https://nair0lf32.wrapped.run) 
 
