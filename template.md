@@ -40,7 +40,7 @@ I am Currently learning and working on new things daily, using these coding lang
 
 ### Contributions 🤝
 
-<%- await embed(`nairolf-contributions`, {notable:true, notable_indepth:true, notable_repositories:true}) %>
+<%- await embed(`nairolf-contributions`, {notable:true, notable_indepth:true, notable_repositories:true,  plugin_notable_from:"all", plugin_notable_types:"commit, pull-request, issue"}) %>
 
 ### Achievements 🥇
 
