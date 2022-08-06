@@ -32,7 +32,9 @@ jobs:
           
           plugin_notable: yes
           plugin_notable_indepth: yes
-          plugin_notable_repositories: yes  
+          plugin_notable_repositories: yes
+          plugin_notable_from: all
+          plugin_notable_types: commit, pull-request, issue
 
           plugin_anilist: yes
           plugin_anilist_user: nairolf32
