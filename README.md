@@ -14,7 +14,7 @@ May you find something you like.
 ## About my rookie numbers:  
 
 I joined GitHub on 📆 **5 Jan 2018**, **4** years ago, and
-so far, I Contributed to **45** repositories, Created **56** repositories with ⭐ **12** stargazers, Starred **384** repositories myself, Made **2695** commits, Joined **0** organizations 💼, Made **11** pull requests, Involved myself into **4** issues. I am 🚶‍♂️ following **29** great inspiring coders and got **66** great ones behind me, to which I am very thankful 💛.
+so far, I Contributed to **45** repositories, Created **56** repositories with ⭐ **12** stargazers, Starred **384** repositories myself, Made **2701** commits, Joined **0** organizations 💼, Made **12** pull requests, Involved myself into **4** issues. I am 🚶‍♂️ following **29** great inspiring coders and got **66** great ones behind me, to which I am very thankful 💛.
 I am Currently learning and working on new things daily, using these coding languages and tools:
 
 <img src="https://github.com/nair0lf32/nair0lf32/blob/main/.cache/nairolf-languages.svg">
