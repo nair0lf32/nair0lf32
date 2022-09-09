@@ -55,7 +55,7 @@ I am Currently learning and working on new things daily, using these coding lang
 
  <img src="https://github.com/nair0lf32/nair0lf32/blob/main/.cache/nairolf-music.svg">
 
-## wanna get in touch? you might find me at those places:
+## wanna get in touch? you might find me around here:
 
 [<img src='https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/florian-edemessi/)
 [<img src='https://www.vectorlogo.zone/logos/facebook/facebook-official.svg' alt='facebook' height='30'>](https://www.facebook.com/FlorianEdemessi)
@@ -65,9 +65,9 @@ I am Currently learning and working on new things daily, using these coding lang
 
 [Alx](https://www.alxafrica.com/), [Openclassrooms](https://openclassrooms.com/) that french platform, [Freecodecamp](https://www.freecodecamp.org/nairolf) (you know this one), [Pluralsight](https://app.pluralsight.com/profile/florian-edemessi), [Google](https://g.dev/nair0lf32) (yes...but they also have codelabs), [Codepen](https://codepen.io/nair0lf32/), [codesandbox](https://codesandbox.io/u/nairolf32), [Hackerrank](https://www.hackerrank.com/nair0lf32) ( :laughing: I am turbo bad ), [Codewars](https://www.codewars.com/users/nair0lf32), [GFG](https://auth.geeksforgeeks.org/user/nairolf32/profile) and [sololearn](https://www.sololearn.com/profile/4507307/?ref=app) (on the go)
   
-### Where I take myself for a hacker
-Various ctf places in my [ctf-writeups](https://github.com/nair0lf32/ctfs-writeups) repository
 
-## [Wrapped!](https://nair0lf32.wrapped.run) 
+I also spend some time playing CTF on various platforms. Check my [ctf-writeups](https://github.com/nair0lf32/ctfs-writeups) repository for more details.
+
+### [Wrapped!](https://nair0lf32.wrapped.run) 
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder)
