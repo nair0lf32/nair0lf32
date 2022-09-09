@@ -21,6 +21,7 @@ jobs:
           config_output: markdown
           markdown_cache: .cache
           base: header, activity, community, repositories, metadata
+          base_indepth: yes
           
           plugin_languages: yes
           plugin_languages_indepth: yes
