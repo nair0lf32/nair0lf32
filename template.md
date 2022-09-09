@@ -2,7 +2,7 @@
   
 ##  That med student from 🇧🇯 who also codes (somehow) 
 
-I am a software engineer **wannabe** with some good grasp of Python, Javascript, PHP, Java/Kotlin and a cybersecurity enthusiast.
+I am a software developer **wannabe** with some good grasp of Python, Javascript, PHP, Java/Kotlin and a cybersecurity enthusiast.
 Looking forward to learn Dart/Flutter, Golang...I love learning new things (a bit too much). 
 I am a self-learner trying to someday contribute to the development of solid solutions for some world's major problems (Healthcare sector mostly).
 Welcome to my personal GitHub. Here I put my terrible spaghetti code and most of my stuff. 
