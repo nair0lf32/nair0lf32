@@ -2,11 +2,10 @@
   
 ##  That med student from 🇧🇯 who also codes (somehow) 
 
-I am a  web/mobile developper **wannabe** with a good grasp of javascript, php, python, java/kotlin.
-Looking forward to learn dart/flutter, Go and also a bit of cybersecurity.
-I love learning new things (a bit too much). I am a self-learner trying to someday contribute to the development
-of solid solutions for some world's major problems (Healthcare sector mostly).
-Welcome to my personal GitHub. Here I put my spaghetti code and stuff. 
+I am a software developer **wannabe** with some good grasp of Python, Javascript, PHP, Java/Kotlin and a cybersecurity enthusiast.
+Looking forward to learn Dart/Flutter, Golang...I love learning new things (a bit too much). 
+I am a self-learner trying to someday contribute to the development of solid solutions for some world's major problems (Healthcare sector mostly).
+Welcome to my personal GitHub. Here I put my terrible spaghetti code and most of my stuff. 
 May you find something you like. 
 
 (I also happen to enjoy CTFs, videogames and silly memes)    
