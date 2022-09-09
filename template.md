@@ -63,7 +63,7 @@ I am Currently learning and working on new things daily, using these coding lang
 
 ### Places I learn (mostly), practice, or just play around:
 
-[Alx](https://www.alxafrica.com/), [Openclassrooms](https://openclassrooms.com/) that french platform, [Freecodecamp](https://www.freecodecamp.org/nairolf) (you know this one), [Pluralsight](https://app.pluralsight.com/profile/florian-edemessi), [Google](https://g.dev/nair0lf32) (yes...but they also have codelabs), [Codepen](https://codepen.io/nair0lf32/), [codesandbox](https://codesandbox.io/u/nairolf32), [Hackerrank](https://www.hackerrank.com/nair0lf32) ( :laughing: I am turbo bad ), [Codewars](https://www.codewars.com/users/nair0lf32), [GFG](https://auth.geeksforgeeks.org/user/nairolf32/profile) and [sololearn](https://www.sololearn.com/profile/4507307/?ref=app) (on the go)
+[Alx](https://www.alxafrica.com/), [Openclassrooms](https://openclassrooms.com/) that french platform, [Freecodecamp](https://www.freecodecamp.org/nairolf) (you know this one), [Pluralsight](https://app.pluralsight.com/profile/florian-edemessi),[Microsoft](https://docs.microsoft.com/en-us/users/florianedemessi-2820/?source=docs), [Google](https://g.dev/nair0lf32), [Codepen](https://codepen.io/nair0lf32/), [codesandbox](https://codesandbox.io/u/nairolf32), [Hackerrank](https://www.hackerrank.com/nair0lf32) ( :laughing: I am turbo bad ), [Codewars](https://www.codewars.com/users/nair0lf32), [GFG](https://auth.geeksforgeeks.org/user/nairolf32/profile) and [sololearn](https://www.sololearn.com/profile/4507307/?ref=app) (on the go)
  
 Also, I spend alot of my time taking myself for a hacker on various CTF platfomrs. You can check my [ctf-writeups](https://github.com/nair0lf32/ctfs-writeups) repository for more details.
 
