@@ -2,10 +2,10 @@
   
 ##  That med student from 🇧🇯 who also codes (somehow) 
 
-I am a software developer **wannabe** with some good grasp of Python, Javascript, PHP, Java/Kotlin and a cybersecurity enthusiast.
-Looking forward to learn Dart/Flutter, Golang...I love learning new things (a bit too much). 
-I am a self-learner trying to someday contribute to the development of solid solutions for some world's major problems (Healthcare sector mostly).
-Welcome to my personal GitHub. Here I put my terrible spaghetti code and most of my stuff. 
+I am a software developer **wannabe** with some good grasp of Python, Javascript, PHP, Java/Kotlin and also a cybersecurity enthusiast.
+Looking forward to learn Dart/Flutter, Golang. I love learning new things (a bit too much). 
+I am a self-learner trying to contribute to the development of solid solutions for some world's major problems (Healthcare sector mostly).
+Welcome to my personal GitHub. Here I put my terrible spaghetti code and stuff. 
 May you find something you like. 
 
 (I also happen to enjoy CTFs, videogames and silly memes)    
@@ -16,7 +16,7 @@ I joined GitHub on 📆 **{{ f.date(REGISTRATION_DATE, {date:true}) }}**, **{{ M
 so far, I Contributed to **{{ REPOSITORIES_CONTRIBUTED_TO }}** repositories, Created **{{ REPOSITORIES }}** repositories with ⭐ **{{ STARGAZERS }}** stargazers, Starred **{{ STARRED }}** repositories myself, Made **{{ COMMITS }}** commits, Joined **{{ ORGANIZATIONS }}** organizations 💼, Made **{{ PULL_REQUESTS }}** pull requests, Involved myself into **{{ ISSUES }}** issues. I am 🚶‍♂️ following **{{ FOLLOWING }}** great inspiring coders and got **{{ FOLLOWERS }}** great ones behind me, to which I am very thankful 💛.
 I am Currently learning and working on new things daily, using these coding languages and tools:
 
-<%- await embed(`nairolf-languages`, {languages:true, languages_details:"lines, percentage, bytes-size", languages_indepth:true}) %>
+<%- await embed(`nairolf-languages`, {languages:true, languages_details:"lines, percentage, bytes-size", languages_indepth:true, repositories:true}) %>
 
 <p align="left">
    <a href="https://www.linux.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="30" height="30"/> </a> 
@@ -39,21 +39,21 @@ I am Currently learning and working on new things daily, using these coding lang
 
 ### Contributions 🤝
 
-<%- await embed(`nairolf-contributions`, {notable:true, notable_indepth:true, notable_repositories:true,  plugin_notable_from:"all", plugin_notable_types:"commit, pull-request, issue"}) %>
+<%- await embed(`nairolf-contributions`, {notable:true, notable_indepth:true, notable_repositories:true,  plugin_notable_from:"organization", plugin_notable_types:"commit, pull-request, issue", repositories:true}) %>
 
 ### Achievements 🥇
 
-<%- await embed(`nairolf-achievements`, {achievements:true, achievements_display:"compact", achievements_treshold:"X"}) %>
+<%- await embed(`nairolf-achievements`, {achievements:true, achievements_display:"compact", achievements_treshold:"S", repositories:true}) %>
 
 ## Cool stuff I vibe on:
 
 ### My decent amount of weeb 🏯 
 
-<%- await embed(`nairolf-anilist`, {anilist:true, anilist_user:"nairolf32", anilist_media:"anime,manga", anilist_sections:"favorites, characters"}) %>
+<%- await embed(`nairolf-anilist`, {anilist:true, anilist_user:"nairolf32", anilist_media:"anime,manga", anilist_sections:"favorites, characters", repositories:true}) %>
 
 ### My music 🎵
 
- <%- await embed(`nairolf-music`, {music:true, music_token:"${{ secrets.SPOTIFY_SECRET }}", music_mode:"recent", music_played_at:true, music_provider:"spotify", music_user:"nairolf32"}) %>
+ <%- await embed(`nairolf-music`, {music:true, music_token:"${{ secrets.SPOTIFY_SECRET }}", music_mode:"recent", music_played_at:true, music_provider:"spotify", music_user:"nairolf32", repositories:true}) %>
 
 ## wanna get in touch? you might find me at those places:
 
@@ -64,10 +64,9 @@ I am Currently learning and working on new things daily, using these coding lang
 ### Places I learn (mostly), practice, or just play around:
 
 [Alx](https://www.alxafrica.com/), [Openclassrooms](https://openclassrooms.com/) that french platform, [Freecodecamp](https://www.freecodecamp.org/nairolf) (you know this one), [Pluralsight](https://app.pluralsight.com/profile/florian-edemessi), [Google](https://g.dev/nair0lf32) (yes...but they also have codelabs), [Codepen](https://codepen.io/nair0lf32/), [codesandbox](https://codesandbox.io/u/nairolf32), [Hackerrank](https://www.hackerrank.com/nair0lf32) ( :laughing: I am turbo bad ), [Codewars](https://www.codewars.com/users/nair0lf32), [GFG](https://auth.geeksforgeeks.org/user/nairolf32/profile) and [sololearn](https://www.sololearn.com/profile/4507307/?ref=app) (on the go)
-  
-### Where I take myself for a hacker
-Various ctf places in my [ctf-writeups](https://github.com/nair0lf32/ctfs-writeups) repository
+ 
+Also, I spend alot of my time taking myself for a hacker on various CTF platfomrs. You can check my [ctf-writeups](https://github.com/nair0lf32/ctfs-writeups) repository for more details.
 
-## [Wrapped!](https://nair0lf32.wrapped.run) 
+[Wrapped!](https://nair0lf32.wrapped.run) 
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder)
