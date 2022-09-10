@@ -16,7 +16,7 @@ I joined GitHub on 📆 **{{ f.date(REGISTRATION_DATE, {date:true}) }}**, **{{ M
 so far, I Contributed to **{{ REPOSITORIES_CONTRIBUTED_TO }}** repositories, Created **{{ REPOSITORIES }}** repositories with ⭐ **{{ STARGAZERS }}** stargazers, Starred **{{ STARRED }}** repositories myself, Made **{{ COMMITS }}** commits, Joined **{{ ORGANIZATIONS }}** organizations 💼, Made **{{ PULL_REQUESTS }}** pull requests, Involved myself into **{{ ISSUES }}** issues. I am 🚶‍♂️ following **{{ FOLLOWING }}** great inspiring coders and got **{{ FOLLOWERS }}** great ones behind me, to which I am very thankful 💛.
 I am Currently learning and working on new things daily, using these coding languages and tools:
 
-<%- await embed(`nairolf-languages`, {repositories:true, languages:true, languages_details:"lines, percentage, bytes-size", languages_indepth:true}) %>
+<%- await embed(`nairolf-languages`, {languages:true, languages_details:"lines, percentage, bytes-size", languages_indepth:true}) %>
 
 <p align="left">
    <a href="https://www.linux.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="30" height="30"/> </a> 
