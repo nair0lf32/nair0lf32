@@ -16,7 +16,7 @@ I joined GitHub on 📆 **5 Jan 2018**, **4** years ago, and
 so far, I Contributed to **37** repositories, Created **61** repositories with ⭐ **12** stargazers, Starred **396** repositories myself, Made **3137** commits, Joined **0** organizations 💼, Made **34** pull requests, Involved myself into **5** issues. I am 🚶‍♂️ following **29** great inspiring coders and got **67** great ones behind me, to which I am very thankful 💛.
 I am Currently learning and working on new things daily, using these coding languages and tools:
 
-
+<img src="https://github.com/nair0lf32/nair0lf32/blob/main/.cache/nairolf-languages.svg">
 
 <p align="left">
    <a href="https://www.linux.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="30" height="30"/> </a> 
@@ -39,21 +39,21 @@ I am Currently learning and working on new things daily, using these coding lang
 
 ### Contributions 🤝
 
-
+<img src="https://github.com/nair0lf32/nair0lf32/blob/main/.cache/nairolf-contributions.svg">
 
 ### Achievements 🥇
 
-
+<img src="https://github.com/nair0lf32/nair0lf32/blob/main/.cache/nairolf-achievements.svg">
 
 ## Cool stuff I vibe on:
 
 ### My decent amount of weeb 🏯 
 
-
+<img src="https://github.com/nair0lf32/nair0lf32/blob/main/.cache/nairolf-anilist.svg">
 
 ### My music 🎵
 
- 
+ <img src="https://github.com/nair0lf32/nair0lf32/blob/main/.cache/nairolf-music.svg">
 
 ## wanna get in touch? you might find me at those places:
 
