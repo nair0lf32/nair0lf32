@@ -37,7 +37,7 @@ I am Currently learning and working on new things daily, using these coding lang
 
 ## My "not much but honest" work:
 
-<%- await embed(`nairolf-achievements`, {achievements:true, achievements_display:"compact", achievements_treshold:"S"}, {notable:true, notable_indepth:true, notable_repositories:true,  plugin_notable_from:"organization", plugin_notable_types:"commit, pull-request, issue") %>
+<%- await embed(`nairolf-achievements`, {achievements:true, achievements_display:"compact", achievements_treshold:"S", notable:true, notable_indepth:true, notable_repositories:true,  plugin_notable_from:"organization", plugin_notable_types:"commit, pull-request, issue"}) %>
 
 ## Cool stuff I vibe on:
 
