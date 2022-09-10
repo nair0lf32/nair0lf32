@@ -1,22 +1,15 @@
-# Hi 👾, I'm Florian EDEMESSI <img width="50" height="50" src="/sm_logo.png">  
-  
-##  That med student from 🇧🇯 who also codes (somehow) 
+# <img width="45" height="45" src="/sm_logo.png"> Hi 👾, I'm Florian EDEMESSI
 
-I am a software developer **wannabe** with some good grasp of Python, Javascript, PHP, Java/Kotlin and also a cybersecurity enthusiast.
-Looking forward to learn Dart/Flutter, Golang. I love learning new things (a bit too much). 
-I am a self-learner trying to contribute to the development of solid solutions for some world's major problems (Healthcare sector mostly).
-Welcome to my personal GitHub. Here I put my terrible spaghetti code and stuff. 
-May you find something you like. 
+## A med student from 🇧🇯 who also codes (somehow)
 
-(I also happen to enjoy CTFs, videogames and silly memes)    
-  
-## About my rookie numbers:  
+I am self-learner, software developer **wannabe** with some good grasp of Python, Javascript, PHP, Java/Kotlin looking forward to learn Dart/Flutter, Golang. I love learning new things (a bit too much) and I am trying to contribute to the development of solid solutions for some world's major problems (Healthcare sector mostly).
+Welcome to my personal GitHub. Here I put my terrible spaghetti code and stuff. May you ever find something you like. 
+
+(I also happen to enjoy CTFs, videogames and silly memes)
 
 I joined GitHub on 📆 **5 Jan 2018**, **4** years ago, and
 so far, I Contributed to **37** repositories, Created **61** repositories with ⭐ **12** stargazers, Starred **396** repositories myself, Made **3137** commits, Joined **0** organizations 💼, Made **34** pull requests, Involved myself into **5** issues. I am 🚶‍♂️ following **29** great inspiring coders and got **66** great ones behind me, to which I am very thankful 💛.
 I am Currently learning and working on new things daily, using these coding languages and tools:
-
-<img src="https://github.com/nair0lf32/nair0lf32/blob/main/.cache/nairolf-languages.svg">
 
 <p align="left">
    <a href="https://www.linux.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="30" height="30"/> </a> 
@@ -35,19 +28,13 @@ I am Currently learning and working on new things daily, using these coding lang
   <a href="https://golang.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="30" height="30"/> </a> 
 </p>
 
-## My "not much but honest" work:
+## Some metrics of mine:
 
-<img src="https://github.com/nair0lf32/nair0lf32/blob/main/.cache/nairolf-achievements.svg">
+<img src="https://github.com/nair0lf32/nair0lf32/blob/main/.cache/nairolf-metrics.svg">
 
 ## Cool stuff I vibe on:
 
-### My decent amount of weeb 🏯 
-
-<img src="https://github.com/nair0lf32/nair0lf32/blob/main/.cache/nairolf-anilist.svg">
-
-### My music 🎵
-
-<img src="https://github.com/nair0lf32/nair0lf32/blob/main/.cache/nairolf-music.svg">
+<img src="https://github.com/nair0lf32/nair0lf32/blob/main/.cache/nairolf-socials.svg">
 
 ## wanna get in touch? you might find me at those places:
 
@@ -55,11 +42,11 @@ I am Currently learning and working on new things daily, using these coding lang
 [<img src='https://www.vectorlogo.zone/logos/facebook/facebook-official.svg' alt='facebook' height='30'>](https://www.facebook.com/FlorianEdemessi)
 [<img src='https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg' alt='stackoverflow' height='30'>](https://stackoverflow.com/users/14132197/florian-edemessi) [<img src='https://www.vectorlogo.zone/logos/reddit/reddit-tile.svg' alt='Reddit' height='30'>](https://www.reddit.com/user/florian32edem)
 
-### Places I learn (mostly), practice, or just play around:
+### Also here are some places I learn (mostly), practice, or just play around:
 
 [Alx](https://www.alxafrica.com/), [Openclassrooms](https://openclassrooms.com/) that french platform, [Freecodecamp](https://www.freecodecamp.org/nairolf) (you know this one), [Pluralsight](https://app.pluralsight.com/profile/florian-edemessi), [Microsoft](https://docs.microsoft.com/en-us/users/florianedemessi-2820/?source=docs), [Google](https://g.dev/nair0lf32), [Codepen](https://codepen.io/nair0lf32/), [codesandbox](https://codesandbox.io/u/nairolf32), [Hackerrank](https://www.hackerrank.com/nair0lf32) ( :laughing: I am turbo bad ), [Codewars](https://www.codewars.com/users/nair0lf32), [GFG](https://auth.geeksforgeeks.org/user/nairolf32/profile) and [sololearn](https://www.sololearn.com/profile/4507307/?ref=app) (on the go)
- 
-Also, I spend alot of my time taking myself for a hacker on various CTF platfomrs. You can check my [ctf-writeups](https://github.com/nair0lf32/ctfs-writeups) repository for more details.
+
+*Feel free to check my pinned repositories for more details about my main projects*
 
 [Wrapped!](https://nair0lf32.wrapped.run) 
 
