@@ -9,6 +9,7 @@ This list is personal and might be updated very often
 - [Pluralsight](https://app.pluralsight.com/profile/florian-edemessi)
 - [Microsoft](https://docs.microsoft.com/en-us/users/florianedemessi-2820/?source=docs)
 - [Google](https://g.dev/nair0lf32)
+- [IBM](https://www.ibm.com/training/mylearning/home)
 - [GFG](https://auth.geeksforgeeks.org/user/nairolf32/profile)
 - [sololearn](https://www.sololearn.com/profile/4507307/?ref=app) (on the go)
 
