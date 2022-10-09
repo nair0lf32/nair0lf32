@@ -28,6 +28,15 @@ Miscellanous:
 - [khan academy](https://fr.khanacademy.org/profile/me/) (for basics)
 - [Duolingo](https://www.duolingo.com/profile/FlorianEDE509379) (me no speak ingles)
 
+## Blogging
+
+I am not a very good writer but I have an account on most platforms (mostly to read but alx forced me to write). List in from favorite to less favorite
+
+- [Hashnode](https://nairolf32.hashnode.dev/)
+- [Hackernoon](https://hackernoon.com/u/nairolf32)
+- [Dev.to](https://dev.to/nair0lf32)
+- [Medium](https://medium.com/@nairolf32)
+
 ## Practice
 
 - [Codepen](https://codepen.io/nair0lf32/)
