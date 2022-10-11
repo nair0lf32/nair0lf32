@@ -8,7 +8,7 @@ Welcome to my personal GitHub. Here I put my terrible spaghetti code and stuff. 
 (I also happen to enjoy CTFs, videogames and silly memes)
 
 I joined GitHub on 📆 **5 Jan 2018**, **4** years ago, and
-so far, I Contributed to **41** repositories, Created **65** repositories with ⭐ **12** stargazers, Starred **409** repositories myself, Made **3638** commits, Joined **0** organizations 💼, Made **37** pull requests, Involved myself into **5** issues. I am 🚶‍♂️ following **26** great inspiring coders and got **67** great ones behind me, to which I am very thankful 💛.
+so far, I Contributed to **41** repositories, Created **65** repositories with ⭐ **12** stargazers, Starred **410** repositories myself, Made **3638** commits, Joined **0** organizations 💼, Made **37** pull requests, Involved myself into **5** issues. I am 🚶‍♂️ following **26** great inspiring coders and got **67** great ones behind me, to which I am very thankful 💛.
 I am Currently learning and working on new things daily, using these coding languages and tools:
 
 <a href="https://www.linux.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="30"/> </a>
