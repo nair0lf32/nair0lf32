@@ -1,6 +1,6 @@
 # Hi 👾, I'm Florian EDEMESSI  
 
-<img width="250" height="250" src="/sm_logo.png">
+<img width="100" height="100" src="/sm_logo.png">
 
 ### A med student from 🇧🇯 who also codes (somehow)
 
