@@ -1,6 +1,6 @@
 # Hi 👾, I'm Florian EDEMESSI  
 
-<img width="250" height="250" src="/sm_logo.png">
+<img width="100" height="100" src="/sm_logo.png">
 
 ### A med student from 🇧🇯 who also codes (somehow)
 
@@ -11,7 +11,7 @@ I am self-learner, software developer **wannabe** with some good grasp of Python
 ### Metrics details
 
 I joined GitHub on **5 Jan 2018**, **4** years ago, and
-so far, I Contributed to **42** repositories, Created **63** repositories with ⭐ **10** stargazers, Starred **424** repositories myself, Made **3565** commits, Joined **0** organizations, Made **37** pull requests, Involved myself into **5** issues. I am following **26** great inspiring coders and got **67** great ones behind me, to which I am very thankful 💛.
+so far, I Contributed to **42** repositories, Created **63** repositories with ⭐ **0** stargazers, Starred **424** repositories myself, Made **3565** commits, Joined **0** organizations, Made **37** pull requests, Involved myself into **5** issues. I am following **26** great inspiring coders and got **67** great ones behind me, to which I am very thankful 💛.
 I am Currently learning and working on new things daily, using these coding languages and tools:
 
 [![My Skills](https://skillicons.dev/icons?i=linux,bash,c,js,python,php,java,kotlin,flutter,golang)](https://skillicons.dev)
