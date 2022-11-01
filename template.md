@@ -14,12 +14,10 @@ I joined GitHub on **{{ f.date(REGISTRATION_DATE, {date:true}) }}**, **{{ Math.r
 so far, I Contributed to **{{ REPOSITORIES_CONTRIBUTED_TO }}** repositories, Created **{{ REPOSITORIES }}** repositories with ⭐ **{{ STARGAZERS }}** stargazers, Starred **{{ STARRED }}** repositories myself, Made **{{ COMMITS }}** commits, Joined **{{ ORGANIZATIONS }}** organizations, Made **{{ PULL_REQUESTS }}** pull requests, Involved myself into **{{ ISSUES }}** issues. I am following **{{ FOLLOWING }}** great inspiring coders and got **{{ FOLLOWERS }}** great ones behind me, to which I am very thankful 💛.
 I am Currently learning and working on new things daily, using these coding languages and tools:
 
-<%- LANGUAGES %>
-
 [![My Skills](https://skillicons.dev/icons?i=linux,bash,c,js,python,php,java,kotlin,flutter,golang)](https://skillicons.dev)
 
 
-<%- await embed(`nairolf-metrics`, {achievements:true, achievements_display:"compact", achievements_treshold:"S", notable:true, notable_indepth:true, notable_repositories:true,  plugin_notable_from:"organization", plugin_notable_types:"commit, pull-request, issue"}) %>
+<%- await embed(`nairolf-metrics`, {languages:true, languages_details:"lines, percentage, bytes-size", languages_indepth:true, achievements:true, achievements_display:"compact", achievements_treshold:"S", notable:true, notable_indepth:true, notable_repositories:true,  plugin_notable_from:"organization", plugin_notable_types:"commit, pull-request, issue"}) %>
 
 ### Cool stuff I vibe on:
 
