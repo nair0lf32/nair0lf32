@@ -4,7 +4,7 @@
 
 ### A med student from 🇧🇯 who also codes (somehow)
 
-I am self-learner, software developer **wannabe** with some good grasp of Python, Dart/flutter, Javascript, PHP, Java/Kotlin looking forward to learn  Golang. I love learning new things (a bit too much) and I am trying to contribute to the development of solid solutions for some world's major problems (Healthcare sector mostly). Welcome to my personal GitHub. Here I put my terrible spaghetti code and stuff. May you ever find something you like. 
+I am self-learner, developer and software engineer **wannabe** with some good grasp of Python, Dart/flutter, Javascript, PHP, Java/Kotlin looking forward to learn  Golang. I love learning new things (a bit too much) and I am trying to contribute to the development of solid solutions for some world's major problems (Healthcare sector mostly). Welcome to my personal GitHub. Here I put my terrible spaghetti code and stuff. May you ever find something you like. 
 
 (I also happen to enjoy CTFs, videogames and silly memes)
 
