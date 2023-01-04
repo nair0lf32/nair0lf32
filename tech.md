@@ -38,8 +38,9 @@ I am not a very good writer but I have an account on most platforms (mostly to r
 - [Dev.to](https://dev.to/nair0lf32)
 - [Medium](https://medium.com/@nairolf32)
 
-## Practice
+## Practice (I am everywhere lol)
 
+- [codersrank](https://profile.codersrank.io/user/nair0lf32/)
 - [Codepen](https://codepen.io/nair0lf32/)
 - [codesandbox](https://codesandbox.io/u/nairolf32)
 - [Hackerrank](https://www.hackerrank.com/nair0lf32) ( :laughing: I am turbo bad )
@@ -50,6 +51,12 @@ I am not a very good writer but I have an account on most platforms (mostly to r
 - [leetcode](https://leetcode.com/florianedem/)
 - [topcoder](https://www.topcoder.com/members/nairolf32)
 - [codingame](https://www.codingame.com/profile/2a8066199551bbb0ab8497876d1381cc2842444)
+- [beecrowd](https://www.beecrowd.com.br/judge/en/profile/776503)
+- [kaggle](https://www.kaggle.com/florianedemessi)
+- [atcoder](https://atcoder.jp/users/nairolf32)
+- [codechef](https://www.codechef.com/users/nairolf32/)
+- [codeforces](https://codeforces.com/profile/nairolf32)
+- [hackerearth](https://www.hackerearth.com/@florianedem)
 
 # Hosting
 
