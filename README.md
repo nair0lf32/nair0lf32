@@ -11,7 +11,7 @@ I am a self-taught, developer and software engineer **wannabe** with some good g
 ### Metrics details
 
 I joined GitHub on **5 Jan 2018**, **5** years ago, and
-so far, I Contributed to **49** repositories, Created **65** repositories with ⭐ **12** stargazers, Starred **453** repositories myself, Made **3750** commits, Joined **1** organizations, Made **37** pull requests, Involved myself into **5** issues. I am following **26** great inspiring coders and got **70** great ones behind me, to which I am very thankful 💛.
+so far, I Contributed to **49** repositories, Created **65** repositories with ⭐ **12** stargazers, Starred **454** repositories myself, Made **3750** commits, Joined **1** organizations, Made **37** pull requests, Involved myself into **5** issues. I am following **26** great inspiring coders and got **70** great ones behind me, to which I am very thankful 💛.
 I am Currently learning and working on new things daily, using these coding languages and tools:
 
 [![My Skills](https://skillicons.dev/icons?i=linux,bash,c,js,python,php,java,kotlin,flutter,golang)](https://skillicons.dev)
