@@ -43,7 +43,7 @@ I am not a very good writer but I have an account on most platforms (mostly to r
 - [codersrank](https://profile.codersrank.io/user/nair0lf32/)
 - [Codepen](https://codepen.io/nair0lf32/)
 - [codesandbox](https://codesandbox.io/u/nairolf32)
-- [Hackerrank](https://www.hackerrank.com/nair0lf32) ( :laughing: I am turbo bad )
+- [Hackerrank](https://www.hackerrank.com/nair0lf32)
 - [Codewars](https://www.codewars.com/users/nair0lf32)
 - [project euler](https://projecteuler.net/)
 - [coderbyte](https://coderbyte.com/profile/nairolf32)
