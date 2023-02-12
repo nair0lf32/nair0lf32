@@ -5,7 +5,7 @@ This list is personal and might be updated very often
 
 - [Alx](https://www.alxafrica.com/)
 - [Openclassrooms](https://openclassrooms.com/)
-- [Freecodecamp](https://www.freecodecamp.org/nairolf)
+- [Freecodecamp](https://www.freecodecamp.org/nairolf32)
 - [Pluralsight](https://app.pluralsight.com/profile/florian-edemessi)
 - [Microsoft](https://docs.microsoft.com/en-us/users/florianedemessi-2820/?source=docs)
 - [Google](https://g.dev/nair0lf32)
