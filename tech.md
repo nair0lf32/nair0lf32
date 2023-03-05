@@ -41,7 +41,7 @@ I am not a very good writer but I have an account on most platforms (mostly to r
 
 ## Practice (I am everywhere lol)
 
-[![](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=nair0lf32&width=100px&branding=false&badges=0")](https://profile.codersrank.io/user/nair0lf32/)
+[![](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=nair0lf32&width=10&branding=false&badges=0&style=--header-bg-color:%23000")](https://profile.codersrank.io/user/nair0lf32/)
 
 - [Codepen](https://codepen.io/nair0lf32/)
 - [codesandbox](https://codesandbox.io/u/nairolf32)
