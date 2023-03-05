@@ -34,7 +34,8 @@ Miscellanous:
 
 ## Blogging
 
-I am not a very good writer but I have an account on most platforms (mostly to read but alx forced me to write). List in from favorite to less favorite
+I have an account on most platforms (Mostly to read, but sometimes I write sh*tty articles).  
+Listed from my favorite to less favorite
 
 - [Hashnode](https://nairolf32.hashnode.dev/)
 - [Hackernoon](https://hackernoon.com/u/nairolf32)
@@ -80,7 +81,7 @@ And most importantly, [Freefordev](https://free-for.dev/#/?id=paas) for more
 # Misc Tools
 
 - I use [Google drive](https://drive.google.com/drive/my-drive) for some storage too
-- I use [choco](https://community.chocolatey.org/) for my packages on windows
+- I use [choco](https://community.chocolatey.org/) and [scoop](https://scoop.sh/#/) for my packages on windows
 - I am getting started with [code triage](https://www.codetriage.com/) (check it out!)
 - [chrome](https://www.google.fr/chrome/) (Firefox and Brave are cooler but Google own my data already so...yeah)
 - [vscode](https://code.visualstudio.com/) (For everything)
