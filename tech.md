@@ -1,11 +1,14 @@
+[![](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=nair0lf32&width=10&branding=false&badges=0&style=--header-bg-color:%23000")](https://profile.codersrank.io/user/nair0lf32/)
+
 # My Stuff
 
 This list is personal and might be updated very often
+
 ## Learning
 
 - [Alx](https://www.alxafrica.com/)
 - [Openclassrooms](https://openclassrooms.com/)
-- [Freecodecamp](https://www.freecodecamp.org/nairolf)
+- [Freecodecamp](https://www.freecodecamp.org/nairolf32)
 - [Pluralsight](https://app.pluralsight.com/profile/florian-edemessi)
 - [Microsoft](https://docs.microsoft.com/en-us/users/florianedemessi-2820/?source=docs)
 - [Google](https://g.dev/nair0lf32)
@@ -36,7 +39,8 @@ Miscellanous:
 
 ## Blogging
 
-I am not a very good writer but I have an account on most platforms (mostly to read but alx forced me to write). List in from favorite to less favorite
+I have an account on most platforms (Mostly to read, but sometimes I write sh*tty articles).  
+Listed from my favorite to less favorite
 
 - [Hashnode](https://nairolf32.hashnode.dev/)
 - [Hackernoon](https://hackernoon.com/u/nairolf32)
@@ -44,11 +48,9 @@ I am not a very good writer but I have an account on most platforms (mostly to r
 - [Medium](https://medium.com/@nairolf32)
 
 ## Practice (I am everywhere lol)
-
-- [codersrank](https://profile.codersrank.io/user/nair0lf32/)
 - [Codepen](https://codepen.io/nair0lf32/)
 - [codesandbox](https://codesandbox.io/u/nairolf32)
-- [Hackerrank](https://www.hackerrank.com/nair0lf32) ( :laughing: I am turbo bad )
+- [Hackerrank](https://www.hackerrank.com/nair0lf32)
 - [Codewars](https://www.codewars.com/users/nair0lf32)
 - [project euler](https://projecteuler.net/)
 - [coderbyte](https://coderbyte.com/profile/nairolf32)
@@ -84,7 +86,7 @@ And most importantly, [Freefordev](https://free-for.dev/#/?id=paas) for more
 # Misc Tools
 
 - I use [Google drive](https://drive.google.com/drive/my-drive) for some storage too
-- I use [choco](https://community.chocolatey.org/) for my packages on windows
+- I use [choco](https://community.chocolatey.org/) and [scoop](https://scoop.sh/#/) for my packages on windows
 - I am getting started with [code triage](https://www.codetriage.com/) (check it out!)
 - [chrome](https://www.google.fr/chrome/) (Firefox and Brave are cooler but Google own my data already so...yeah)
 - [vscode](https://code.visualstudio.com/) (For everything)
