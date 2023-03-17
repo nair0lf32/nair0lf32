@@ -19,6 +19,11 @@ I love cheatsheets so I am sharing those:
 - [codeacademy](https://www.codecademy.com/resources/cheatsheets/all)
 - [devhints](https://devhints.io/)
 
+For those that learn by doing:
+- [project based tutorials](https://github.com/practical-tutorials/project-based-learning)
+- [build your own X](https://build-your-own-x.vercel.app/)
+- [projectlearn](https://projectlearn.io/)
+
 Or if instead reading is your passion, try:
 
 - [devdocs](https://devdocs.io/)
@@ -124,3 +129,6 @@ Compensating my lack of skill with many tools
 - [spotify](https://www.spotify.com/fr/) (I need it)
 - [REE](https://www.rapidee.com/en/about) (I like editing windows path from CLI but I also enjoy simplicity)
 - Anything from [here](https://www.nirsoft.net/)
+
+
+[Wrapped!](https://nair0lf32.wrapped.run) 
