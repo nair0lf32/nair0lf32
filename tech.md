@@ -6,7 +6,7 @@ This list is personal and might be updated very often
 
 ## Learning
 
-- [Alx](https://www.alxafrica.com/)
+- [Alx](https://www.alxafrica.com/) and [theRoom](https://member.theroom.com/profile/56e7f6e1-909c-42d9-8747-b6b369de4bbb)
 - [Openclassrooms](https://openclassrooms.com/)
 - [Freecodecamp](https://www.freecodecamp.org/nairolf32)
 - [Pluralsight](https://app.pluralsight.com/profile/florian-edemessi)
