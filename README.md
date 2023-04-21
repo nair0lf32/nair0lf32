@@ -1,8 +1,8 @@
 # Hi 👾, I'm Florian EDEMESSI
 
-<img width="100" height="100" src="/images/banner.jpg" alt="florian edemessi nairolf32 banner" withd=1.5rem height=1.5rem>
+<img src="/images/banner.jpg" alt="florian edemessi nairolf32 banner">
 
-### A med student from :benin: who also codes (terribly)
+## A med student from :benin: who also codes (terribly)
 
 I am a "self-taught", developer and software engineer **wannabe** with a decent grasp of multiple programming languages (Python, Dart/flutter, Javascript, PHP, Java/Kotlin and looking forward to learn Golang and Rust). Currently learning but planning to someday contribute to the development of solid solutions for some world's major problems (Healthcare sector mostly).
 
@@ -14,7 +14,7 @@ May you ever find something you like
 
 (I also happen to enjoy videogames and silly memes)
 
-### Metrics details
+## Metrics details
 
 I joined GitHub on **5 Jan 2018**, **5** years ago, and so far, I Contributed to **49** repositories, Created **68** repositories with **36** stargazers, Starred **469** repositories myself, Made **3791** commits, Joined **1** organizations, Made **37** pull requests, Involved myself into **5** issues. I am following **28** great inspiring coders and got **73** great ones behind me, to which I am very thankful 💛.
 I am Currently using these coding languages and tools mostly:
@@ -23,9 +23,11 @@ I am Currently using these coding languages and tools mostly:
 
 <img src="https://github.com/nair0lf32/nair0lf32/blob/main/.cache/nairolf-metrics.svg">
 
-### Cool stuff I vibe on:
+### Cool stuff I vibe with
 
-<img src="https://github.com/nair0lf32/nair0lf32/blob/main/.cache/nairolf-socials.svg">
+<img src="https://github.com/nair0lf32/nair0lf32/blob/main/.cache/nairolf-music.svg">
+
+<img src="https://github.com/nair0lf32/nair0lf32/blob/main/.cache/nairolf-anilist.svg">
 
 ### wanna get in touch? you might find me at those places:  
 
