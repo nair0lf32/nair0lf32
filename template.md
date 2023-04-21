@@ -1,6 +1,6 @@
 # Hi 👾, I'm Florian EDEMESSI
 
-<img width="100" height="100" src="/sm_logo.png" alt="florian edemessi nairolf32 logo-sm">
+<img width="100" height="100" src="/images/banner.jpg" alt="florian edemessi nairolf32 banner" withd=1.5rem height=1.5rem>
 
 ### A med student from :benin: who also codes (terribly)
 
