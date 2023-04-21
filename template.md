@@ -1,12 +1,18 @@
-# Hi 👾, I'm Florian EDEMESSI  
+# Hi 👾, I'm Florian EDEMESSI
 
-<img width="100" height="100" src="/sm_logo.png">
+<img width="100" height="100" src="/sm_logo.png" alt="florian edemessi nairolf32 logo-sm">
 
-### A med student from 🇧🇯 who also codes (somehow)
+### A med student from :benin: who also codes (terribly)
 
-I am a "self-taught", developer and software engineer **wannabe** with some good grasp of Python, Dart/flutter, Javascript, PHP, Java/Kotlin and looking forward to learn Golang and Rust. I am still learning but I am planning to someday contribute to the development of solid solutions for some world's major problems (Healthcare sector mostly). Welcome to my personal GitHub. Here I put my terrible spaghetti code and stuff. May you ever find something you like. 
+I am a "self-taught", developer and software engineer **wannabe** with a decent grasp of multiple programming languages (Python, Dart/flutter, Javascript, PHP, Java/Kotlin and looking forward to learn Golang and Rust). Currently learning but planning to someday contribute to the development of solid solutions for some world's major problems (Healthcare sector mostly).
 
-(I also happen to enjoy CTFs, videogames and silly memes)
+I am also a very bad CTF player passionate about cybersecurity and worst coding practices
+
+Welcome to my personal GitHub. Here I put terrible spaghetti code and stuff
+
+May you ever find something you like
+
+(I also happen to enjoy videogames and silly memes)
 
 ### Metrics details
 
@@ -14,7 +20,6 @@ I joined GitHub on **{{ f.date(REGISTRATION_DATE, {date:true}) }}**, **{{ Math.r
 I am Currently using these coding languages and tools mostly:
 
 [![My Skills](https://skillicons.dev/icons?i=linux,bash,c,js,python,php,java,kotlin,flutter,golang)](https://skillicons.dev)
-
 
 <%- await embed(`nairolf-metrics`, {languages:true, languages_details:"lines, percentage, bytes-size", languages_indepth:true, achievements:true, achievements_display:"compact", achievements_treshold:"S", notable:true, notable_indepth:true, notable_repositories:true,  plugin_notable_from:"organization", plugin_notable_types:"commit, pull-request, issue"}) %>
 
