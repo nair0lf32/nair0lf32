@@ -23,13 +23,13 @@ I am Currently using these coding languages and tools mostly:
 
 <img src="https://github.com/nair0lf32/nair0lf32/blob/main/.cache/nairolf-metrics.svg">
 
-### Cool stuff I vibe with
+## Cool stuff I vibe with
 
 <img src="https://github.com/nair0lf32/nair0lf32/blob/main/.cache/nairolf-music.svg">
 
 <img src="https://github.com/nair0lf32/nair0lf32/blob/main/.cache/nairolf-anilist.svg">
 
-### wanna get in touch? you might find me at those places:  
+## wanna get in touch? you might find me at those places:  
 
 [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/florian-edemessi/)
 [![Stackoverflow](https://skillicons.dev/icons?i=stackoverflow)](https://stackoverflow.com/users/14132197/florian-edemessi)
