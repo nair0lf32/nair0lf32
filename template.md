@@ -21,15 +21,15 @@ I am Currently using these coding languages and tools mostly:
 
 [![My Skills](https://skillicons.dev/icons?i=linux,bash,c,js,python,php,java,kotlin,flutter,golang)](https://skillicons.dev)
 
-<%- await embed(`nairolf-metrics`, {languages:true, languages_details:"lines, percentage, bytes-size", languages_indepth:true, achievements:true, achievements_display:"compact", achievements_treshold:"S", notable:true, notable_indepth:true, notable_repositories:true,  plugin_notable_from:"organization", plugin_notable_types:"commit, pull-request, issue"}) %>
+<%- await embed(`nairolf-metrics`, {languages:true, languages_details:"lines, percentage, bytes-size", languages_limit:5, languages_indepth:true, achievements:true, achievements_display:"compact", achievements_treshold:"S", notable:true, notable_indepth:true, notable_repositories:true,  plugin_notable_from:"organization", plugin_notable_types:"commit, pull-request, issue"}) %>
 
-### Cool stuff I vibe with
+## Cool stuff I vibe with
 
 <%- await embed(`nairolf-music`, {music:true, music_token:"${{ secrets.SPOTIFY_SECRET }}", music_mode:"recent", music_played_at:true, music_provider:"spotify", music_user:"nairolf32"}) %>
 
 <%- await embed(`nairolf-anilist`, {anilist:true, anilist_user:"nairolf32", anilist_media:"anime,manga", anilist_sections:"favorites, characters"}) %>
 
-### wanna get in touch? you might find me at those places:  
+## wanna get in touch? you might find me at those places:  
 
 [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/florian-edemessi/)
 [![Stackoverflow](https://skillicons.dev/icons?i=stackoverflow)](https://stackoverflow.com/users/14132197/florian-edemessi)

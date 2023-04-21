@@ -24,6 +24,7 @@ jobs:
           base_indepth: yes
 
           plugin_languages: yes
+          plugin_languages_limit: 5
           plugin_languages_indepth: yes
           plugin_languages_details: bytes-size, percentage, lines
           plugin_languages_ignored: html, css, scss
