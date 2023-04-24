@@ -37,7 +37,7 @@ I am Currently using these coding languages and tools mostly:
 
 ( And [many more](https://about.me/florian_edemessi) )
 
-Also, If you wanna see my favorite places for learning or practice coding check [here](tech.md)
+Also, If you wanna see my favorite places for learning or practice coding check [here](https://github.com/nair0lf32/challenger)
 
 *Feel free to check my pinned repositories for more details about my main projects*
 
