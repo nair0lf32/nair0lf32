@@ -1,7 +1,5 @@
 # learning
 
-## Learning
-
 - [Alx](https://www.alxafrica.com/) and [theRoom](https://member.theroom.com/profile/56e7f6e1-909c-42d9-8747-b6b369de4bbb)
 - [Openclassrooms](https://openclassrooms.com/fr/members/1cpcd2fcv2s9)
 - [Freecodecamp](https://www.freecodecamp.org/nairolf32)
@@ -37,7 +35,7 @@ Miscellanous:
 - [khan academy](https://fr.khanacademy.org/profile/me/) (for basics)
 - [Duolingo](https://www.duolingo.com/profile/FlorianEDE509379) (me no speak ingles)
 
-## Blogging
+# Blogs
 
 I have an account on most platforms (Mostly to read, but sometimes I write sh*tty articles).  
 Listed from my favorite to less favorite
