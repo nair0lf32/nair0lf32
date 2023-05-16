@@ -1,11 +1,11 @@
 name: Metrics
 on:
   # Schedule daily updates
-  schedule: [{cron: "0 0 * * *"}]
+  schedule: [{ cron: "0 0 * * *" }]
   # (optional) Run workflow manually
   workflow_dispatch:
   # (optional) Run workflow when pushing on master/main
-  push: {branches: ["master", "main"]}
+  push: { branches: ["master", "main"] }
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
@@ -22,16 +22,17 @@ jobs:
           markdown_cache: .cache
           base: header, activity, community, repositories, metadata
           base_indepth: yes
-          
+
           plugin_languages: yes
+          plugin_languages_limit: 5
           plugin_languages_indepth: yes
           plugin_languages_details: bytes-size, percentage, lines
           plugin_languages_ignored: html, css, scss
-          
+
           plugin_achievements: yes
           plugin_achievements_display: compact
           plugin_achievements_threshold: S
-          
+
           plugin_notable: yes
           plugin_notable_indepth: yes
           plugin_notable_repositories: yes
@@ -42,12 +43,10 @@ jobs:
           plugin_anilist_user: nairolf32
           plugin_anilist_medias: anime, manga
           plugin_anilist_sections: favorites, characters
-          
+
           plugin_music: yes
           plugin_music_token: ${{ secrets.SPOTIFY_SECRET }}
           plugin_music_mode: recent
           plugin_music_played_at: yes
           plugin_music_provider: spotify
           plugin_music_user: nairolf32
-          
-          
