@@ -1,69 +1,6 @@
-[![](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=nair0lf32&width=10&branding=false&badges=0&style=--header-bg-color:%23000")](https://profile.codersrank.io/user/nair0lf32/)
+# Tech
 
-# My Stuff
-
-This list is personal and might be updated very often
-
-## Learning
-
-- [Alx](https://www.alxafrica.com/) and [theRoom](https://member.theroom.com/profile/56e7f6e1-909c-42d9-8747-b6b369de4bbb)
-- [Openclassrooms](https://openclassrooms.com/)
-- [Freecodecamp](https://www.freecodecamp.org/nairolf32)
-- [Pluralsight](https://app.pluralsight.com/profile/florian-edemessi)
-- [Microsoft](https://docs.microsoft.com/en-us/users/florianedemessi-2820/?source=docs)
-- [Google](https://g.dev/nair0lf32)
-- [IBM](https://www.ibm.com/training/mylearning/home)
-- [GFG](https://auth.geeksforgeeks.org/user/nairolf32/profile)
-- [sololearn](https://www.sololearn.com/profile/4507307/?ref=app) (on the go)
-
-I love cheatsheets so I am sharing those:
-
-- [learnxinyminutes](https://learnxinyminutes.com/)
-- [codeacademy](https://www.codecademy.com/resources/cheatsheets/all)
-- [devhints](https://devhints.io/)
-
-For those that learn by doing:
-- [project based tutorials](https://github.com/practical-tutorials/project-based-learning)
-- [build your own X](https://build-your-own-x.vercel.app/)
-- [projectlearn](https://projectlearn.io/)
-
-Or if instead reading is your passion, try:
-
-- [devdocs](https://devdocs.io/)
-- [The algorithms](https://the-algorithms.com/)
-
-Miscellanous:
-
-- [khan academy](https://fr.khanacademy.org/profile/me/) (for basics)
-- [Duolingo](https://www.duolingo.com/profile/FlorianEDE509379) (me no speak ingles)
-
-## Blogging
-
-I have an account on most platforms (Mostly to read, but sometimes I write sh*tty articles).  
-Listed from my favorite to less favorite
-
-- [Hashnode](https://nairolf32.hashnode.dev/)
-- [Hackernoon](https://hackernoon.com/u/nairolf32)
-- [Dev.to](https://dev.to/nair0lf32)
-- [Medium](https://medium.com/@nairolf32)
-
-## Practice (I am everywhere lol)
-- [Codepen](https://codepen.io/nair0lf32/)
-- [codesandbox](https://codesandbox.io/u/nairolf32)
-- [Hackerrank](https://www.hackerrank.com/nair0lf32)
-- [Codewars](https://www.codewars.com/users/nair0lf32)
-- [project euler](https://projecteuler.net/)
-- [coderbyte](https://coderbyte.com/profile/nairolf32)
-- [geekstatic](https://app.geektastic.com/dashboard)
-- [leetcode](https://leetcode.com/florianedem/)
-- [topcoder](https://www.topcoder.com/members/nairolf32)
-- [codingame](https://www.codingame.com/profile/2a8066199551bbb0ab8497876d1381cc2842444)
-- [beecrowd](https://www.beecrowd.com.br/judge/en/profile/776503)
-- [kaggle](https://www.kaggle.com/florianedemessi)
-- [atcoder](https://atcoder.jp/users/nairolf32)
-- [codechef](https://www.codechef.com/users/nairolf32/)
-- [codeforces](https://codeforces.com/profile/nairolf32)
-- [hackerearth](https://www.hackerearth.com/@florianedem)
+Random list of tools and utilities I use frequently
 
 # Hosting
 
@@ -77,6 +14,7 @@ After [heroku](https://www.heroku.com/) decided to pull that devastating move on
 | Random          | [Replit](https://replit.com/~)                                                |
 
 And most importantly, [Freefordev](https://free-for.dev/#/?id=paas) for more
+
 ## Other workplaces
 
 - [Docker hub](https://hub.docker.com/repositories) 🐳
@@ -110,18 +48,18 @@ And most importantly, [Freefordev](https://free-for.dev/#/?id=paas) for more
 - [RpgMaker](https://www.rpgmakerweb.com/)
 - [Unity](https://unity.com/fr)
 - [Godot](https://godotengine.org/)
-- [Unreal engine](https://www.unrealengine.com/en-US/) 
+- [Unreal engine](https://www.unrealengine.com/en-US/)
 
 Compensating my lack of skill with many tools
 
 ## Gaming
 
 - [steam](https://store.steampowered.com/?l=french)
-- [Discord](https://discord.com/) 
-- [op.gg](https://www.op.gg/) 
-- [medal](https://medal.tv/) 
+- [Discord](https://discord.com/)
+- [op.gg](https://www.op.gg/)
+- [medal](https://medal.tv/)
 - [OBS studio](https://obsproject.com/fr)
-- [twitch](https://www.twitch.tv/?lang=fr) 
+- [twitch](https://www.twitch.tv/?lang=fr)
 - [romstation](https://www.romstation.fr/) (I am something of a gamer myself)
 
 ## Utilities
@@ -132,21 +70,4 @@ Compensating my lack of skill with many tools
 - [REE](https://www.rapidee.com/en/about) (I like editing windows path from CLI but I also enjoy simplicity)
 - Anything from [here](https://www.nirsoft.net/)
 
-
-# MY Certifications
-
-I am not very fond of the idea that certificates are a good skill indicator  
-or even absolute proof of experience, especially when they are free, But i think  
-they can be useful to quickly showcase what someone acomplished or did.
-
-For the moment I just want to keep a track of my certifications links here (most are free):
-
-## Coding/IT
-
-## Cybersecurity
-
-- [EHE](https://codered.eccouncil.org/certificate/3dba20b9-805a-4902-a235-57c4d7fc4bb0?logged=true)
-- [NDE](https://codered.eccouncil.org/certificate/34d83454-2adb-43b7-bb3f-23f486918966?logged=true)
-
-
-[Wrapped!](https://nair0lf32.wrapped.run) 
+[Wrapped!](https://nair0lf32.wrapped.run)
