@@ -11,7 +11,8 @@ After [heroku](https://www.heroku.com/) decided to pull that devastating move on
 | Php + Mysql     | [000webhost](https://fr.000webhost.com/), [railway](https://railway.app/)                           |
 | Static          | [Netlify](https://app.netlify.com/teams/nair0lf32/overview), [Vercel](https://vercel.com/dashboard) |
 | python          | [Python anywhere](https://www.pythonanywhere.com/user/nairolf32/), [Anvil](https://anvil.works)     |
-| Random          | [Replit](https://replit.com/~)                                                |
+| Random          | [Replit](https://replit.com/~) , [render](https://dashboard.render.com/)                                               |
+
 
 And most importantly, [Freefordev](https://free-for.dev/#/?id=paas) for more
 
