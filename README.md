@@ -16,7 +16,7 @@ May you ever find something you like
 
 ## Metrics details
 
-I joined GitHub on **5 Jan 2018**, **5** years ago, and so far, I Contributed to **62** repositories, Created **84** repositories with **41** stargazers, Starred **473** repositories myself, Made **3894** commits, Joined **1** organizations, Made **37** pull requests, Involved myself into **5** issues. I am following **28** great inspiring coders and got **69** great ones behind me, to which I am very thankful 💛.
+I joined GitHub on **5 Jan 2018**, **5** years ago, and so far, I Contributed to **62** repositories, Created **84** repositories with **41** stargazers, Starred **473** repositories myself, Made **3901** commits, Joined **1** organizations, Made **37** pull requests, Involved myself into **5** issues. I am following **28** great inspiring coders and got **69** great ones behind me, to which I am very thankful 💛.
 I am Currently using these coding languages and tools mostly:
 
 [![My Skills](https://skillicons.dev/icons?i=linux,bash,c,js,python,php,java,kotlin,flutter,golang)](https://skillicons.dev)
@@ -37,6 +37,6 @@ I am Currently using these coding languages and tools mostly:
 
 ( And [many more](https://about.me/florian_edemessi) )
 
-*Also, If you wanna see my favorite places for [learning](learning.md), [practice coding](https://github.com/nair0lf32/challenger) or just [random tools I use frequently](tech.md) follow the given links. Feel free to check my pinned repositories for more details about my main projects*
+*Also, If you wanna see my favorite places for [learning](https://github.com/nair0lf32/challenger/blob/master/learning.md), [practice coding](https://github.com/nair0lf32/challenger) or just [random tools I use frequently](tech.md) follow the given links. Feel free to check my pinned repositories for more details about my main projects*
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder)
