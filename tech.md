@@ -31,7 +31,7 @@ I am a big Google fan (they provide alot of free stuff, and they own my data) So
 - [Google drive](https://drive.google.com/drive/my-drive) for important document storage
 - [blogger](https://www.blogger.com/profile/16394861194423407651) and [Google sites](https://sites.google.com/)
 - [search console](https://search.google.com/search-console/welcome), [cloud console](https://console.cloud.google.com/welcome), [play console](https://play.google.com/console/signup) (when I get that money) and all their other consoles...
-- [Google photos](https://photos.google.com/) (Or alternatively [flickr](https://flickr.com), [imgur](https://imgur.com) and [imgbb](https://florian-edemessi.imgbb.com/))
+- [Google photos](https://photos.google.com/) (Or alternatively [flickr](https://flickr.com), [imgur](https://imgur.com), [imgpile](https://imgpile.com/nairolf32), [imgbox](https://imgbox.com/)  and [imgbb](https://florian-edemessi.imgbb.com/))
 
 # Misc Tools
 
