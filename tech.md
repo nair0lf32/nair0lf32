@@ -77,6 +77,7 @@ Compensating my lack of skill with many tools
 
 # Utilities
 
+- [notion](https://notion.so)
 - [clipgrab](https://clipgrab.de/fr)
 - [FDM](https://www.freedownloadmanager.org/) (For my not-so-legal downloads)
 - [spotify](https://www.spotify.com/fr/), [soundcloud](https://m.soundcloud.com), [Audiomack](https://audiomack.com) (I need it)
