@@ -2,19 +2,24 @@
 
 Random list of tools and utilities I use frequently
 
+# Cloud and Vps
+
+I use mostly [akamai/linode](https://cloud.linode.com) (tested [digitalocean](https://cloud.digitalocean.com/) too) for my VPS as they are cheaper and more beginner-friendly than google, azure, aws...
+
+
 # Hosting
 
-After [heroku](https://www.heroku.com/) decided to pull that devastating move on "penyless" developpers I wanna keep an eye on all my best hosting services here:
+Friendship with [heroku](https://www.heroku.com/) is over now these are my new friends:
 
 | Usages          | Hosting|
 |-----------------|--------|
 | Php + Mysql     | [000webhost](https://fr.000webhost.com/), [railway](https://railway.app/)                           |
-| Static          | [Netlify](https://app.netlify.com/teams/nair0lf32/overview), [Vercel](https://vercel.com/dashboard) |
+| Static          | [Netlify](https://app.netlify.com/teams/nair0lf32/overview), [Vercel](https://vercel.com/dashboard) and pages (github, gitlab, bitbucket, cloudflare...) |
 | python          | [Python anywhere](https://www.pythonanywhere.com/user/nairolf32/), [Anvil](https://anvil.works)     |
 | Random          | [Replit](https://replit.com/~) , [render](https://dashboard.render.com/)                                               |
 
 
-And most importantly, [Freefordev](https://free-for.dev/#/?id=paas) for more
+And most importantly anything from [Freefordev](https://free-for.dev/#/?id=paas)
 
 # Other workspaces
 

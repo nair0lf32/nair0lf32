@@ -38,6 +38,6 @@ I am Currently using these coding languages and tools mostly:
 
 ( And [many more](https://about.me/florian_edemessi) )
 
-*Also, If you wanna see my favorite places for [learning/practice coding](https://github.com/nair0lf32/challenger) or just [random tools I use frequently](tech.md) follow the given links. Feel free to check my pinned repositories for more details about my main projects*
+*Also, If you wanna see my favorite places for [learning/practice coding](https://github.com/nair0lf32/challenger) or just [random tools, technologies or services I use frequently](tech.md) follow the given links. Feel free to check my pinned repositories for more details about my main projects*
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder)
