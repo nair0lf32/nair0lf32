@@ -1,6 +1,11 @@
 # Tech
 
-Random list of tools and utilities I use frequently
+Random list of links for tools, services and utilities I use
+
+# Domains
+
+I happen to own domains with [namecheap](https://namecheap.com) and [.tech](https://get.tech) registrars. I also use multiple free subdomains wherever I can get them. I manage some from [here](http://freedns.afraid.org/domain/)
+
 
 # Cloud and Vps
 
@@ -30,10 +35,10 @@ And most importantly anything from [Freefordev](https://free-for.dev/#/?id=paas)
 - [launchpad](https://launchpad.net/~nairolf32)
 - [sourceforge](https://sourceforge.net/u/nair0lf32/profile)
 
-# Google tools
+# Google tools and alternatives
 
 I am a big Google fan (they provide alot of free stuff, and they own my data) So I use many of their tools 
-- [Google drive](https://drive.google.com/drive/my-drive) for important document storage
+- [Google drive](https://drive.google.com/drive/my-drive) for important document storage (or [mega](https://mega.nz))
 - [blogger](https://www.blogger.com/profile/16394861194423407651) and [Google sites](https://sites.google.com/)
 - [search console](https://search.google.com/search-console/welcome), [cloud console](https://console.cloud.google.com/welcome), [play console](https://play.google.com/console/signup) (when I get that money) and all their other consoles...
 - [Google photos](https://photos.google.com/) (Or alternatively [flickr](https://flickr.com), [imgur](https://imgur.com), [imgpile](https://imgpile.com/nairolf32), [imgbox](https://imgbox.com/)  and [imgbb](https://florian-edemessi.imgbb.com/))
@@ -83,6 +88,8 @@ Compensating my lack of skill with many tools
 # Utilities
 
 - [notion](https://notion.so)
+- [portmap](https://portmap.io/) (or ngrok)
+- [deepnote](https://deepnote.com/)
 - [clipgrab](https://clipgrab.de/fr)
 - [FDM](https://www.freedownloadmanager.org/) (For my not-so-legal downloads)
 - [spotify](https://www.spotify.com/fr/), [soundcloud](https://m.soundcloud.com), [Audiomack](https://audiomack.com) (I need it)
