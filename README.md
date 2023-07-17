@@ -11,7 +11,7 @@ Welcome to my personal GitHub. Here I put terrible spaghetti code and stuff. May
 
 ## Metrics details
 
-I joined GitHub on **5 Jan 2018**, **5** years ago, and so far, I Contributed to **62** repositories, Created **88** repositories with **42** stargazers, Starred **474** repositories myself, Made **3955** commits, Joined **1** organizations, Made **37** pull requests, Involved myself into **6** issues. I am following **29** great inspiring coders and got **69** great ones behind me, to which I am very thankful 💛.
+I joined GitHub on **5 Jan 2018**, **5** years ago, and so far, I Contributed to **62** repositories, Created **88** repositories with **42** stargazers, Starred **474** repositories myself, Made **3963** commits, Joined **1** organizations, Made **37** pull requests, Involved myself into **6** issues. I am following **29** great inspiring coders and got **69** great ones behind me, to which I am very thankful 💛.
 I am Currently using these coding languages and tools mostly:
 
 [![My Skills](https://skillicons.dev/icons?i=linux,bash,c,js,python,php,java,kotlin,flutter,golang)](https://skillicons.dev)
