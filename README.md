@@ -16,7 +16,7 @@ Welcome to my personal GitHub. Here I put terrible spaghetti code and stuff. May
 I joined GitHub on **5 Jan 2018**, which is **5** years ago, and so far, I contributed to just **54** repositories, with **92** repositories created by me. I got **0** nice stargazers, and starred **486** repositories myself, Made **3193** commits, joined **1** organizations, made **38** pull requests, Involved myself into **7** issues. I am following **31** great inspiring coders and got **71** great ones behind me, to which I am very thankful 💛. I am currently learning and creating stuff using these coding languages and tools mostly:
 
 [![My Skills](https://skillicons.dev/icons?i=linux,bash,c,js,python,php,java,kotlin,flutter,golang)](https://skillicons.dev)
-j
+
 ## Cool stuff I vibe with
 
 <img src="https://github.com/nair0lf32/nair0lf32/blob/main/.cache/nairolf-music.svg">
@@ -25,8 +25,10 @@ j
 
 ## wanna get in touch?
 
-Most (if not all) of my social links are available on my [about.me page right here](https://about.me/florian_edemessi). I recommend using mostly emails, whatsApp or discord as I check those more often, but feel free to use any of the other ones if you want to.
+Most (if not all) of my social links are available on my [about.me](https://about.me/florian_edemessi) page. I recommend using mostly emails, whatsApp or discord, as I check those more often, but feel free to use any of the other ones if you want to.
 
-*f you wanna see my favorite places for [learning/practice coding](https://github.com/nair0lf32/challenger) follow the given link. Also feel free to check my pinned repositories for more details about my main projects*
+*If you wanna see my favorite places for [learning or practice coding](https://github.com/nair0lf32/challenger) follow the given link.*
+
+*Also feel free to check my pinned repositories for more details about my main projects*
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder)
