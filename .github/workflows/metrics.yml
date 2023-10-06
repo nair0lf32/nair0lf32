@@ -23,22 +23,6 @@ jobs:
           base: header, activity, community, repositories, metadata
           base_indepth: yes
 
-          plugin_languages: yes
-          plugin_languages_limit: 5
-          plugin_languages_indepth: yes
-          plugin_languages_details: bytes-size, percentage, lines
-          plugin_languages_ignored: html, css, scss
-
-          plugin_achievements: yes
-          plugin_achievements_display: compact
-          plugin_achievements_threshold: S
-
-          plugin_notable: yes
-          plugin_notable_indepth: yes
-          plugin_notable_repositories: yes
-          plugin_notable_from: organization
-          plugin_notable_types: commit, pull-request, issue
-
           plugin_anilist: yes
           plugin_anilist_user: nairolf32
           plugin_anilist_medias: anime, manga
