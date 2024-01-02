@@ -6,17 +6,6 @@ A Med student who codes (somehow). I am a "self-taught" developer and software e
 
 **5** years ago I joined GitHub on **5 Jan 2018**, and so far, I contributed to **35** repositories, with just **79** repositories created by me. I got **39** nice stargazers, and starred **493** repositories myself, made **3250** commits, joined **1** organizations, made **39** pull requests, got involved into **7** issues. I am following **30** great inspiring people and got **70** great ones behind me too, to which I am very thankful 💛. I use a lot of coding languages and tools but my favorite ones are:
 
-<!-- Debugging: Output LANGUAGES array -->
-<pre>->
-  
-  
-  []
-</pre>
-
-
-  <p>No languages available</p>
-
-
 [![My Skills](https://skillicons.dev/icons?i=linux,bash,c,python,js,php,kotlin,flutter,golang,rust)](https://skillicons.dev)
 
 ## Cool music I vibe with
@@ -31,8 +20,4 @@ A Med student who codes (somehow). I am a "self-taught" developer and software e
 
 Most (if not all) of my social links are available on my [about.me](https://about.me/florian_edemessi) page. I recommend using mostly mails, whatsApp or discord to reach me faster, as I check those more often, but feel free to use any available link you want.
 
-*If you wanna see my favorite places for [learning or practice coding](https://github.com/nair0lf32/challenger) follow the given link.*
-
-*Also feel free to check my pinned repositories for more details about my main projects*
-
-![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder)
+*If you wanna see my favorite places for [learning or practice coding](https://github.com/nair0lf32/challenger) follow the given link. Also feel free to check my pinned repositories for more details about my main projects*
