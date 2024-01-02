@@ -8,6 +8,8 @@ Welcome to my personal GitHub, where I put terrible spaghetti code and stuff. Ma
 
 **5** years ago I joined GitHub on **5 Jan 2018**, and so far, I contributed to **35** repositories, with just **79** repositories created by me. I got **39** nice stargazers, and starred **493** repositories myself, made **3250** commits, joined **1** organizations, made **39** pull requests, got involved into **7** issues. I am following **30** great inspiring people and got **70** great ones behind me too, to which I am very thankful 💛. I use a lot of coding languages and tools but my favorite ones are:
 
+<!-- Debugging: Output LANGUAGES array -->
+<pre>[]</pre>
 
   <p>No languages available</p>
 
