@@ -1,18 +1,17 @@
 # Hi 👾, I'm Florian EDEMESSI
 
-<img src="/images/banner.jpg" alt="florian edemessi nairolf32 banner">
+A Med student who codes (somehow). I am a "self-taught" developer and software engineer **wannabe** with a decent understanding of web/software development most important concepts, fiddling with many programming languages at once (mostly C, Python, and Javascript) always learning new things (Golang and Rust currently). I am mostly trying to have fun and in the meantime, contribute to the development of awesome solutions for some of the world's silliest problems. I am also a terrible CTF player, passionate about cybersecurity and worst coding practices imaginable. I also happen to enjoy video games and silly memes (^_^)
 
-## That Med student who also code (somehow)
+Welcome to my personal GitHub, where I put terrible spaghetti code and stuff. May you ever find something you like
 
-I am a "self-taught" developer, and software engineer **wannabe** with a decent understanding of multiple web and software development concepts fiddling with some common programming languages like Python, Dart/flutter, Javascript, PHP, Java/Kotlin and looking forward to learn Golang and Rust. I am currently just learning and having fun trying to contribute to the development of awesome solutions for some of the world's silliest problems. I am also a very bad CTF player, passionate about cybersecurity and worst coding practices. I also happen to enjoy video games and silly memes ^_^
+## Metrics
 
-Welcome to my personal GitHub. Here I put terrible spaghetti code and stuff. May you ever find something you like here.
+**5** years ago I joined GitHub on **5 Jan 2018**, and so far, I contributed to **35** repositories, with just **79** repositories created by me. I got **39** nice stargazers, and starred **493** repositories myself, made **3250** commits, joined **1** organizations, made **39** pull requests, got involved into **7** issues. I am following **30** great inspiring people and got **70** great ones behind me too, to which I am very thankful 💛. I use a lot of coding languages and tools but my favorite ones are:
 
-## Metrics details
 
-I joined GitHub on **5 Jan 2018**, which was **5** years ago, and so far, I only contributed to **35** repositories, with **79** repositories created by me. I got **39** nice stargazers, and starred **493** repositories myself, Made **3250** commits, joined **1** organizations, made **39** pull requests, Involved myself into **7** issues. I am following **30** great inspiring coders and got **70** great ones behind me, to which I am very thankful 💛. I am currently using these coding languages and tools mostly:
 
-[![My Skills](https://skillicons.dev/icons?i=linux,bash,c,js,python,php,java,kotlin,flutter,golang)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=linux,bash,c,python,js,php,kotlin,flutter,golang,rust)](https://skillicons.dev)
 
 ## Cool music I vibe with
 
