@@ -8,7 +8,7 @@ A Med student who codes (somehow). I am a "self-taught" developer and software e
 
 <!-- Debugging: Output LANGUAGES array -->
 <pre>->
-  <%- console.log('Raw data:', plugins.languages?.favorites) %>
+  <%- console.log('Raw data:', plugins.languages) %>
   <%- console.log('Mapped data:', LANGUAGES) %>
   <%= JSON.stringify(LANGUAGES, null, 2) %>
 </pre>
