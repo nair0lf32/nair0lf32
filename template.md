@@ -8,6 +8,8 @@ Welcome to my personal GitHub, where I put terrible spaghetti code and stuff. Ma
 
 **{{ Math.round(REGISTERED_YEARS) }}** years ago I joined GitHub on **{{ f.date(REGISTRATION_DATE, {date:true}) }}**, and so far, I contributed to **{{ REPOSITORIES_CONTRIBUTED_TO }}** repositories, with just **{{ REPOSITORIES }}** repositories created by me. I got **{{ STARGAZERS }}** nice stargazers, and starred **{{ STARRED }}** repositories myself, made **{{ COMMITS }}** commits, joined **{{ ORGANIZATIONS }}** organizations, made **{{ PULL_REQUESTS }}** pull requests, got involved into **{{ ISSUES }}** issues. I am following **{{ FOLLOWING }}** great inspiring people and got **{{ FOLLOWERS }}** great ones behind me too, to which I am very thankful 💛. I use a lot of coding languages and tools but my favorite ones are:
 
+<!-- Debugging: Output LANGUAGES array -->
+<pre><%= JSON.stringify(LANGUAGES, null, 2) %></pre>
 <% if (LANGUAGES && LANGUAGES.length > 0) { %>
   <ul>
     <% LANGUAGES.forEach(language => { %>
