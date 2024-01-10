@@ -4,7 +4,7 @@ A Med student who codes (somehow). I am a "self-taught" developer and software e
 
 ## Metrics
 
-**6** years ago I joined GitHub on **5 Jan 2018**, and so far, I contributed to **30** repositories, with just **77** repositories created by me. I got **39** nice stargazers, and starred **495** repositories myself, made **3286** commits, joined **1** organizations, made **39** pull requests, got involved into **7** issues. I am following **30** great inspiring people and got **71** great ones behind me too, to which I am very thankful 💛. I use a lot of coding languages and tools but my favorite ones are:
+**6** years ago I joined GitHub on **5 Jan 2018**, and so far, I contributed to **28** repositories, with just **75** repositories created by me. I got **38** nice stargazers, and starred **495** repositories myself, made **3287** commits, joined **1** organizations, made **39** pull requests, got involved into **7** issues. I am following **30** great inspiring people and got **71** great ones behind me too, to which I am very thankful 💛. I use a lot of coding languages and tools but my favorite ones are:
 
 [![My Skills](https://skillicons.dev/icons?i=linux,bash,c,python,js,php,kotlin,flutter,golang,rust)](https://skillicons.dev)
 
