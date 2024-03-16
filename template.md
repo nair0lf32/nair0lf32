@@ -11,20 +11,22 @@ Most (if not all) of my social links are available on my [about.me](https://abou
   </picture>
 </a>
 
-| Metric | Value |
-|--------|-------|
-|REGISTERED YEARS|**{{ Math.round(REGISTERED_YEARS) }}**|
-|REGISTRATION DATE|**{{ f.date(REGISTRATION_DATE, {date:true}) }}**|
-|REPOSITORIES|**{{ REPOSITORIES }}**|
-|CONTRIBUTED TO|**{{ REPOSITORIES_CONTRIBUTED_TO }}**|
-|STARGAZERS|**{{ STARGAZERS }}**|
-|STARRED|**{{ STARRED }}**|
-|COMMIT COUNT|**{{ COMMITS }}**|
-|ORGANIZATIONS|**{{ ORGANIZATIONS }}**|
-|PULL REQUESTS|**{{ PULL_REQUESTS }}**|
-|ISSUES|**{{ ISSUES }}**|
-|FOLLOWING|**{{ FOLLOWING }}**|
-|FOLLOWERS 💛|**{{ FOLLOWERS }}**|
+```python
+metrics = {
+  "REGISTERED_YEARS": *{{ Math.round(REGISTERED_YEARS) }}**,
+    "REGISTRATION_DATE": **{{ f.date(REGISTRATION_DATE, {date:true}) }}**,
+    "REPOSITORIES": **{{ REPOSITORIES }}**,
+    "CONTRIBUTED_TO": **{{ REPOSITORIES_CONTRIBUTED_TO }}**,
+    "STARGAZERS": **{{ STARGAZERS }}**,
+    "STARRED": **{{ STARRED }}**,
+    "COMMIT_COUNT": **{{ COMMITS }}**,
+    "ORGANIZATIONS": **{{ ORGANIZATIONS }}**,
+    "PULL_REQUESTS": **{{ PULL_REQUESTS }}**,
+    "ISSUES": **{{ ISSUES }}**,
+    "FOLLOWING": **{{ FOLLOWING }}**,
+    "FOLLOWERS 💛": **{{ FOLLOWERS }}**
+}
+```
 
 ## some cool things I vibe with
 
