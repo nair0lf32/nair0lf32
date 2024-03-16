@@ -4,6 +4,13 @@ Another one of those "self-taught" developers and software "engineers" **wannabe
 
 Most (if not all) of my social links are available on my [about.me](https://about.me/florian_edemessi) page if you ever wanna get in touch. I recommend using mostly email, whatsApp or discord to reach me faster, as I check those more often, but feel free to use any available link you want. *Feel free to check my pinned repositories for more details about my **main** projects*
 
+<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=35136136" target="_blank" style="display: block" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=35136136&image_size=auto&color_scheme=dark" width="771" height="auto">
+    <img alt="Dashboard stats of @nair0lf32" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=35136136&image_size=auto&color_scheme=light" width="771" height="auto">
+  </picture>
+</a>
+
 | Metric | Value |
 |--------|-------|
 |REGISTERED YEARS|**{{ Math.round(REGISTERED_YEARS) }}**|
@@ -19,15 +26,7 @@ Most (if not all) of my social links are available on my [about.me](https://abou
 |FOLLOWING|**{{ FOLLOWING }}**|
 |FOLLOWERS 💛|**{{ FOLLOWERS }}**|
 
-<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=35136136" target="_blank" style="display: block" align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=35136136&image_size=auto&color_scheme=dark" width="771" height="auto">
-    <img alt="Dashboard stats of @nair0lf32" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=35136136&image_size=auto&color_scheme=light" width="771" height="auto">
-  </picture>
-</a>
-
 ## some cool things I vibe with
 
 <%- await embed(`nairolf-music`, {music:true, music_token:"${{ secrets.SPOTIFY_SECRET }}", music_mode:"recent", music_played_at:true, music_provider:"spotify", music_user:"nairolf32"}) %>
-
 <%- await embed(`nairolf-anilist`, {anilist:true, anilist_user:"nairolf32", anilist_sections:"characters"}) %>
