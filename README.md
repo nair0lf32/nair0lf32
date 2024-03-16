@@ -4,6 +4,13 @@ Another one of those "self-taught" developers and software "engineers" **wannabe
 
 Most (if not all) of my social links are available on my [about.me](https://about.me/florian_edemessi) page if you ever wanna get in touch. I recommend using mostly email, whatsApp or discord to reach me faster, as I check those more often, but feel free to use any available link you want. *Feel free to check my pinned repositories for more details about my **main** projects*
 
+<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=35136136" target="_blank" style="display: block" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=35136136&image_size=auto&color_scheme=dark" width="771" height="auto">
+    <img alt="Dashboard stats of @nair0lf32" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=35136136&image_size=auto&color_scheme=light" width="771" height="auto">
+  </picture>
+</a>
+
 | Metric | Value |
 |--------|-------|
 |REGISTERED YEARS|**6**|
@@ -19,15 +26,7 @@ Most (if not all) of my social links are available on my [about.me](https://abou
 |FOLLOWING|**28**|
 |FOLLOWERS 💛|**68**|
 
-<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=35136136" target="_blank" style="display: block" align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=35136136&image_size=auto&color_scheme=dark" width="771" height="auto">
-    <img alt="Dashboard stats of @nair0lf32" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=35136136&image_size=auto&color_scheme=light" width="771" height="auto">
-  </picture>
-</a>
-
 ## some cool things I vibe with
 
 <img src="https://github.com/nair0lf32/nair0lf32/blob/main/.cache/nairolf-music.svg">
-
 <img src="https://github.com/nair0lf32/nair0lf32/blob/main/.cache/nairolf-anilist.svg">
