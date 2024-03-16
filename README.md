@@ -11,20 +11,22 @@ Most (if not all) of my social links are available on my [about.me](https://abou
   </picture>
 </a>
 
-| Metric | Value |
-|--------|-------|
-|REGISTERED YEARS|**6**|
-|REGISTRATION DATE|**5 Jan 2018**|
-|REPOSITORIES|**79**|
-|CONTRIBUTED TO|**37**|
-|STARGAZERS|**38**|
-|STARRED|**520**|
-|COMMIT COUNT|**3376**|
-|ORGANIZATIONS|**1**|
-|PULL REQUESTS|**39**|
-|ISSUES|**7**|
-|FOLLOWING|**28**|
-|FOLLOWERS 💛|**68**|
+```python
+metrics = {
+  "REGISTERED_YEARS": *6**,
+    "REGISTRATION_DATE": **5 Jan 2018**,
+    "REPOSITORIES": **79**,
+    "CONTRIBUTED_TO": **37**,
+    "STARGAZERS": **38**,
+    "STARRED": **520**,
+    "COMMIT_COUNT": **3376**,
+    "ORGANIZATIONS": **1**,
+    "PULL_REQUESTS": **39**,
+    "ISSUES": **7**,
+    "FOLLOWING": **28**,
+    "FOLLOWERS 💛": **68**
+}
+```
 
 ## some cool things I vibe with
 
