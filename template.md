@@ -42,4 +42,4 @@ metrics = {
 ## some cool things I vibe with
 
 <%- await embed(`nairolf-music`, {music:true, music_token:"${{ secrets.SPOTIFY_SECRET }}", music_mode:"recent", music_played_at:true, music_provider:"spotify", music_user:"nairolf32"}) %>
-<%- await embed(`nairolf-anilist`, {anilist:true, anilist_user:"nairolf32", anilist_sections:"characters", anilist_limit_characters:4}) %>
+<%- await embed(`nairolf-anilist`, {anilist:true, anilist_user:"nairolf32", anilist_sections:"characters", anilist_limit_characters:6}) %>
