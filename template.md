@@ -1,8 +1,20 @@
 # Greetings 👾, I am Florian EDEMESSI
 
-Another one of those "self-taught" developers and software "engineers" **wannabe** with some vague and imprecise understanding of web/software development concepts and paradigms, fiddling with many programming languages at once, learning some things on the way and breaking more. I am mostly trying to have fun and [contribute](https://ossrank.com/c/46498) to the development of solutions for some of the world's silliest problems. Also I happen to be a terrible CTF player, passionate about cybersecurity and the worst coding practices imaginable. I also like Video games and silly memes (^_^) Welcome to my personal GitHub, where I put the spaghetti code and stuff. May you ever find something you like
+Another "self-taught" developer and software "engineer" **wannabe** with some (vague and imprecise)
+understanding of web/software development concepts and paradigms, fiddling with many programming languages
+at once, learning some things on the way (and breaking some more). I am mostly trying to have fun and
+[contribute](https://ossrank.com/c/46498) to the development of solutions for some of the world's
+silliest problems. Also I happen to be a terrible CTF player, passionate about cybersecurity and
+the worst coding practices imaginable. I also like Video games and silly memes (^_^)
 
-Most (if not all) of my social links are available on my [about.me](https://about.me/florian_edemessi) page if you ever wanna get in touch. I recommend using mostly email, whatsApp or discord to reach me faster, as I check those more often, but feel free to use any available link you want. *Feel free to check my pinned repositories for more details about my **main** projects*
+Welcome to my personal GitHub, where I put the spaghetti code and stuff.
+May you ever find something you like!
+
+Most (if not all) of my social links are available on my [about.me](https://about.me/florian_edemessi) page
+if you ever wanna get in touch with me. I recommend using mostly email/whatsApp/Discord to reach me faster,
+as I check those more often, but feel free to use any available link you want.
+
+*Feel free to check my pinned repositories for more details about my **main** projects*
 
 <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=35136136" target="_blank" style="display: block" align="center">
   <picture>
@@ -11,13 +23,23 @@ Most (if not all) of my social links are available on my [about.me](https://abou
   </picture>
 </a>
 
-```python
+```javascript
 metrics = {
-  "REGISTERED_YEARS": {{ Math.round(REGISTERED_YEARS) }}, "REGISTRATION_DATE": {{ f.date(REGISTRATION_DATE, {date:true}) }}, "REPOSITORIES": {{ REPOSITORIES }}, "CONTRIBUTED_TO": {{ REPOSITORIES_CONTRIBUTED_TO }}, "STARGAZERS": {{ STARGAZERS }}, "STARRED": {{ STARRED }}, "COMMIT_COUNT": {{ COMMITS }}, "ORGANIZATIONS": {{ ORGANIZATIONS }}, "PULL_REQUESTS": {{ PULL_REQUESTS }}, "ISSUES": {{ ISSUES }}, "FOLLOWING": {{ FOLLOWING }}, "FOLLOWERS 💛": {{ FOLLOWERS }}
+  "REGISTERED_YEARS": {{ Math.round(REGISTERED_YEARS) }},
+  "REGISTRATION_DATE": {{ f.date(REGISTRATION_DATE, {date:true}) }},
+  "REPOSITORIES": {{ REPOSITORIES }},
+  "CONTRIBUTED_TO": {{ REPOSITORIES_CONTRIBUTED_TO }},
+  "STARGAZERS": {{ STARGAZERS }},
+  "STARRED": {{ STARRED }},
+  "COMMIT_COUNT": {{ COMMITS }},
+  "ORGANIZATIONS": {{ ORGANIZATIONS }},
+  "PULL_REQUESTS": {{ PULL_REQUESTS }},
+  "ISSUES": {{ ISSUES }}, "FOLLOWING": {{ FOLLOWING }},
+  "FOLLOWERS 💛": {{ FOLLOWERS }}
 }
 ```
 
 ## some cool things I vibe with
 
 <%- await embed(`nairolf-music`, {music:true, music_token:"${{ secrets.SPOTIFY_SECRET }}", music_mode:"recent", music_played_at:true, music_provider:"spotify", music_user:"nairolf32"}) %>
-<%- await embed(`nairolf-anilist`, {anilist:true, anilist_user:"nairolf32", anilist_sections:"characters"}) %>
+<%- await embed(`nairolf-anilist`, {anilist:true, anilist_user:"nairolf32", anilist_sections:"characters", anilist_limit_characters:4}) %>
