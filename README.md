@@ -25,13 +25,13 @@ as I check those more often, but feel free to use any available link you want.
 
 ```javascript
 metrics = {
-  "REGISTERED_YEARS": 6,
+  "REGISTERED_YEARS": 7,
   "REGISTRATION_DATE": 5 Jan 2018,
   "REPOSITORIES": 90,
   "CONTRIBUTED_TO": 37,
-  "STARGAZERS": 43,
-  "STARRED": 644,
-  "COMMIT_COUNT": 3658,
+  "STARGAZERS": 0,
+  "STARRED": 645,
+  "COMMIT_COUNT": 3661,
   "ORGANIZATIONS": 1,
   "PULL_REQUESTS": 78,
   "ISSUES": 7, "FOLLOWING": 37,
