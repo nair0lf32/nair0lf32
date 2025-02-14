@@ -33,7 +33,7 @@ metrics = {
   "STARRED": 648,
   "COMMIT_COUNT": 3673,
   "ORGANIZATIONS": 1,
-  "PULL_REQUESTS": 78,
+  "PULL_REQUESTS": 79,
   "ISSUES": 7, "FOLLOWING": 37,
   "FOLLOWERS 💛": 75
 }
