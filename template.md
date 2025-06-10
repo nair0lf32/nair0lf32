@@ -20,8 +20,8 @@ Most (if not all) of my social links are available on my **[About me](https://ab
 [![Django](https://img.shields.io/badge/Django-%23092E20.svg?logo=django&logoColor=white)](https://www.djangoproject.com/) and
 [![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=fff)](https://fastapi.tiangolo.com/) , data analysis, and automation scripts...
 - [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](https://www.typescriptlang.org/) for frontend development with various frameworks and [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwindcss&logoColor=fff)](#) for most styling
-- [![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=fff)](#) / [![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=fff)](#) for cross-platform mobile app development.
-- [![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=fff)](#) for performance-critical applications, backend services and CLI tools
+- [![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=fff)](https://dart.dev/) / [![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=fff)](https://flutter.dev/) for cross-platform mobile app development.
+- [![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=fff)](https://go.dev/) for performance-critical applications, backend services and CLI tools
 - Anything else for learning purposes or for fun
 
 
