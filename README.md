@@ -25,17 +25,17 @@ as I check those more often, but feel free to use any available link you want.
 
 ```javascript
 metrics = {
-  "REGISTERED_YEARS": 6,
+  "REGISTERED_YEARS": 7,
   "REGISTRATION_DATE": 5 Jan 2018,
-  "REPOSITORIES": 90,
-  "CONTRIBUTED_TO": 38,
+  "REPOSITORIES": 91,
+  "CONTRIBUTED_TO": 22,
   "STARGAZERS": 0,
-  "STARRED": 622,
-  "COMMIT_COUNT": 3620,
+  "STARRED": 661,
+  "COMMIT_COUNT": 3703,
   "ORGANIZATIONS": 1,
-  "PULL_REQUESTS": 77,
-  "ISSUES": 7, "FOLLOWING": 35,
-  "FOLLOWERS 💛": 73
+  "PULL_REQUESTS": 91,
+  "ISSUES": 7, "FOLLOWING": 37,
+  "FOLLOWERS 💛": 76
 }
 ```
 
