@@ -40,12 +40,12 @@ Most (if not all) of my social links are available on my **[About me](https://ab
 metrics = {
   "REGISTERED_YEARS": 7,
   "REGISTRATION_DATE": 5 Jan 2018,
-  "REPOSITORIES": 89,
-  "CONTRIBUTED_TO": 22,
-  "STARGAZERS": 43,
+  "REPOSITORIES": 86,
+  "CONTRIBUTED_TO": 24,
+  "STARGAZERS": 0,
   "STARRED": 667,
-  "COMMIT_COUNT": 3709,
-  "ORGANIZATIONS": 1,
+  "COMMIT_COUNT": 3712,
+  "ORGANIZATIONS": 3,
   "PULL_REQUESTS": 94,
   "ISSUES": 7, "FOLLOWING": 37,
   "FOLLOWERS 💛": 76
