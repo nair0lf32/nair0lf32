@@ -4,7 +4,7 @@
 
 Hi, I'm *EDEMESSI Florian* — a curious guy from 🇧🇯 with a decent understanding of software development paradigms.
 
-I tinker with ~~too~~ many programming languages, often breaking things, but always learning something new in the process. I'm mostly here to have fun and contribute to solving some of the world’s silliest problems (especially in healthcare). I’m also a terrible CTF player, cybersecurity enthusiast, and a devoted practitioner of the worst coding practices imaginable.
+I tinker with ~~too~~ many programming languages, often breaking things, but always learning something new in the process. I'm mostly here to have fun and **[contribute](https://ossrank.com/c/46498)** to solving some of the world’s silliest problems (especially in healthcare). I’m also a terrible CTF player, cybersecurity enthusiast, and a devoted practitioner of the worst coding practices imaginable.
 
 I also like videogames, silly memes, and long debugging hours
 
@@ -22,8 +22,7 @@ Most (if not all) of my social links are available on my **[About me](https://ab
 - [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](https://www.typescriptlang.org/) for frontend development with various frameworks and [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwindcss&logoColor=fff)](#) for most styling
 - [![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=fff)](https://dart.dev/) / [![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=fff)](https://flutter.dev/) for cross-platform mobile app development.
 - [![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=fff)](https://go.dev/) for performance-critical applications, backend services and CLI tools
-- [![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=fff)](https://www.rust-lang.org/) for state-of-the-art grade performance and security tools, mostly for learning purposes (and flexing)
-- Anything else (C/C++, PHP, SQL and NoSQL DBMS, Docker, Github actions for CI/CD...) for learning purposes, utility or for fun
+- Anything else (C/C++, Rust, PHP, SQL and NoSQL DBMS, Docker, Github actions for CI/CD...) mostly for learning purposes, utility or for fun
 
 
 ## 📊 GitHub Stats
@@ -41,10 +40,10 @@ Most (if not all) of my social links are available on my **[About me](https://ab
 metrics = {
   "REGISTERED_YEARS": 7,
   "REGISTRATION_DATE": 5 Jan 2018,
-  "REPOSITORIES": 82,
-  "CONTRIBUTED_TO": 24,
-  "STARGAZERS": 0,
-  "STARRED": 709,
+  "REPOSITORIES": 83,
+  "CONTRIBUTED_TO": 25,
+  "STARGAZERS": 30,
+  "STARRED": 713,
   "COMMIT_COUNT": 3770,
   "ORGANIZATIONS": 3,
   "PULL_REQUESTS": 98,
