@@ -4,7 +4,7 @@
 
 Hi, I'm *EDEMESSI Florian* — a curious guy from 🇧🇯 with a decent understanding of software development paradigms.
 
-I tinker with ~~too~~ many programming languages, often breaking things, but always learning something new in the process. I'm mostly here to have fun and **contribut** to solving some of the world’s silliest problems (especially in healthcare). I’m also a terrible CTF player, cybersecurity enthusiast, and a devoted practitioner of the worst coding practices imaginable.
+I tinker with ~~too~~ many programming languages, often breaking things, but always learning something new in the process. I'm mostly here to have fun and **contribute** to solving some of the world’s silliest problems (especially in healthcare). I’m also a terrible CTF player, cybersecurity enthusiast, and a devoted practitioner of the worst coding practices imaginable.
 
 I also like videogames, silly memes, and long debugging hours
 
