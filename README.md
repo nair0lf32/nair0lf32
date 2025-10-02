@@ -50,7 +50,7 @@ metrics = {
   "ORGANIZATIONS": 3,
   "PULL_REQUESTS": 104,
   "ISSUES": 7, "FOLLOWING": 47,
-  "FOLLOWERS 💛": 77
+  "FOLLOWERS 💛": 76
 }
 ```
 
