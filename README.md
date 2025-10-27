@@ -49,7 +49,7 @@ metrics = {
   "COMMIT_COUNT": 3822,
   "ORGANIZATIONS": 3,
   "PULL_REQUESTS": 107,
-  "ISSUES": 7, "FOLLOWING": 48,
+  "ISSUES": 7, "FOLLOWING": 49,
   "FOLLOWERS 💛": 76
 }
 ```
