@@ -42,15 +42,15 @@ Anything else (C/C++, PHP, SQL and NoSQL DBMS, Docker, Github actions for CI/CD.
 metrics = {
   "REGISTERED_YEARS": 7,
   "REGISTRATION_DATE": 5 Jan 2018,
-  "REPOSITORIES": 85,
-  "CONTRIBUTED_TO": 24,
-  "STARGAZERS": 29,
-  "STARRED": 760,
-  "COMMIT_COUNT": 3822,
+  "REPOSITORIES": 86,
+  "CONTRIBUTED_TO": 25,
+  "STARGAZERS": 0,
+  "STARRED": 761,
+  "COMMIT_COUNT": 3823,
   "ORGANIZATIONS": 3,
   "PULL_REQUESTS": 109,
   "ISSUES": 7, "FOLLOWING": 49,
-  "FOLLOWERS 💛": 76
+  "FOLLOWERS 💛": 77
 }
 ```
 
