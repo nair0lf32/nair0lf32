@@ -32,7 +32,7 @@ Anything else (C/C++, PHP, SQL and NoSQL DBMS, Docker, Github actions for CI/CD.
 
 ```javascript
 metrics = {
-  "REGISTERED_YEARS": 7,
+  "REGISTERED_YEARS": 8,
   "REGISTRATION_DATE": 5 Jan 2018,
   "REPOSITORIES": 82,
   "CONTRIBUTED_TO": 26,
