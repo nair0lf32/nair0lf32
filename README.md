@@ -24,8 +24,7 @@ metrics = {
 }
 ```
 
-<img src="https://github.com/nair0lf32/nair0lf32/blob/main/.cache/nairolf-notable.svg">
-
+<img src="https://github.com/nair0lf32/nair0lf32/blob/main/.cache/nairolf32-languages.svg">
 
 ## 📚 Extra Activities
 
