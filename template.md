@@ -24,8 +24,7 @@ metrics = {
 }
 ```
 
-<%- await embed(`nairolf-notable`, {notable:true, notable_indepth:true}) %>
-
+<%- await embed(`nairolf32-languages`, {languages:true}) %>
 
 ## 📚 Extra Activities
 

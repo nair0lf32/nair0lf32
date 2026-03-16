@@ -1,10 +1,7 @@
 name: Metrics
 on:
-  # Schedule daily updates
   schedule: [{ cron: "0 0 * * *" }]
-  # (optional) Run workflow manually
   workflow_dispatch:
-  # (optional) Run workflow when pushing on master/main
   push: { branches: ["master", "main"] }
 jobs:
   github-metrics:
@@ -25,6 +22,9 @@ jobs:
           extras_css: |
             .field.warning { display: none; }
             /* Hide Irrelevent warnings (temporary fix) */
+
+          plugin_languages: yes
+
           plugin_anilist: yes
           plugin_anilist_user: nairolf32
           plugin_anilist_sections: characters
@@ -33,9 +33,6 @@ jobs:
           plugin_music_token: ${{ secrets.LASTFM_SECRET }}
           plugin_music_provider: lastfm
           plugin_music_user: nairolf32
-
-          plugin_leetcode: yes
-          plugin_leetcode_user: nairolf32
 
           plugin_notable: yes
           plugin_notable_indepth: yes
