@@ -38,6 +38,7 @@ jobs:
           plugin_leetcode_user: nairolf32
 
           plugin_notable: yes
+          plugin_notable_indepth: yes
 
           plugin_achievements: yes
 
