@@ -24,7 +24,7 @@ metrics = {
 }
 ```
 
-<%- await embed(`nairolf32-languages`, {languages:true}) %>
+<%- await embed(`nairolf32-languages`, {languages:true, languages_details:"bytes-size, percentages", languages_indepth:true}) %>
 
 ## 📚 Extra Activities
 

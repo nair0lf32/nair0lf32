@@ -24,6 +24,8 @@ jobs:
             /* Hide Irrelevent warnings (temporary fix) */
 
           plugin_languages: yes
+          plugin_languages_details: bytes-size, percentages
+          plugin_languages_indepth: yes
 
           plugin_anilist: yes
           plugin_anilist_user: nairolf32
