@@ -28,6 +28,8 @@ metrics = {
 
 ## 📚 Extra Activities
 
+<%- await embed(`nairolf-gaming`, {steam:true, steam_user:"76561198264941556", steam_token:"${{ secrets.STEAM_SECRET }}"}) %>
+
 <%- await embed(`nairolf-music`, {music:true, music_token:"${{ secrets.LASTFM_SECRET }}", music_provider:"lastfm", music_user:"nairolf32"}) %>
 
 <%- await embed(`nairolf-anilist`, {anilist:true, anilist_user:"nairolf32", anilist_sections:"characters", anilist_limit_characters:6}) %>

@@ -47,3 +47,8 @@ jobs:
           plugin_stackoverflow: yes
           plugin_stackoverflow_user: 14132197
 
+          plugin_steam: yes
+          plugin_steam_user: 76561198264941556
+          plugin_steam_token: ${{ secrets.STEAM_SECRET }}
+
+
