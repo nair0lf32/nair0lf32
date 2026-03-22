@@ -28,6 +28,8 @@ metrics = {
 
 ## 📚 Extra Activities
 
+<img src="https://github.com/nair0lf32/nair0lf32/blob/main/.cache/nairolf-gaming.svg">
+
 <img src="https://github.com/nair0lf32/nair0lf32/blob/main/.cache/nairolf-music.svg">
 
 <img src="https://github.com/nair0lf32/nair0lf32/blob/main/.cache/nairolf-anilist.svg">
