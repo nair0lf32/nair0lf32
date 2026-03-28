@@ -49,6 +49,7 @@ jobs:
 
           plugin_steam: yes
           plugin_steam_user: 76561198264941556
+          plugin_steam_sections: profile, recently-played
           plugin_steam_token: ${{ secrets.STEAM_SECRET }}
 
 

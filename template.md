@@ -28,7 +28,7 @@ metrics = {
 
 ## 📚 Extra Activities
 
-<%- await embed(`nairolf-gaming`, {steam:true, steam_user:"76561198264941556", steam_token:"${{ secrets.STEAM_SECRET }}"}) %>
+<%- await embed(`nairolf-gaming`, {steam:true, steam_user:"76561198264941556", steam_sections:"profile, recently-played", steam_token:"${{ secrets.STEAM_SECRET }}"}) %>
 
 <%- await embed(`nairolf-music`, {music:true, music_token:"${{ secrets.LASTFM_SECRET }}", music_provider:"lastfm", music_user:"nairolf32"}) %>
 
