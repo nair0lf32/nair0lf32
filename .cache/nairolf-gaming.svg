@@ -49,7 +49,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        61 hours played
+                                        62 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -66,7 +66,17 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            15 / 125 achievements unlocked
+                                            16 / 125 achievements unlocked
+                                        </div>
+                                    </div>
+                                    <div class="achievement">
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABAUGBwD/xAApEAACAgECBQMFAQEAAAAAAAABAgMEEQUhAAYSEzEUQXEiUVJhgSOx/8QAGQEAAQUAAAAAAAAAAAAAAAAAAAECAwUG/8QAIBEAAgEDBAMAAAAAAAAAAAAAAQIAAwUhBBESMSNBcf/aAAwDAQACEQMRAD8AH585w1rXOYrCVprFOvUkmrqtaxIndw5Uu5UjJPSMD2H3J4kdb5pu6UiLLqWpSWnwe212UYH5E9RwOBtb1SaiJhXA9TYsWCGCjCDutk4/uw4mayS6khW1ZLQj6HllYv229ivkkn8R5/WMil3d3JY43mo0VvU0w7D1LHQ+Zr+rB0j1HUYLce5iN6XOPuD1cVvInN+s6HzFAs8892tblhrOlmy79rqcKHQsTgjq3Hv+iOMhsCWg0a17RFd/pWaJipkYe58HP6PjP7yaXQdWfUI4e6i+pgsQEydO0g7q74/m/tweRHDKcbiLrdAgpl1E7mfSxamsRxl/UVrM69s4Acdxs+Pfb44S2EEYWFI2XojVggHThioJPyT/AMA+3Gjcx8vXK2pG3pxsXltSyzSCKuxaJmbqwcA7fXgHbOG2GN0moaVPahSSxXuRSgKVlNZ/B8DxuDg4+OGtzRyCMSS33CmEVKhH2SsSmZZFaNHEkTN2sdWWCkg/IPj5xw85c0t681VZnBsWrEClFIJX/VcD5/vBunaTLTryNXp2rDnJL+lfAAOSBtsBkcOeWuX7dvUVt3fUaelWWKVFlrOplZW6sKGA2+nc74yNjnYXm7gAYBhcLjTKMlM99mf/2Q==" alt="" />
+                                        <div>
+                                            <div class="name">
+                                                <div>Just red points</div>
+                                                <div class="unlocked">23 Apr 2026</div>
+                                            </div>
+                                            <div class="description">Collected 1000 red points. They do not decay at midnight. So that was easy.</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
@@ -80,18 +90,8 @@
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAABQcDBAACBv/EACwQAAICAQMDAwMDBQAAAAAAAAECAwQRBQYhABIxEyJBFFFhIySRNEJDosL/xAAXAQADAQAAAAAAAAAAAAAAAAABAwUC/8QAHhEAAwACAgMBAAAAAAAAAAAAAQIDABEEMRJBYcH/2gAMAwEAAhEDEQA/AK+/d461re4rC15rFOvUkmrqtaxInq9rlS7lSMk9owPgfcnoAdU1IcyanqoJ5JNqU/8AfUKLJLPZbuCBrMxYgAY/Ub+OjFbbM9mu8y2q6unbIYpu8s6H5UKCflfjgMD456gs9a0KqfeV0SaIC2soJqGqOO6HVtRJHP8AWTAj/bo7sPeGs6JuGBZ557ta3LDWdbNl39LucKHQsTgju5Hz+COum3RVq6TsjSKv0UDWLEH1AnVT3gH3Dxx4ODknx45z0sml/cVjGgBWxC2SM/5V8589Nda8eqqW3vWKRp3kzBdazaUR1tQuRSB++OzMuMfaRvt0e0O/pSXI57+nesyd2JEJDcqBhhn3DgYB8dQbk27cr6ibWnmxeW1JLNIIq7FomZu4g4B49+AeM4bgY5FmtcjjDTV7yqwB5gcDBzj+38H+Ol7rx6l0H6M3qVpBWOMLcG94ru3IqlSoyXXjEc87ntAC8e0A8EqAD8AFgPJJXiBrOoVIS6t6lqFVVOTn1F6wVbEkZeKjakVQTn6eQ4xjJ8fkdE9s7etWtQW3dFjT0qyxSostZ1MrK3dhQwHHt5POMjg54Pnbk1D0HXzAFlCZVD3n/9k=" alt="" />
                                         <div>
-                                            <div class="name">
-                                                <div>Summon a chicken</div>
-                                                <div class="unlocked">19 Apr 2026</div>
-                                            </div>
-                                            <div class="description">Snake summoned a chicken. Well... it's a start. Better than nothing.</div>
-                                        </div>
-                                    </div>
-                                    <div class="achievement">
-                                        <div>
-                                            <div class="description ellipsis">+13 others...</div>
+                                            <div class="description ellipsis">+14 others...</div>
                                         </div>
                                     </div>
                                 </div>
