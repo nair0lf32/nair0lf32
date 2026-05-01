@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="262" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="246" class="">
     <defs>
         <style/>
     </defs>
@@ -49,7 +49,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        65 hours played
+                                        73 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -57,7 +57,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M4.75 0a.75.75 0 0 1 .75.75V2h5V.75a.75.75 0 0 1 1.5 0V2h1.25c.966 0 1.75.784 1.75 1.75v10.5A1.75 1.75 0 0 1 13.25 16H2.75A1.75 1.75 0 0 1 1 14.25V3.75C1 2.784 1.784 2 2.75 2H4V.75A.75.75 0 0 1 4.75 0ZM2.5 7.5v6.75c0 .138.112.25.25.25h10.5a.25.25 0 0 0 .25-.25V7.5Zm10.75-4H2.75a.25.25 0 0 0-.25.25V6h11V3.75a.25.25 0 0 0-.25-.25Z"/>
                                         </svg>
-                                        Last played on 29 Apr 2026
+                                        Last played on 30 Apr 2026
                                     </div>
                                 </div>
                                 <div class="achievements">
@@ -66,32 +66,32 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            16 / 125 achievements unlocked
+                                            18 / 125 achievements unlocked
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABAUGBwD/xAApEAACAgECBQMFAQEAAAAAAAABAgMEEQUhAAYSEzEUQXEiUVJhgSOx/8QAGQEAAQUAAAAAAAAAAAAAAAAAAAECAwUG/8QAIBEAAgEDBAMAAAAAAAAAAAAAAQIAAwUhBBESMSNBcf/aAAwDAQACEQMRAD8AH585w1rXOYrCVprFOvUkmrqtaxIndw5Uu5UjJPSMD2H3J4kdb5pu6UiLLqWpSWnwe212UYH5E9RwOBtb1SaiJhXA9TYsWCGCjCDutk4/uw4mayS6khW1ZLQj6HllYv229ivkkn8R5/WMil3d3JY43mo0VvU0w7D1LHQ+Zr+rB0j1HUYLce5iN6XOPuD1cVvInN+s6HzFAs8892tblhrOlmy79rqcKHQsTgjq3Hv+iOMhsCWg0a17RFd/pWaJipkYe58HP6PjP7yaXQdWfUI4e6i+pgsQEydO0g7q74/m/tweRHDKcbiLrdAgpl1E7mfSxamsRxl/UVrM69s4Acdxs+Pfb44S2EEYWFI2XojVggHThioJPyT/AMA+3Gjcx8vXK2pG3pxsXltSyzSCKuxaJmbqwcA7fXgHbOG2GN0moaVPahSSxXuRSgKVlNZ/B8DxuDg4+OGtzRyCMSS33CmEVKhH2SsSmZZFaNHEkTN2sdWWCkg/IPj5xw85c0t681VZnBsWrEClFIJX/VcD5/vBunaTLTryNXp2rDnJL+lfAAOSBtsBkcOeWuX7dvUVt3fUaelWWKVFlrOplZW6sKGA2+nc74yNjnYXm7gAYBhcLjTKMlM99mf/2Q==" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAABAAMBAAAAAAAAAAAAAAAABQIDBAb/xAArEAACAgEDAwMEAQUAAAAAAAABAgMEEQUSIQAGMRMiQRQyUWEVM1JicaH/xAAXAQEBAQEAAAAAAAAAAAAAAAABAgQF/8QAIBEAAgIBBAMBAAAAAAAAAAAAAQIDEQAEISIxUXGBkf/aAAwDAQACEQMRAD8Az9+d461rncVhK81inXqSTV1WtYkT1drlS7lSMk7RgfA/JPRFKfWr2oQ04tU1JJZEeQu9iZ/txxjePz56MsvMINSsRsEZZLL5Cjgh3PjqGr03Sera08Pa04D3SFmIUn71LE5HIzg8/jgjrlQK80pJPEHrN8pSKIKBuR3jepfzmm3oq82rX3eSJpVZbE0eNpA+XP8Ad/zpPsTvDWdD7igWeee7Wtyw1nS1Zd/S3OFDoWJwRuOR8/ojrkdLrST6oZ9jwaSqbXnLFtieTl/gnA/f4xkdSrz7vpmj94S6gV2GcqJwFznzwB56rUJJDKHU8SQKwhZZIyjDkATltuKFbGo1JvVB9exEcYz/AFGH756oSsRNDvn9QpG0ro6KsW1RwMecklfJ556c7s0DUqdxreipPqL2pZZXEcDEwszF8Nj49wAPGcHgY5IbTbcEllJa98V7kUHqWPpmJJw2cA48nxyPHHRp0dJiS1Ld+8ZnRohQs1+ZnEZsXI2rkV1khMiJEoMYKtgq2fPBU4zk5OfPWmjWKzUKfqrIGtRAbfO5pVJ4/wBnjnqH8PJKakEVXUJqUU5ladqrIUXb7+FJ/wAec8dLdo6BqNvUDZ1VZ6CU5opIjLVZGnKvuAAOAPs5bnG4cc9XqUeSUFWtdjXjJhdEiIIo7/c//9k=" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Just red points</div>
-                                                <div class="unlocked">23 Apr 2026</div>
+                                                <div>His house</div>
+                                                <div class="unlocked">30 Apr 2026</div>
                                             </div>
-                                            <div class="description">Collected 1000 red points. They do not decay at midnight. So that was easy.</div>
+                                            <div class="description">Upgraded the church.</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABQYAAgQH/8QALxAAAgECBAQDBwUAAAAAAAAAAQIDBBEABSExEhNBUQYiYRUyM1JxgeEjQpGh0f/EABcBAQEBAQAAAAAAAAAAAAAAAAAEAQL/xAAaEQACAwEBAAAAAAAAAAAAAAABAwACESES/9oADAMBAAIRAxEAPwBUzfM6vMaqWokkeOCLmIBHMyqVDEFmIt8u3be5OAU+cREBoBM5J9+aoeNT3sS17/bGPNVqJ2aJJGEMYaRkG1jK9yR1tYfTAYZnT06k08JnlG8kguD6a/npiFSQRplzH23kZIM4QeaZZUsfiQ1DyKvbUNe/2wfynMqrLqqKoilaWCQxxkPMzKFLABlJJ+b/ACxGvO/atNUfHi5E2wkjFgPTT8dcGsqSogdY3kYwyBZFU7WEqWIHS9z9cGoAGiFvtvZl8UVCFo4omdZoOeSym1iXNhp10/sYA0kCso/UiW+/E2HzMclloq2aWnAmFSzSOCh8pvt7rXFiPXQ4rT0ssHLPOhBVeHWicdu2OqOpWoGzGJv6PIh1kEUKm0ivY/tI7YYPC9QBJJFK7GSoEJBY3uwcXGvXXByop55RIwmjuy8J4aR9te59cTLMnlzCtglmtAtK6yKOW3nN9tVWwsD/ACMLtpapGwtN/Y5P/9k=" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABQcEBgj/xAAnEAABAwMDBAIDAQAAAAAAAAABAgMEBREhBhIxABNBYSJRBzJxkf/EABcBAQEBAQAAAAAAAAAAAAAAAAIBBQb/xAAfEQACAgICAwEAAAAAAAAAAAABAwACBBITMSEiQbH/2gAMAwEAAhEDEQA/ANGutX12v6lkNxHpMKLDdejIbiyXEBwJcKStRSU3J2iw8D7Jwjo+gV3Ubrnbq09ptqxeeemvGxN/1G/5G4PkdA6cpkuu1Z6LEOx6RJkuK22BS2HjvI9/IAW8keOrhR57NLbiRpUYRQ0O13EpskpH2PPmx8Z+885joDhszr9mq9gSBSncn+pdFalpKFPRqnUJrKBuK2ZjyVptm+3fx/CT66A0Rq2tUHUUfuyX6hCmPMxXESZTi+1dwJCklRUQRuNx59EZueodR0+lUZ2c88Hmv1Q23+ylcW9f09eaXaquo1KVPUw22pVUYWEIHxSApmw99LIx6qrtTxChhadLibabONF1e2thamS09MZKzix7wIHPPxP+Hqu0zVSZ7farCWX2XMJWbXTgC2OfPU4/IGjJ9GrbimWXqjFnPvvLQ3DWoIJc37Tgg4WmxvmxwCMgsxanBa3xBUGW7bi3IiuqT9iyrXF7HJv646KMmiqhdzK1JceSn2dv+V1NUmmtRGJKXmpR76l3F0JHAv5Bv5yLHJvieUtg7oLTqk7pc1hxTQ5TdxAAIPBAAvnm/Sc41Gqrjy5tOecXGa2NIZjuqQbEq3klAuRu44HP1ZTQOjqjqDUCJMpEiAzDfYes/DcT3SHAvaLhNsINzfFxyTiZD6t9KGJK+AG9+5//2Q==" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Not far from the ground</div>
-                                                <div class="unlocked">19 Apr 2026</div>
+                                                <div>Marble</div>
+                                                <div class="unlocked">30 Apr 2026</div>
                                             </div>
-                                            <div class="description">Dungeon level 5 cleared!</div>
+                                            <div class="description">Got the marble quarry ready. Marble is better than stone.</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
                                         <div>
-                                            <div class="description ellipsis">+14 others...</div>
+                                            <div class="description ellipsis">+16 others...</div>
                                         </div>
                                     </div>
                                 </div>
