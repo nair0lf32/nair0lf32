@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="277" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="246" class="">
     <defs>
         <style/>
     </defs>
@@ -49,7 +49,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        130 hours played
+                                        142 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -57,7 +57,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M4.75 0a.75.75 0 0 1 .75.75V2h5V.75a.75.75 0 0 1 1.5 0V2h1.25c.966 0 1.75.784 1.75 1.75v10.5A1.75 1.75 0 0 1 13.25 16H2.75A1.75 1.75 0 0 1 1 14.25V3.75C1 2.784 1.784 2 2.75 2H4V.75A.75.75 0 0 1 4.75 0ZM2.5 7.5v6.75c0 .138.112.25.25.25h10.5a.25.25 0 0 0 .25-.25V7.5Zm10.75-4H2.75a.25.25 0 0 0-.25.25V6h11V3.75a.25.25 0 0 0-.25-.25Z"/>
                                         </svg>
-                                        Last played on 7 May 2026
+                                        Last played on 8 May 2026
                                     </div>
                                 </div>
                                 <div class="achievements">
@@ -66,32 +66,32 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            23 / 125 achievements unlocked
+                                            27 / 125 achievements unlocked
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAABAAMBAAAAAAAAAAAAAAAABgQFBwP/xAArEAABBAEDAgQGAwAAAAAAAAABAgMEEQUGEiEAMRMUIlEHJDJBYYEjcbH/xAAYAQACAwAAAAAAAAAAAAAAAAACAwAFBv/EACARAAICAQMFAAAAAAAAAAAAAAECAAMREjFhISJxofD/2gAMAwEAAhEDEQA/AJmttWZzUOpH0RX5MKLEfdiNNxZLiA7/ACFG5RSU2SUgAdgPe+KhcrKpWEjIZJTtLK/FnvJCdpAVzuNmz0dyWWeGSfjoDDFzH1bysEr3FdpqvTwo0fwO3frnis6IuVPmUea2NK2bF7Np2NgCinuABz7/ANc5laGdQzDmXWpEOkeIgVlMm03jVuTMoHZ6A4wlnIOqIBrkkrFVY6UaH1FnsJmWHXFzJ2PlPtQ3fNSlrDR37dySoqIIKiCKo/ir6GZFiS2nSG6WHlKg7khaQAhNIISKr3HJ6a5WHKxcBjeWXfmGn1+ml+p4K5NncATXbnj26l9a0rlFilcuQpG/EznUrcNGRlR2oam58ec8fGUlADqQpVp3XdhJv87a6pghpuY2lKfmbcW4ugeD4YSmweeBf2rdXWlfEn4eScdqBcyEJUh6XIekB1mM6sNEqJ2kCx9KxRB7g9q5HuaUlRkIksMSvMG/FLsV1tBBqtvpNVt/fPPHRVXVVqFZuv3qGVazuEivZXIqbwjr6g4iNHSywy4oLFAA8A2B9A79MY2s8pqCTDx0uOkR5ElptZS0lPZwGh+x0TRpXKFDC2Yjq0tt0SA+oKIA9Q9HAA/3pp8MdBZHIZ5mRLacgswnmngXGniXVb9231BIApJs39xXfp111NiFVIzg4igj1sGYbT//2Q==" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAABAAMBAAAAAAAAAAAAAAAABgMEBwX/xAAsEAACAgECBQQBAwUAAAAAAAABAgMEEQUxABITIUEGBxRhIhVRUjJxobHw/8QAFwEBAQEBAAAAAAAAAAAAAAAAAAYDBP/EAB8RAAICAgMAAwAAAAAAAAAAAAIDAAEEIRGh8IHB0f/aAAwDAQACEQMRAD8Ah92fcnUzrUgiksV0gmlrQw1rUkasok5DJIykb8owPH3nglZ9wpYtLim+Zqrag7lWhe7MFGDgtzc23/eOKXrx0a7BYCsbbTWWVcDkUdZjkjyRnsNuDVZJdRQrZskwj8HllYv028FdySf4jf6xkTqUAwKI6lonECl1xXUZQ+4NhtJsWDZ1VdRhPaul2Ygj+XNzdgPPC32o9ydSXXUSSWxZWWWCvNDYtSSKis4VZI2YtjHP3Hn6xxkFhZaBjWvaIrv+KzRMVMjDy2xz9HbP3kpPQE0RtTWArfJSauxAA6bDrKSR23J3G3+gcgFrsgqHYq7XfNe98Tp+tdPrfNTqRPI8VqxEY2OF5esRkgdye+wPBq/AqxI0EXJEWYJGh7BhglgdznIIO/jYDjYPcj0Jap6vzxCxaWeexOrQ1HYR8zlijAZBGHGDnwdsdyFr0uf0mGLpaik8eG68lWXlOR+2NsDt/bjJWQKxoCvc6sXLxySPN791B1WEy1p55I4pIgBzQMezNgkHPjGDt38eTwn9IUq7am4jR1aSzWjKj+kgyrtnuD+4J3/xapel+npcka178kzOJhNHVk5V5dsDGMDPCz2z9C27upgv8qrHWsQzs1inIgkxJzhFBwFGFOTnyN89jXgwbEb3GTmIFBb39/k//9k=" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Stone fence</div>
-                                                <div class="unlocked">5 May 2026</div>
+                                                <div>More red points!</div>
+                                                <div class="unlocked">7 May 2026</div>
                                             </div>
-                                            <div class="description">Built a stone fence around the graveyard. Your graveyard is well protected now.</div>
+                                            <div class="description">Collected 3000 red points. Ok. Now that's impressive.</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABQYEAwf/xAAwEAABBAAGAAQCCwEAAAAAAAABAgMEEQAFBhIhMRMiQVFhcQcUFRYjJDIzQoGh4f/EABYBAQEBAAAAAAAAAAAAAAAAAAMEBf/EACERAAICAgICAwEAAAAAAAAAAAEDAhEAMQQhEkFRYYGR/9oADAMBAAIRAxEAPwDPrzWOdZ5qKQiO9Ihx4jj0dCY0hxHi0spK1lJFk7RQ9B7k44ZImdmSpSXs9msOMs+OQ7NdtQ6P8/f+8TM191lmZISoIuW4CQAK3PEce3eLbKtOph6ZbntZy0IE9sOObFItSxVpKVEK3C+TzwRjGYnkPhNi5aNADNtKlxhGxvPPvvnmPmcbkZt4LaglTomveU/O67659usWn0da4zTLs6jOCS/OhzHWYy0SpK1lklYSFJ3E0Ru5HRHVUMTbioWW5q3Fy6TvjO/rTXskm/nxV/8AMEaeIaluiMlX1dMqOpvcLT+8CO+/KUd/DFTFlR69eJ2TYJrv73rAarw6lRu/VVXf8xx1DLU6dHfQtW2Q+hSSBz+Irsc4zQW8zgaUE1TTX2ctR2+MuwDahtJ630kkp79aHGH9R6dmR8yMvLjInJlOuvOBqOoqaUpW7aaB489A8XSuBXIkvKVvsrMuLmDYeSNyktOI3WCATQpXrV/HBoaOPOcWRJEvj9x0uHgKIwOVEltZKvM3JLUZEkEJaSkKUUg/4CeD1dDCuQsJVHyhlBT+YdjqUE8qUtS0WTfr8zg1Om82king+5FbBotR3LIHZrbQNHvmuMWWmdOyZE9EmUl/LWobjTjaHIq0FwpVuCUhQFDyUTzVjg3w/MZB0oRSNGzkKjOInNx7Os//2Q==" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABAUDBv/EACoQAAICAQMDAwQCAwAAAAAAAAECAwQRBRIhADFBBhMiUWFxkRUygaGx/8QAFwEAAwEAAAAAAAAAAAAAAAAAAAQGAf/EACMRAAEEAQMEAwAAAAAAAAAAAAECAwQRABIhYTFR4fATIkH/2gAMAwEAAhEDEQA/AD+vvWWsazr9n27M1CpTllrqK9l0EmHKl3IK5J2jA8fcnqXHNrMlZ7J1O5sUbmD35t+Pxu/6f10fRont65PkqvtyzSH4jALSvzjt4/30zVy1y1IIC21NqscYJB7HHle/P1BHUrKmOfMUA1WVcKA0WA4oXfTMrU2uVFjea9qPz/qYbszkfkbs/rPVb0J6w1jRPUFf3bE16pckhrsLNl39sM4UOhYnBG7kdj9iOiaOzJZninsSLJFtAbGVBPIBOOPHGfp9upV6ZP5KEwmJt88MoKYKkiVMkDttOQfPJPRElul0IJ7d/emZOgNJZLiBXHvOTtYL059TiUuN0ssTZHlZmIU4PZskHx+c9MTUak1urbtLLFagnWkoRh849ik78d1DnggDuOOrHqT07bg1BrFH39QityTSyrHXZjGWbcVbAPHzwD5w3Axzz82i2MFpobghkjVWElWTLLyUG7AyvH+cd+OGXWAVHUD+7jnxibEopQnSRtWx4841tRq0NEnq6QZ55fclaaSUgsSvJfJ4IPx7YyDxz1L0Ks09uozOG9yzHHGF5JLTqScE/Xtk9JOlW7JaaeK5ZAXBEdWRFIUecDxnq36a9PWbV9LVsT6dFUkiljSWq6GRlbcFUMBgfHBPOMjg54GGaV9QbJsk4SJOpFEigKAGf//Z" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Perfume</div>
-                                                <div class="unlocked">5 May 2026</div>
+                                                <div>Simple but stylish</div>
+                                                <div class="unlocked">7 May 2026</div>
                                             </div>
-                                            <div class="description">Gave some perfume to Ms Charm. It smells nice, and wasn't tested on animals.</div>
+                                            <div class="description">Decorated a Dark Shrine. Looks better than your first apartment!</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
                                         <div>
-                                            <div class="description ellipsis">+21 others...</div>
+                                            <div class="description ellipsis">+25 others...</div>
                                         </div>
                                     </div>
                                 </div>
