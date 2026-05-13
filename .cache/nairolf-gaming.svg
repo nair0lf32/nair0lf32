@@ -49,7 +49,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        174 hours played
+                                        181 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -57,7 +57,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M4.75 0a.75.75 0 0 1 .75.75V2h5V.75a.75.75 0 0 1 1.5 0V2h1.25c.966 0 1.75.784 1.75 1.75v10.5A1.75 1.75 0 0 1 13.25 16H2.75A1.75 1.75 0 0 1 1 14.25V3.75C1 2.784 1.784 2 2.75 2H4V.75A.75.75 0 0 1 4.75 0ZM2.5 7.5v6.75c0 .138.112.25.25.25h10.5a.25.25 0 0 0 .25-.25V7.5Zm10.75-4H2.75a.25.25 0 0 0-.25.25V6h11V3.75a.25.25 0 0 0-.25-.25Z"/>
                                         </svg>
-                                        Last played on 9 May 2026
+                                        Last played on 12 May 2026
                                     </div>
                                 </div>
                                 <div class="achievements">
@@ -66,7 +66,17 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            29 / 125 achievements unlocked
+                                            30 / 125 achievements unlocked
+                                        </div>
+                                    </div>
+                                    <div class="achievement">
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAwUGBAf/xAAqEAACAgIBAwQBBAMBAAAAAAABAgMEBREGABIhEyIxUUFSYZGxFTJxgf/EABUBAQEAAAAAAAAAAAAAAAAAAAQD/8QAIBEAAgEEAgMBAAAAAAAAAAAAAQIDAAQREiGxMTJRQf/aAAwDAQACEQMRAD8ABzrmGazvI50rz2KdepLNXRa1iRPV05Uu5UjZPaND8D7J6MIkr7rZbkmZgyrqjQQxvPKsxY60HD/IPz/HUzVXcl2zZm9Cuk87yuq7IHqt4UfZJAA/odW1DIZfJY5cRWihholjPLBcRo5ogY9q7D2iUE9zHwQfroFqhmd2k8DgcmrXkohRFjPPk1LZGTL0bslf/L32lj+e27L/AOEHu6Z8D5hmcJyGBZp57ta3LDWdLNl39LucKHQsToju8j8/sR054pQ47ybPWcYpyJlRGKzK6RIxUH29vaSoAGh/XU1ybFx4yfH2KE62qc1iJo5SmjsSptWU/kbH2OjtFcQvsfXP38JpCTwTJqPbHzHIFJrq+nLaqgbaG9I7I6bDdsrfIB/c7HT8ctz3IubRXbkcUSxV5I4vRTwgWNivn730DkfHrlbJG3jjYvLZllmkEVdi0TM3d2nQP69A+N6bwNectKXIUJI52r3lHhgGgcKQd/Pt8g6P/erxXTQEoy5Ge6jPaLcDdGwcdV1erSpYTi2J5LLRgp5TIBktPErRkextBF7u1WOgN6/O+pDnxhsWsBTqwiKGN4IE7PPqbeNg2yF2dMN7A8/z1oy3IkznFamLnqZP0asjTgJTZjsb3t/Gx7t/6jWx0ppUbOYyFaexHZxdXHNE8KTQOGmcP3+O4D9IBbzr2+DvpE8qypqvJyO80W3heKTZhgAHrFf/2Q==" alt="" />
+                                        <div>
+                                            <div class="name">
+                                                <div>Alchemist</div>
+                                                <div class="unlocked">12 May 2026</div>
+                                            </div>
+                                            <div class="description">Discovered 10 alchemy recipes. Just remember, the Philosopher's Stone is a lie.</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
@@ -80,18 +90,8 @@
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAABAAMBAAAAAAAAAAAAAAAABQADBAH/xAArEAACAgEDAwQBAwUAAAAAAAABAgMEEQUSIQAGEzFBUWEUFUKhQ4GCkaL/xAAXAQEBAQEAAAAAAAAAAAAAAAACBgED/8QAIBEAAgIBBAMBAAAAAAAAAAAAAQIAAwQREyExEjJRsf/aAAwDAQACEQMRAD8A0d/d46xrGv2ClufTqVOWarGle1Inl2uVLMVKlidnC+w+SehE1W7INy3tdkz+/wDLlAJ/ykB6ldFu6tYVmMVgPNLAQcLuad8g/wBl49Ok08lyCV3gfywvhpXCxxcHkbjzngjgMM+oyc9TCV7i89yrpxa1QFofHcvzEirrGp+ZRkxvcnV1/wC/5HHTPYnd+t6D3HAtmxYvVLc0FWSO1akfxBpAoZCxYgjfyPQj4I5NksLJBZr7msPEu6GenXJKsBwDycD79xkce+CazubTrKQ7cz1pcHn+qhx99B6zV69Gcr8dfk5cQR6lYFcN5oLViMoMBmHlbBB+QR/J56s0/Upbemx6TYkd56rKayyDAIAzsYHHBx8dP9/dmanoWvtYoizciuTTznwVZD4y0hfacA+zjBzzg8DHIb17Dxo1+jqDBRlWNaRSufhtuR6e3x1qXbQ8Tz+x0ZIKjWMXL8uqUK9ikdkUgELV4RtRWA4GPgjn/fQ8daRNTqULAIWazBIqZzg+ZAw+vUEfZPV2kJqemCT9Npzz1HBbE1WUlfsYUA4z9euOnuyO1dT7i7gWzb/JqLVngmZrFORfKVk37FzjAwh5zxkepPStsSxSFOpMd96JXpP/2Q==" alt="" />
                                         <div>
-                                            <div class="name">
-                                                <div>Sashimi master</div>
-                                                <div class="unlocked">9 May 2026</div>
-                                            </div>
-                                            <div class="description">Made 30 slices. You've got the perfect size slice pretty much down.</div>
-                                        </div>
-                                    </div>
-                                    <div class="achievement">
-                                        <div>
-                                            <div class="description ellipsis">+27 others...</div>
+                                            <div class="description ellipsis">+28 others...</div>
                                         </div>
                                     </div>
                                 </div>
