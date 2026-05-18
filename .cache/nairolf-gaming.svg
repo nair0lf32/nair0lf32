@@ -49,7 +49,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        214 hours played
+                                        228 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -66,7 +66,17 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            38 / 125 achievements unlocked
+                                            39 / 125 achievements unlocked
+                                        </div>
+                                    </div>
+                                    <div class="achievement">
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABQYCAwQB/8QAKRAAAQQBAwQBAwUAAAAAAAAAAQIDBBEFABIhBhMiQWEUMVEVMlJxgf/EABkBAAIDAQAAAAAAAAAAAAAAAAMGAAECBP/EACARAAICAgICAwAAAAAAAAAAAAECAxEABBJBE1EicfD/2gAMAwEAAhEDEQA/AM/XfWGazvUUhEZ6RDjxHXo6UxpC0d0JWUlaykiydooeh+SdDYzmZkpSpGQyiio0CqY6ATxZvfZHI5+dV4uI7JVLkGu2iW6XaSBQLq+fhN1696df0vc2Cz5RykgJSKFUQbPzfI+BpT3d2VXIU+8YNXXiKC6xOeczbKErVPySQUhYUJrvAJoE+VjRToXq/M4LqJhL7782NLdZjLTJkrX2tywkLQVE0Ru5Hv4I0bcxyzGcVKUlu9pcUR4iqsC/sODpMyscxXoa0BBCpTS2+AbT3UUSPweav0NTS3ZXkAY95e1rxBDQyMRqanKyouJkqjZFEmQlsqoBZC1+B5ryPj9/ehEbJTcc8ju5GZiypS98aY2tLalJ4NKQBfP9V86ZOoMBMi5P6vHKkTkyXXXl9lhRU0or30doP8hSuLo8CuYsyp7DazJYnFh7yKCytAO7kndtvki+CLrR9hJEc0t2f3RzmSY8FKUfdmsgrqVrLvDHQxEWp0hHfLrz6UJJA3HuCkckDd6/3XJvT8/DvYqHkZ8aYuTJbLf073dUkd1FA2fV0LPrWrHznm3WnncKciw02pBafYcUjb48/t4IoWfn0KGrMdiXsv1A7k3ohwjLLzLzccRVoCikhQSncBx4cq5oqHBvgMEczzr8eKjNNKPES1A/d5//2Q==" alt="" />
+                                        <div>
+                                            <div class="name">
+                                                <div>Not a hot dog</div>
+                                                <div class="unlocked">17 May 2026</div>
+                                            </div>
+                                            <div class="description">Sold burgers at the burning ceremony. It's a mystery why you didn't make hotdogs.</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
@@ -80,18 +90,8 @@
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABAUGBwH/xAArEAABAwMDBAAGAwEAAAAAAAABAgMEBREhAAYSEyIxQRQyUWFxgQcVsfD/xAAXAQADAQAAAAAAAAAAAAAAAAACAwQB/8QAHhEAAgICAwEBAAAAAAAAAAAAAQIDEQAhBBIxFFH/2gAMAwEAAhEDEQA/ABf5C3rV6rW5S0PyIUSE67GSmLIWnq2cKOSiki5JSAB4H3vqVRuGrhxapU6elkW5KTOeUpOPJ7s/950trTjy561dvTafeeIGLqLq/XjFv1rtVmyas+mnsNpjpaaAd4NlLhJB7SSPpm/3GdRxQiQEudm63ljOEoKPMbP7hksupSir1RRzdSJL1kkffl/mqjYe8axRdwRupJenxJjjMciRJWsNhSwkLQVE2PdkeCPoRrL4Dv8AW/DB9SlxXBxTfy0TkWt5BOLHx+tNqPMV1m2A32olNOtKIBFuqgkW95Olvx2hCsjE7F3hLKkoIZQPzDKy0htNTbCXTLjvSOiU/MFhaiMD3cDGprb6pkOqKdjPOPuunqFxI5rUT78+ffIm2c60bce3pkapGXTjInJkuuvOBqOoqaUpXIg2Bx3WBxeysC2V1IYfo01ye1CmNrfSA6Cy4lLiVXx8uCckKHvOdIWV+OWHUm/MZ0ScKS1V7kVuGNKfcRGlIcY8JKXkgFFvVxhQHi4/dtONqQy4inFx0uOvSG2kD3x6ybG3g3sDf3j86o6/19wdNx+nTHGI91NNFDq+PtRUriOfzZuLWIH5J21t+XLqKZc34inoiutOoS7GWkuqSrlxSFAY7cnNrjBvgvoknAXrW95hijhLMGsVrP/Z" alt="" />
                                         <div>
-                                            <div class="name">
-                                                <div>Night watch</div>
-                                                <div class="unlocked">16 May 2026</div>
-                                            </div>
-                                            <div class="description">Got rid of the guardsmen's ambush. Now you are the Witch Hill Keeper too!</div>
-                                        </div>
-                                    </div>
-                                    <div class="achievement">
-                                        <div>
-                                            <div class="description ellipsis">+36 others...</div>
+                                            <div class="description ellipsis">+37 others...</div>
                                         </div>
                                     </div>
                                 </div>
