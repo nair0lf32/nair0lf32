@@ -33,9 +33,9 @@
                     </h2>
                     <div class="medias largeable-flex-wrap">
                         <div class="media largeable-width-half">
-                            <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCABAAEADASIAAhEBAxEB/8QAHAAAAgIDAQEAAAAAAAAAAAAABAYFBwABCAMC/8QALxAAAQMDAwIGAQMFAQAAAAAAAQIDBAAFEQYSIQdBEyIxUWFxFCMyoQgVQlSBkv/EABoBAAIDAQEAAAAAAAAAAAAAAAMEAAEFBgL/xAAjEQACAgIBBAIDAAAAAAAAAAABAgADBBExEiFBYVGhceHx/9oADAMBAAIRAxEAPwCoNO2Fuz5dWormdiDxj6phMpzvg5/cRQanOcg4+60F4HsD796IO08cwz8t3tjFZ+W78UF4g+a34lTZlak0pCxaGpQIytZTj6oH8xzPqMDtjmjXlgaUj+qiXVZIp3semIUWAyuUjxJDiQrPbB9KPTQ9zdKRXJy68VOuyV3+W5jzKT4f1UDqW0IubBc5S8nlKs8VYGu7CxbPAlw/Iy6rBQrnmlBagoE8gDtQ7K2rYo0NRctyCxODBvFC0EhQNW50n6VDVMVFyvClogE4CAcKVj5rn1uc62sqB3Hjdj0xXQmlf6h7bZ7JGgf2aQCygAkKGFHHrQj6hpbauj2kfA8L8R/bjGfF5qm+rPS9WkmxcLWouW0qPkPKkfJNFdMNUan1h1GauEVx1y3hzLyRnYhHYYq4+tkqNG6c3hMhSQ48yUNBXdXxVbIl+Jz/AKEhMXTTz8eY2XGzkjbwU/NNT8wWmGgTAVtNjHjD0CR6D7pX6VHNnWDk57g03B6JNlSLWpxtTiW9y0K5wDW5ioBSHU6bicpnWFspq7BtBo/iVtrbU7V6LUeKkpiMndkn1NK61+XJOB2NBXaa3FuEpokKCXVJCQMcZqHlXBx7IztT2FZFljOxZuZ0tNSVVhK+JFFzCiScOHg/VPHS3p/cte3ltiKgogIUC88RwkVXi3FAApwckZru7pdftG2DRdujx7jDjuFpKncnCiojnJoRMMBJqOzp3pVo8ABLMdpOd2PM6rvzXJXV7qVddd3VRCHmLTHP6TYBH/TXYUvWOj5bZbl3S2vtjnY4Nw/kUodR75olzQl6RBetBkqjkNhtpIVn44qAy5zfoi9SLPoefMisrfdSDtUPRvn1NLmkdXPWm/qnzVLfS+f1Rnkj2FOnR8R5Nmmx5Sd7LylJ2jvzSDr/AE47py8rQEkxXTuQ5/iM9qeYWJUlqnsPozKremy+3Hcdz9j9SzNQaXtWsoS7rYX20yduSoHyk+2PeqZfCmX3WlfvbUUKPyK+Id0mQW3ERJTiErGClCiBQi3SolS8lav3H3oF1q2EMBo+Y1i0PQChbY8fIg2+vQS3wMCQ6B7BRoMKre6gbjcM/Mkf7D3/ALNaMp9Qwp90j2KqE3Vm6q3JLt6MqYTYH5c14MsxSXC4Twn7pQ6m6xTqSahiIjbDZV5SfVR9/qoEXYNaTbhMuqS6XFFxIOMp+agQr+aZbIY1CpePPuI14SjIbIbueB6/s9QvFYV14bqzdS0e1P/Z" alt="" />
+                            <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCABAAEADASIAAhEBAxEB/8QAHAAAAgMBAQEBAAAAAAAAAAAABQYDBAcCAQAI/8QALxAAAQMDAwIEBQQDAAAAAAAAAQIDBAAFERIhMQZBEyIyYQcUQlFxFTNikSNSgf/EABoBAAMBAQEBAAAAAAAAAAAAAAIDBAUAAQb/xAAeEQACAgMBAQEBAAAAAAAAAAAAAQIDBBEhEiJBE//aAAwDAQACEQMRAD8AzAiuFVKoVGRmsnbbPoX8I4PGAoGowDnsDQO735LLpajNkr4NB3nZrivEef8ACSd6qVTaJLMvyxy3Kiprc8E1wQc6uCOQe9A4/UVwaiNGUylcHOkLQjBOPeiFrvEW4Six8u42+of4wo+o1zgzv77ZdzXlfKyFEEYIODXJNB50MlL0i+5pKPKcIG5NVbgHHmTpzoxuU7YFapE+Gz8XxJN6fbVCiDxHWkDCiPzROVM6eu9netqLapqJp0kjAWR+amdiiwpy9H5tEd6YJTzCUpajJ1K1DJoW2mVLeZYbBcUpXkx3NbC98NGXgU2i4piIKjlt4lRUPemLpH4csWBSn1pEx9zYrT6U/gdqe82EUSPFc2AelOoYd1ZRa59oS1oSEKcKBpBHekfqyPCc61SLFJbKdko0/Soc1uarfEitSxOZbjtFHlc04Oax6b060nrFlFveS0FK1LcUMhIPep8fJUpP8G24/nRG26HmfEbHmQopWT3I5rzAyceoiid7sU+xaWZjehDiipK8YCge9DHPVgbYHNVuXAorhpd0us9tLsdchZMlOhzKiRilrp27mI6tMlYKdRSv2TUsCau8wpCHUlMwJ/oUDFukHxJLSFKZ9DntisuMOA2W9HtS2HFByCVpB31FWasN3x2D++6UN/7k7UhQGJjGXoDitI5aWck0wQ5omJ0yWtLo5bUOaU6+jI26Q5s9W2t+N5pUdxf3WMp/qo2p3Ssqal6etsyPs3tqpCu1vtCVl2SFtADfSrAoGiO08FuQEriRk8vPnVn8UxVa6hc7m2P3xO6siz0Nwbex5UDBUvzHHsazY8FRBSB6UnkmjvzU53pwpiQwq1pUQqUpIKlHvg80DTpSglGdStglW5rQp6tML29BdMhUWama2MKTykdxVtNwdt9ybdZwqNK2wdxq71V1Jc2UPVsapvArZchhXm5YP8qzqdsCxJMZJSVtpM6CjKvqZHP5oJc+pmYzWtIT459W3pqGD1SIygiVhEhsaVZ4OPah0yVYLnP+ZdcDKR+4gn1fiqoUbfRU7NIhtbFy6il+NpUI4VnJ4o11NIjvqZt8NWQAElKNt+9dKmPzoeiIkQooGnOMZH32pftjpROUW0FSgrBcO/8A2vZPja/AIzTZq3w5McSmrLKx8tLHhrB4G3b7GkjqWB+mX2XF+lLh0K+6c7UQtxdbCVhRD6jyOce1FOoYv61alTG8GVETl8/x7VPj3fei9a0f/9k=" alt="" />
                             <div class="about">
-                                <div class="name">Portal 2</div>
+                                <div class="name">Nocturnal</div>
                                 <div class="infos">
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -49,7 +49,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        3 hours played
+                                        2 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -57,7 +57,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M4.75 0a.75.75 0 0 1 .75.75V2h5V.75a.75.75 0 0 1 1.5 0V2h1.25c.966 0 1.75.784 1.75 1.75v10.5A1.75 1.75 0 0 1 13.25 16H2.75A1.75 1.75 0 0 1 1 14.25V3.75C1 2.784 1.784 2 2.75 2H4V.75A.75.75 0 0 1 4.75 0ZM2.5 7.5v6.75c0 .138.112.25.25.25h10.5a.25.25 0 0 0 .25-.25V7.5Zm10.75-4H2.75a.25.25 0 0 0-.25.25V6h11V3.75a.25.25 0 0 0-.25-.25Z"/>
                                         </svg>
-                                        Last played on 17 Jun 2026
+                                        Last played on 29 Jun 2026
                                     </div>
                                 </div>
                                 <div class="achievements">
@@ -66,32 +66,32 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            4 / 51 achievements unlocked
+                                            3 / 11 achievements unlocked
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAABQYHBAMI/8QAKRAAAgICAQMCBgMBAAAAAAAAAQIDBAURBgASIQcTFCIxMkFRFWGRQv/EABYBAQEBAAAAAAAAAAAAAAAAAAADAf/EABcRAQEBAQAAAAAAAAAAAAAAAAEAAhH/2gAMAwEAAhEDEQA/ALFQp+98zdceR5LD8bqrYzNn4eE/9CNn0NgbPaDobIGz+SOiFa0lKiZ3V30VVUQbZ2JAVR/ZJA6jvrHxu43CeUWuOYqUwZCQWrHtoGkB9xPejcA72jxdwI2NO2vp1bWkpB2pfFs9x7lQs/wGQittW7RMoBUp3b1sED66P+dbb9P2fK/jqE+gXAbFLAR5nkWLkSrLbivo0q6fth2IkRT53JJIP67U+vzDr0BZtrdpmURvGwZkeOTXcjqdMp1sbBH48dM6WJyB8jzFPA4zHZPKzivja96NrMpUsEXtcKSACfvKdJ2b9TeFZjjecxVbmsGLa9YmHvClJKfacAEAaGt7bzvfTnkqdPNYazispEstWcAMrKCNghgdHwdEA+ehtb0/4JDXjjPGMVKUUAvJACzH9k/vprL20SWOOeo3DMBxXE4azzmLLrStQBJTReEpAhGl0Ae4LoeT56deN5ennqOVyuKsfE4y1eZq0oUqHAjjViAQD94b/OsFn0/4LPXkiHGMVEXUgPHAAyn9jonjqdPDYatisXEsVWBSFVVAGySSdDwNkk+OmcoxS//Z" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABQcBAwYE/8QAKxAAAgIBAwMDAwQDAAAAAAAAAQIDBAUGESEAEjEHE2EUI1EWIkGCMoGR/8QAFwEBAQEBAAAAAAAAAAAAAAAAAAECA//EABcRAQEBAQAAAAAAAAAAAAAAAAEAETH/2gAMAwEAAhEDEQA/AFtrDUecu6rylizlbQse+8JMMjRL2oxCqFB4A/HyegbZ7NNKkcWWyRcsFAFqQ7knbbz1q9Naeq6v9R8vhbt6SlJPNaNeaNQ33FcntZT5BUN4I8dRrTT+S9OcnjsaqVbl6Ye9Fahj3aVO4r7exG4/7vz5656ct49sW+fzccro+XyQZCVYG1JwR5HnonozVWfpatxNirlrf1BsJCDPI0q9rsFZSpPIP8j46NaP07k/UfL5LFEVKt+ECaa3NH2tFGGC+3sBuf8AZ3489U6o0zS0d6nYfCUbst6WvPVNmZ1Cj3WkVu1VHgBSvkk89XTkx7UWspNhde2clVZknq5GWVGXbfiRvzx4389NafV2j9Xz6fFaTMfq1bIWpYsOqtXYkMTIx+20XH+IHPIABPSo1tpzPU9VZWvZxVv3/feYiCNpV7XYlWDAcg/n4PWbOJ1FBZimq4jJrJEwZT9HIeR/XkfHUQZqTyOtdFaLtajFuXN/q9rRW3ZrSKzWWB7lMbD7axcj9hHHAIJHSRiz0+d9R6uSsszz3MpFK7NtvzKv42HjYcdcFzTuo7diWzPici00rF2P0kg5P9dgPjorofRmft6ww8FfFW/qhYScCaJokCowZmZmHAH8n5HVAIq3/9k=" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Bridge Over Troubling Water</div>
-                                                <div class="unlocked">17 Jun 2026</div>
+                                                <div>A Light in Dark Places</div>
+                                                <div class="unlocked">29 Jun 2026</div>
                                             </div>
-                                            <div class="description">Complete the first Hard Light Bridge test</div>
+                                            <div class="description">Find a fire shrine</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAgcBBQYE/8QALRAAAQQBBAAEAwkAAAAAAAAAAQIDBAURAAYSIQcTQWEUIoEVIzEyUVWTwdH/xAAWAQEBAQAAAAAAAAAAAAAAAAAAAQP/xAAXEQEBAQEAAAAAAAAAAAAAAAABAAIR/9oADAMBAAIRAxEAPwBvsMtJZU/JcS20ntS1nASPc6ITaX90g/zp/wB1Z04HljSv8X98XtHt27ksKbqpNfK8iMGSHficqa4qXyR8oLbhUAD+IOT1jW2tcsg7azce49u0NJKtJllHXHjAFYZWHFnJCRhIPfZGhpZf2xQRLVMZyKJIUsMufmSnkQM++AD9dKzwi3dfeIdRLr91QoN3XS57MMpf+7KEcFuOKHFPzcQhJ7IIJGD3pzxaeNQUUarg8/hYyVJb5nJCSokDPrjOPppnStU5G7bRKOmesbFwtw2OJdXjPAFQTk+wz37azXi3C25uPw1s7RUd2yTJjBMZ6u5uF1aSS12gEEBRPZHQKhrrvoq7fbk6qbf+GXJSG/N454DkCSAfXAOh2ntWi23QxKqM2681GSQlx11XNWVFRJ4kDsk+mmh7QeUeBtFSwdjVUipq5kSUlktvmW04hwOq4l3HIDIJCfmA7CQPTGtZc9IUD0dVSoFOezCQT+pWs/3qH3WkMIYjICGkjCUjOANXJyLf/9k=" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABQYDBAcB/8QALhAAAQQBAwEGBAcAAAAAAAAAAQIDBAUGABEhEgcTFDFBYUJRgbMiIyYyM0R0/8QAFgEBAQEAAAAAAAAAAAAAAAAAAQIA/8QAGBEBAQEBAQAAAAAAAAAAAAAAAQAhETH/2gAMAwEAAhEDEQA/AM2zDIrybldpIk2soSO/WySy4ppPShRCUhIPAHy99UqOVkV5ewaqus7NcmU6lpIElw7bnlR58gNz9NUclU4rI7cBSQBMf9j/ACK0axzGYNtj785F6zUS4LnVKfmBSWghRAb7tSd1Fe4Uenb68ajAr9YRfWF3T3k6vXezn/DOqbDrUxakOAHhQIV5EbHUuGZVfwstqZEW2l+IMhDIL7inU9K1BKklJPIPqPYaY+2amxaLAo7fGLdufIsepEstrBC1oSnqe6fNBUrfcH1O/wA9IWLn9T0/+1j7idY0hxjGTkDI7bcDfxj33Fa0fs5usHm1tTU2+KV8i7MlmGpbid1SEuL6Q6DtypO/4knbjkH00j5tjt7Dyu1jyaqV3/freIYaU6npWolJCgOQfn7HUdDKu8fZPgMVsFTnHAHpvdOh0MfE00Qn8oqG4Lg3VseNtDpJjNna/c4VWVsqlqsUqouQuLKHXY6wvwSQr1WOC4QP2jcJB5O/GslxmTvlVMlA/vMfcTozkEC0uIEVIxCREnRyUeIjxnE9618KXEdOylp8uvgkee551zBsMv5eX07Eeql+KEhD4S82ppAShQUpSlKHAHqfcaTgQ63/2Q==" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Undiscouraged</div>
-                                                <div class="unlocked">5 Jun 2026</div>
+                                                <div>The Torchbearer</div>
+                                                <div class="unlocked">29 Jun 2026</div>
                                             </div>
-                                            <div class="description">Complete the first Thermal Discouragement Beam test</div>
+                                            <div class="description">Lit 100 torches</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
                                         <div>
-                                            <div class="description ellipsis">+2 others...</div>
+                                            <div class="description ellipsis">+1 other...</div>
                                         </div>
                                     </div>
                                 </div>
