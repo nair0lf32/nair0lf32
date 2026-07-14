@@ -49,7 +49,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        47 hours played
+                                        62 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -66,32 +66,32 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            9 / 51 achievements unlocked
+                                            13 / 51 achievements unlocked
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABQYHBAj/xAAtEAACAQMDAwIDCQAAAAAAAAABAgMEBREAEiEGEzEHYSIyQRQjQkNRcYGSof/EABYBAQEBAAAAAAAAAAAAAAAAAAEAA//EABgRAQEBAQEAAAAAAAAAAAAAAAEAAhEh/9oADAMBAAIRAxEAPwDY6Cj7w3EE6RFsXHjWfeosN4a32ypsLpT11PUolNMZWG+SU9sxnwqKVLfeNnBwFGTnVrFPdq3oypS3JUW6+Cnf7Mlw2SzBh8pkUcckFcnyME8nWzr2yC7Ta1x8ujK+j7PIyMa8t+vvUFQL/bZKCqn701MZpqnO0zlnO0lRwpUDaQMAEEfTW6empvTdPQLdq9qmnpqKmp9kka71qNm6UF/LbdyLz+LcPpqzrryXPCv7dFFPTGKdEkjbyrgEHnPg++NJ1EBSOCSJHd0kUBsFjtJwQT5Iwf8AM6mYZg0LQyPLGDxujcow/YjnRdV0rYqtjJVG4TVJYMZ3uExcn+2B/AGlGBjPVew3K49YdLVlr6KgvMNvqDPUzu8CdxT+X8RBGG+LJB5A99XVzULTgCMR8Z2AAYJ5I4486mIumLPErKKy/Oh8K95qiF9h8eknaKGnSnpVYRqAoyxY4H6kkkn3OjOUaW//2Q==" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABQYHAwT/xAAqEAACAQMDAwMDBQAAAAAAAAABAgMEBREABiESE0EHMVEUIjIVYWJxkf/EABYBAQEBAAAAAAAAAAAAAAAAAAABA//EABcRAQEBAQAAAAAAAAAAAAAAAAEAAiH/2gAMAwEAAhEDEQA/ANZpnpPr6ajnqI1rKlXeGFm+6RUx1EDzjIz/AHpsWxfjUF6gWKoqKCg3PZ+4b5txmrKaJfaoj47sRH8kU4x50te/UMRzbTksFunudDeZ0VpYQjHoaF5BGuXGJR0gkMMYz51s67ZBU5ti49tG19H2eV8aL3Nu/cVloq6+Pt+mTbtBKUqFnnZa14gwVp0QAp0gnIUnLAZ4yNU13wYyR7HkHVyxLjSU8dZb5qWYyCOaNo2MblGAIwcMOQf3HOvTYtv2bbVqWkstsp6SkhzII4IssWx+XksxHGfc+2iqCs7PDcaS/U1+dEg2aSbtt29dwpa91VMm3rPHVIILPXQSQVFykVgUMrsoUJ1YxEpJJA6j41Q2exXO0VlymudXHUJNxEBV1M7ABifu7rFQcEfiB/mNVMlxjkULIFdQcgMMgH550dX1ne4XnOoZ7Fv/2Q==" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Vertically Unchallenged</div>
-                                                <div class="unlocked">12 Jul 2026</div>
+                                                <div>Dual Pit Experiment</div>
+                                                <div class="unlocked">13 Jul 2026</div>
                                             </div>
-                                            <div class="description">Master the Repulsion Gel</div>
+                                            <div class="description">Do the same test twice</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAgcIBgX/xAAnEAACAQMEAQQDAQEAAAAAAAABAgQDBREABhIhMQcTFCIzQVElYf/EABYBAQEBAAAAAAAAAAAAAAAAAAABA//EABcRAAMBAAAAAAAAAAAAAAAAAAABAhH/2gAMAwEAAhEDEQA/AGyzxYUUy7hV9qMGAeoQSEBOMtjwP6T0P3objJNn2jcbzeKFOiYNGtWcI/JKgTPEqf4/1xnvvGu3a0LxygcoWUryAzxyMZ1LG/vUzdN3r1dr7gpJFpw6rQ5woRmNKUUqArUZeyoBVSQuQwJGP1raqwzS0ou2Sjedn2282eOlZ59CjVRXfilPnjkWP8T7Zx31jRpUizY3yrdVNWOWKrUCkK+D5UnyP+jo/rU47E9Tdz2aSm2NuUUk0ZlRYcASIzLSjM9TLVFXrkCWYgNgKAOv1qp7mhpx1Rn9wooUvjHLAxnA0mtDWBWj8Y1O2/6rWj1g3DWvEilGEmoPgSZSGrQp1Wjj4zsneVRg+fqcMysQcae8CZ7P1brWM3btiZd4N2DJt26SJM75kY3OJV5R+kQIro4IAVB48nzqXLYl4LrYVZrv6v7dq2iTRlGLV/0JMVDSoVKqUD8l1TAwrk0wPqOTKzADVFXf8Z0udp7Yl2iDagqbdtcmPOE2S1siVeUjAdShd3JIKOR34PjW0nzPd6XvViWhT0//2Q==" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAABQYHAwQI/8QAKBAAAQMCBQMEAwAAAAAAAAAAAQIDBAURAAYSEyEHMTIUIlJhI0FR/8QAFgEBAQEAAAAAAAAAAAAAAAAAAAED/8QAGBEAAwEBAAAAAAAAAAAAAAAAAAECESH/2gAMAwEAAhEDEQA/ALFAh73uVgkKYn44R+oD+axSaVAyItpmq1CWWFPOJBDTYbUoquQQnsBex742csVetQOjNOqjR9fUWATIcqesK2w+pLi3NJJ1JTckAnxIxs66ZJDeaYj+YGz4ezyn9Y5w609Rs0UDORhUiu1BkbAVIRunSh7WsEIHACbBNhi1ZIrFeq1LSmutxSliFEKn0ag6t9xoLWlYPtBSCkm3yH3hNa8K5wPOhPrqMqx1oceKVC90/iIJ4+icI2cZNaiQqHMy0IhjMS52tbq1OKcaK3FSBs+KglCVG6rnmybE4aqhARVPQBc6fCVDkb6Vw3dpa/aQUlVvE35tgzAapkCPDZiRGWm4evYAF9vXfWQTzdVzcnvc4VLbCeEW6n0XICerOVUymJTkINgTNjccZCAAY/ASoqBuAdJ8bYt78KLT4ZZhNJaaKlOEC51KUbqUSeSSTjOxPajsNsxwlpltIShDY0pQB2AA7DA+fM3uE83wmcZG9P/Z" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Stalemate Associate</div>
-                                                <div class="unlocked">5 Jul 2026</div>
+                                                <div>White Out</div>
+                                                <div class="unlocked">13 Jul 2026</div>
                                             </div>
-                                            <div class="description">Press the button!</div>
+                                            <div class="description">Complete the first Conversion Gel test</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
                                         <div>
-                                            <div class="description ellipsis">+7 others...</div>
+                                            <div class="description ellipsis">+11 others...</div>
                                         </div>
                                     </div>
                                 </div>
