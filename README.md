@@ -12,15 +12,15 @@ Hi, I’m EDEMESSI Florian Eudes (nairolf32), A curious mind from 🇧🇯 and a
 metrics = {
   "REGISTERED_YEARS": 8,
   "REGISTRATION_DATE": 5 Jan 2018,
-  "REPOSITORIES": 77,
-  "CONTRIBUTED_TO": 24,
-  "STARGAZERS": 19,
+  "REPOSITORIES": 76,
+  "CONTRIBUTED_TO": 25,
+  "STARGAZERS": 0,
   "STARRED": 798,
-  "COMMIT_COUNT": 3896,
+  "COMMIT_COUNT": 3898,
   "ORGANIZATIONS": 3,
   "PULL_REQUESTS": 114,
   "ISSUES": 7, "FOLLOWING": 30,
-  "FOLLOWERS 💛": 82
+  "FOLLOWERS 💛": 83
 }
 ```
 
