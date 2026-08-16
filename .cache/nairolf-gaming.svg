@@ -49,7 +49,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        9 hours played
+                                        12 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -57,7 +57,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M4.75 0a.75.75 0 0 1 .75.75V2h5V.75a.75.75 0 0 1 1.5 0V2h1.25c.966 0 1.75.784 1.75 1.75v10.5A1.75 1.75 0 0 1 13.25 16H2.75A1.75 1.75 0 0 1 1 14.25V3.75C1 2.784 1.784 2 2.75 2H4V.75A.75.75 0 0 1 4.75 0ZM2.5 7.5v6.75c0 .138.112.25.25.25h10.5a.25.25 0 0 0 .25-.25V7.5Zm10.75-4H2.75a.25.25 0 0 0-.25.25V6h11V3.75a.25.25 0 0 0-.25-.25Z"/>
                                         </svg>
-                                        Last played on 13 Aug 2026
+                                        Last played on 16 Aug 2026
                                     </div>
                                 </div>
                                 <div class="achievements">
@@ -66,32 +66,32 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            5 / 89 achievements unlocked
+                                            9 / 89 achievements unlocked
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABQgBBAcG/8QALBAAAgICAQMDAgUFAAAAAAAAAQIDBAUGEQASITFRYQcTFBUXQdEiMlKBkf/EABYBAQEBAAAAAAAAAAAAAAAAAAMEBf/EACERAAEEAgICAwAAAAAAAAAAAAEAAgMRBBITIQUxgcHw/9oADAMBAAIRAxEAPwDANmz+bj2nLQ18rkVVbkqIiWHAA7yAAAeqEmxbJXk+3JmMvE/+LWZFP/Oetx+jODpWdu3XJyokl2tfeGLuHJjVnclh7E8cc/B60e9iMfcvVJ8hRgsz1ZBJC8iBmRvcfx6dYMvkYsd4jMd0B38K1uO6QbbJYrv6i4/FLkrkmz16DAETvJMqAH0JPPj/AH1Oj7ZsU+54CGfPZWSGS/Aro9uQqymRQQRz5HTMJ9T9Ov5G9rd/JRh2jlhmade2Bv6SGUufHPr8fPSwYDCW8NvGsPOYJa0+QhMNivMssUnbKoIDKeORyOQfI5Hjz1XBNzMdyM1NdIHt1PRtFcfut3Rvqhn7tRBNWlvTx2azHgSp91v3/Zh6g/z0xGs7Th9wofjMJY7nTgy138Swn2Zfb5Hg9LNuuq7BNuGdlhweUkie9OyOtSQqwMjEEHjyOhuOw22Yq2tnH4zNVLCggSRV5EYA+o5A6LJwocpgdsA6h+KSOZ8Z9WER33V7Vfd8lXxkZt15JnljkiPcqgk9ys3opU8g8nxx1a16xBj72sYaOxHas/nMNyd4m7o4jyihFb0Y+pYjx/aATx1zjYPY/stC2My32mbvKGCTtLe/HHr89EdR1/NQ7VhpZcRkEjS7CzM1ZwFAcEknjqskCPVzwaH0iol1gL//2Q==" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAgUGBAf/xAAsEAACAQMEAAQEBwAAAAAAAAABAgMEBREABhIhMUFhcQcTFCIVQlFSkbHB/8QAFwEBAQEBAAAAAAAAAAAAAAAAAQIDBP/EAB0RAQEAAgIDAQAAAAAAAAAAAAECABESQQMhMVH/2gAMAwEAAhEDEQA/AOBbivd+O7bpS0dzuWfrZY44o6h/3kAAA6L8Zr6Q8K/dl3E35o6SVpeHoWLqM+2ffQXSopqfeW5oqqSSD59RURLURpzMRMvfWR0QCpx3g+fhpTLZg8E81urqatSFS7onJJFUeLcWAyB54zjXJExxBNejrNaXbj97luGellqbJum7VscK85ojUSRzRr5sU5HK/qVJx540ex92bin3nYIZ79dZIZK+BXR6uQqymRQQRnsajrfWT2+thq6SQx1ELB0YeRH+emrZLelv+KW3ZYYo4aauqaOuhijkVxGsjK3H7ScYPIYPeANVcTIiHxyRXE+5KI12/wC+U4kSJfrqlnkfPFFV2LMcd9AHoawT1lDRpJFaY5md1MbVU+AxUjBCoOlyMjsscHy1T7lsG5Kffl5raOxXGVPr52Umjd0kQu3Xh2pB/g6wVG3Z3JcbT3BCx7+WoYoPYmPOPcn30T5J4zt9aOzFHbiyvgoKi3xy235Mb00SmZcyGR8kAscjjkE4wvl3qjhqKGbdfw+NDNHLJHDRpU8BjhKKhvtPrx46RVNnvrRNBBYbhTwE5KrTSEtjw5MRk/16a17R2/eod1WaWW03BI0rYWZmpnAUBwSSceGiqng7r97xB38z/9k=" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Matters of the Heart</div>
-                                                <div class="unlocked">13 Aug 2026</div>
+                                                <div>The Lotless</div>
+                                                <div class="unlocked">16 Aug 2026</div>
                                             </div>
-                                            <div class="description">Experience first love.</div>
+                                            <div class="description">Make the choice to remain a commoner.</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABQcIBgL/xAApEAACAQQCAQMDBQEAAAAAAAABAgMEBQYRACESBxNBIjFhFTJRcaGx/8QAFwEBAAMAAAAAAAAAAAAAAAAAAgAEBf/EAB8RAAICAgMAAwAAAAAAAAAAAAECAxEABBIhMRNh0f/aAAwDAQACEQMRAD8An/KMgvUOT3eKG7XBESslVVWpcAAOdADfNTj+N5rdLfFXy5NNbqJ9j3aqtlQg62D4nsj8gHmHyx3gzO9PExR0rpyrDog+bcqXG0SwY/QRTRL4PHCIlklMks0jhWbyJ+58iTofC7611j7kw1o04qLP1lqJPkZrOJDMcf8AUnEKeOe53O6mF/c3JBXSOqhCNkkHoEMCD/zR4GwfLMimzOwQz366yQyXCBHR6uQqymRQQRvscrHKaynnhtNFXoJ7fdKsW2phY9OJEYqd/H1IB/THkjWu3m0erVDQFkY0t5jiJj/b9MwHX449ScbEZ5KLrBIhRvcF5m3tZvfG8VbxuE50w2DqQ9HjfxvKZPUPNrFFS09ZGttmatcyyKwijESqVBUDe3+T9gQOLnNcVyCbML7LDY7pJE9dOyOtJIVYGRiCDrscK4Vdcwwq3V0NmxipWsrGX3KueikdlQDpVBGh2Se9/H8cc6JLCONcqod+WKORCVbvzHNm10ihyTDLdUTpDGly/UZpHYKqRQqSSxP2Gz/nETU3SK7+tEVwpphPBNeY2jkEfthk91Qul+BoDX44OyGDMMgrzWXmiu1VUePgGelcaXe9ABdAd87xHH71DlVmlltFwSNK2FmZqZwFAcEknXBra6a0VFgTR/cUjmRrAz//2Q==" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGwAAAQQDAAAAAAAAAAAAAAAABAEDBQYAAgj/xAArEAACAQMEAgECBgMAAAAAAAABAgMEBREABhIhMUEiUYETFBUyQmFxkbP/xAAXAQEBAQEAAAAAAAAAAAAAAAABBAID/8QAHREBAAICAgMAAAAAAAAAAAAAAQACESEDYRJBcf/aAAwDAQACEQMRAD8A5+3TuG9Qbnu8cV2uEcaVcqqq1LgKA5wAM6SivV8FMKuu3BdoKUtwUJUuZJT74gsOh7J6/wAnUfvIY3ffB9K6f/o2m71GYqS0o2Q4pcspH7cyOQP9EH76mpx08KmDfXU6NnLuWWmu92ubPDY9z39qxULpTzzuDMAMkIVc/LGTxPnHRz1pNj7s3FPvOwQzX66yQyV8CujVkhVlMiggjPY1Xtoll3LbioyBKC3yCgL/ACJJ9AZOiNkBU33YQrh1W5QAMBgEfir3ptx1Cxj1AVxJq72y3zbp3JU3WaSNBc5oYEUhBI/NjhmIPEYwM49+tbU1W9Ffaya8W6Cvo5wYKyiaQcoSWwmGzkYIXD+MHz3qR3JY7lLfNwU1Vt+/SQSXWaoimpqdiCOTD2uCCCDkHQVVZ6lpIpFsm5VZab8s5NFjmuCoJ/vGB9tTlq2qC+pvCOphtK2KmknFthlqHne3sHqslGHJZGXAAUd8RnPjPfeh7RaKai3VtmvttU1RRT3ONF5rhoysq9H6gjwevHgaPrkq6laoyWG/Gad45WkNLhi68cknHYPHIHrJ86bsFJdv1SwUcdhuUFLT3CGYyyxOSAH9/EAD5E6DkfFV396+xa70T//Z" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Trampled</div>
-                                                <div class="unlocked">13 Aug 2026</div>
+                                                <div>Coming of Age</div>
+                                                <div class="unlocked">16 Aug 2026</div>
                                             </div>
-                                            <div class="description">Spare Sophia an early death.</div>
+                                            <div class="description">Reach the threshold of adulthood.</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
                                         <div>
-                                            <div class="description ellipsis">+3 others...</div>
+                                            <div class="description ellipsis">+7 others...</div>
                                         </div>
                                     </div>
                                 </div>
