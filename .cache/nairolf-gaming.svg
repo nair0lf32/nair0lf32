@@ -49,7 +49,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        219 hours played
+                                        234 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -57,7 +57,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M4.75 0a.75.75 0 0 1 .75.75V2h5V.75a.75.75 0 0 1 1.5 0V2h1.25c.966 0 1.75.784 1.75 1.75v10.5A1.75 1.75 0 0 1 13.25 16H2.75A1.75 1.75 0 0 1 1 14.25V3.75C1 2.784 1.784 2 2.75 2H4V.75A.75.75 0 0 1 4.75 0ZM2.5 7.5v6.75c0 .138.112.25.25.25h10.5a.25.25 0 0 0 .25-.25V7.5Zm10.75-4H2.75a.25.25 0 0 0-.25.25V6h11V3.75a.25.25 0 0 0-.25-.25Z"/>
                                         </svg>
-                                        Last played on 27 Oct 2026
+                                        Last played on 28 Oct 2026
                                     </div>
                                 </div>
                                 <div class="achievements">
@@ -66,32 +66,32 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            25 / 75 achievements unlocked
+                                            28 / 75 achievements unlocked
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAABAAMBAAAAAAAAAAAAAAAABgIFBwP/xAArEAACAQMDAwMDBQEAAAAAAAABAgMEBREGEiEAIjEHEzIUFUEzNEJRYYH/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8Au/UDWkWn4np4JUjqBtEkpAYozDKRop4aVgMjPao7m8qGwev1hdbrVwz+zCqkNv8Aq0FVLnwp3SAgfIHChQMHgeOp68rpbreYvfZGXYk5Eg2gTzgSMSSPADIh84WMccZDbT+n7NSPczebBJWWu2V9Lb6u5mudZS8zECWKNSYiqsVOxtzFXBJySOgDWbVd3tdRA0qU+VZjNPTIKWQKM/ExgAntPyVgdwBB63b061tHqOlijnbM0gb2ZSoQyFfkjqOFkUc8drDuXGGVTms9GWFLdqC3Gi+i1XZq6ClhnoCsNPWJOheGSVHYJENqtuZSMFMj8DrM9HT1dj1JUIYniqI0ZnjY49uWnBkXjwThXTj+LnAxyQYWGkp7P6xaRe7RIaY1CUM/uAFTKkZp+7/P0m5/Ei/31fa5ttLddLxFWuFLX3GRpdM6YsVPtSmiSX9xJGmAXYAnefG7jOOEuvtGx36GSaCMPM4Uyw79hkKjCSI3hZVBIBPDL2tjggDUVF1oUt0FVdbnbbhQ0woBWQOkE9TSCUyLFIsskRDAkjfFIwYYz4z0HfTNva4WG6/cNa2F6y7RrR3e06jWb6pPaYiFh3iRpQD4XjJwM9G6OjS665ugtiTmCIfbYJJl2ySP7QpQzc8MdskhHOApz06pda6lr7G9ot6Ri4GaZUusk0dxuEVOzHZGhiz3hcAySOv/ADAPV/6faLj0/BFLPGEmQERQ7g5jLDDO7DhpGHGR2qO1fJJD/9k=" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABgcIBP/EACkQAAICAgEDAwMFAQAAAAAAAAECAwQFEQYAEiETFCIHCDEkQUJRYTL/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8AM/VLmQShDfu11v1blieLG4yVnWsYYZPTexP2ENIzOGCJsBQpJ2SOgOAwXD+V5/HR1L9vD+5sJFNjJQZX+bBf08uiH8kfGQKdA+WPVZr5njpa5wjL8MscsyGJyVhasdeNjMtKYmWRlK/yRmA0SAdggg9IuCYKljs7xyHhtZV4iLHq28mknp3LFgyEJWn8dymMgd0fgMPJ/roIHncJw7iudyC279rM+2sSRQYyIGJvgxXdibWl8g/GMMdEfJT0/wDpZzIPSlvU660KdSxDDksbE7tXWKZ/Tjswd5LRlXKq6bIIYEaOx0857hKmSy/Ia3L4FPEfeCark5H9W7BMsmpKlfQ7mMjf8p5CrvwfGj1jM8dD0+EYjhljieQy2Sri1HZjYTPShIljZi38nZSNAkDRJJPQG6kPIJ/uRyUPGr1qgnvIZrs8RIRYVCE+prQKknWj4JIHWjrUduhnpor1nDyRX8vXtUBTg9OwyrIgcS68OVDr8t7I/P8Akl5NxjLxZXL3sfDYlju3IryyY6WNZ1eOLsRXjlAWQKduunBDHeiQNF+I/Uahwm3Dgs1isyobLVri3cqFSWDZVZ30o8r2oml2f38/gdBoClHav5yGPH2cLHDRzFi3fFqD1J1VpZFQRb8KWCN8t70PH+5ztw8gg+5HGw8kvWr6e8mmpTykmNoWDkelvwFBGtDwCCP766uV/UWjzWxNgsNisyQMtZuNdxQV5Z/kywPph4XsdwV2P28/kdKuMcYy8uVxF7IQ2Io6VyW80mRljadnki7HVI4gVjDHTttySw3oEnYf/9k=" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>The Eye of Magnus</div>
-                                                <div class="unlocked">26 Oct 2026</div>
+                                                <div>Dragon Hunter</div>
+                                                <div class="unlocked">27 Oct 2026</div>
                                             </div>
-                                            <div class="description">Complete "The Eye of Magnus"</div>
+                                            <div class="description">Absorb 20 dragon souls</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABAYHAgX/xAAoEAACAgICAgEDBAMAAAAAAAABAgMEBREGEgAhBxMxMhQjQWElUYL/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAf/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/AHXlObTEVfUsUUrI0jSy+0gjBAMjDY7HbKqpsdmYDYGyIhkuW5LM5H/GUVkUSAfVvwLZs611cOHBSJlYqwWNVGj/ADo+M3zfNOYLMUYdo5LVeGTUSOoRIGkCt3IABeRm/wCf6Hm/jrF49eP4w3J61Y3JEaazN1eOnVJlVZSGLKS0kRRSxZV3oe2HgKuI5blMJYifNUVhUhO89KBKs6aQdivQBJGZ20EdWB6n7D2LlxjNDK1tO6PMsayiRF6rNG2wHC7JU7DKyEkqyke/RM9+RMbjkwmUehYgsClK7Q2YQI0tQftq0oCEKGjklEbMmgQSDognwX4PmmEFeJlaOOO3PDGPoiNSjwCQhdM3bTRK2yT+X9+A0/IeGoZHK4erlImarlrlemJFj7/RsByI21/po3lQk70Qh0deBYng2au14sdTuLR5Zh6U+DnDlRtBMbFayFPp4XHZG9HXb7HqR48ciw1fPYqSjaknhBZZEmryFJYpFO1dGH2IPk+4ra5Z8ecqqUuQ5L9fxi0GpQZ2SJZJ8aZPxJdwSi9+u1YlP58qCMzwbNU60mOvXFv8ry9KHBVlQqdIZxYs2Sq/hEg6ovob670OwHhvxxh6ePyeaq0IGjr4m/apl2QJ9ecvp30PWhGkSj7ey50N+cvlVrlnyHyq1S4/kv0HGaqrSnzscSxz5Ix/kQ6AF179tKpCfz5QOO4avgcVHRqyTzAM0jzWJC8ssjHbO7H7knyD/9k=" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAABAYFBwEDCP/EACoQAAIBBAECBQQDAQAAAAAAAAECAwQFERIGABMHISIxQRQjMmEWUXGB/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAH/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwAa6Pc75w2e/VN4v2sN0qLdU2yzNDA0XbY4KbeuQ665GSck/HS5U+H1k+shu5N7u1BNSGOG1zypLWtVujBRIQwUAN5hQdiRgBsMAzXSeK2czn424FMau5fyOkqXxpIO0qz05B8jsEc/6q/OCI+31kPIOUV16p5JqeeinFJK0RYOX30SknUKwkicjKy42QBtskK3QRFn8ObVObfcJ4LxZoqagSG50KzrDVtVLGpMkBJKnYnJR9SMg4AIPUyZK3jfh3PySz3jlKSLXQ0NJbb40EvdZyD61GWT05x5qfY+3WOSOtlukfK7s0slYkwpCrnuCmqNVLUlIpGpVg2xqDsNScbP6mPuMkd65nbuL7GoxdF5BP22+1TQxxsqRY99mdixJ8zuMknoDvHTiMnJOKCsoELXS2EzRa/k8ePWg/eAGH+fvpF4NyKjr7RU1lL9Ql4ihmrrhTRxbmcfZjkMa4w3cRWU5/HuyH4HXQnVf1lkj4/cqqOd5F4Xddkqu0MSWmVyCZoz7iFmClwPIEBvjPVRXvJeSW2DjNuuFfDLHLJBHUWq2GJgIBDJ9qNs+RjRnnw3u6ag+ZJ6bvAPik1osE17ugY3O74ky/5LD7rn9sTsf1r1voeMR3yoobctS1bxS0ALJWygF7zUhtnYMct9OHyQMkMcnz9xZgGP6/50H//Z" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Revealing the Unseen</div>
-                                                <div class="unlocked">26 Oct 2026</div>
+                                                <div>Sideways</div>
+                                                <div class="unlocked">27 Oct 2026</div>
                                             </div>
-                                            <div class="description">Complete "Revealing the Unseen"</div>
+                                            <div class="description">Complete 10 side quests</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
                                         <div>
-                                            <div class="description ellipsis">+23 others...</div>
+                                            <div class="description ellipsis">+26 others...</div>
                                         </div>
                                     </div>
                                 </div>
