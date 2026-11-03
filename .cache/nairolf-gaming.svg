@@ -49,7 +49,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        274 hours played
+                                        291 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -57,7 +57,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M4.75 0a.75.75 0 0 1 .75.75V2h5V.75a.75.75 0 0 1 1.5 0V2h1.25c.966 0 1.75.784 1.75 1.75v10.5A1.75 1.75 0 0 1 13.25 16H2.75A1.75 1.75 0 0 1 1 14.25V3.75C1 2.784 1.784 2 2.75 2H4V.75A.75.75 0 0 1 4.75 0ZM2.5 7.5v6.75c0 .138.112.25.25.25h10.5a.25.25 0 0 0 .25-.25V7.5Zm10.75-4H2.75a.25.25 0 0 0-.25.25V6h11V3.75a.25.25 0 0 0-.25-.25Z"/>
                                         </svg>
-                                        Last played on 2 Nov 2026
+                                        Last played on 3 Nov 2026
                                     </div>
                                 </div>
                                 <div class="achievements">
@@ -66,32 +66,32 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            31 / 75 achievements unlocked
+                                            34 / 75 achievements unlocked
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAABgcEBQECA//EACwQAAEEAgECBgEDBQAAAAAAAAECAwQFBhESACEHExQxQVFCFSKBIzJScrH/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8Az44ZPLg10XG6DzV3lueCUsn96Gt9yNexUe2/oKPS5xY01ZIKZNza399GeChEgIdksqAA7DRAWQrsTy49u2/k5x7ArTIYVxnecTW6Kos2UOGQF83Wa8gkttgb4lY8tOz34lXY8tddHLHGL2BV0WFY7bVWIeoUJFkieiv9aEpPNR5BS3+ABVrfY++h7AYYfCw7NMotIEitehTvLC5kWatyI/yU22Q6w0Vc0I3s6CiO+zrY2OeEuSpcsbvEpT0lx+pkuiGuX2eeihZCeW/yGx/Ch9daeClcY/irSTLtSYsiBj7UNwPqAWX1urbYbPf+9TKQQPkD66WkR2a6JmX1rzTcjEpTjMh14kepjqXphrf5KO1o/wBQn/EdAeWGVvHHbLA7eHKkZFVQ0MxwJK0MWcFtaVuISlJ7OLZR76Uex0Qe3VlhdZb5fDubTC59ZKiktSoCXmmkORQgFJrHm9bQ0Uk8VIISSOW/3HU/xPhWtd6TMMTSn9fqUqSU+V5nnMKGlJKfniTyH89I/H7N+ttE29YxkmN3Pu47XRvOYdJ7n+krjxBP47Un6A9ugNY1yZF4t1wW8W0xrnYO0z8BKnnJAAaZ5yEEFwIW42lJWgEIPud76qMyp34wxzwopVpXPDgnXbyTsKmOJ2Qoj3S03/376dGAeLNfJrbe1yeveTZwmmWv1FusDEmYlROkBoKWSEkbPfj37gfMLCYqbi5scylVTVa/YFTcRjyUodSxyJLjpABU44raiT8aA7dB/9k=" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABgcBBAUC/8QAJhAAAQQCAgEEAgMAAAAAAAAAAQIDBAUGERIhAAcTFDEiUTJBUv/EABUBAQEAAAAAAAAAAAAAAAAAAAAB/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8AaSRyUAP34raulv8A1OvquxuBVnBIdq8zLie4UFKmjwT7m9FRWVDXE67/AK80cnqouXeqdBidjNnNQpldIdUiJILZbdSeSVkDo9JI/Ia78PZdbU4jFTRQKaMzVxrOI9GQ1KUouOucgVugnkCOOwN96B+tjyoV7FZknprfBtKqxeF2158asjpc5rDbxKgtsjegkAAhR7I6/fjUII+x5UgUVNnNJBpbGnYVVqMmVtUspdjvBakbZA7I7339b734EYFFZoM/zPF4cyY9AqhEQwiW+XFklslxwA/W1Eb0APrwKEW/sKUZLb1NRPmWdtdv1ji61nlIjtsNoS00F8VFBdJ5ctHQBIBOiJrp9Fjk+zDtPfRZliy1dht+UHm/kxGFuOxS8oFXuAFZUVbO/wDII838rw+VYGyfx26kUkyxaDM32wVNSQP4qUkEELGulpO9dHfi9am2FTLl416h3T0l1tll5lyEn5Ei0jlziqEQfyKlDYSs6UkFYJKFa8iiW0eqLC3aFfTZDOscdiOqa+PK+Ol2W+UOew06gcy4gKJ2B2EnYIO/Oxdy725w6/n10qHZosXqVXzY4akS2FxwsrXoJ5FlaSkniAd70kkgC6nrjI5LON4Jki0ttww7OsZG2JLTZWUpi8R+SeACQvXa1dqJASAycYxV+vfizb22kXNpFjCJHddHFEZrWiltOz2ddqJKj4H/2Q==" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Skill Master</div>
-                                                <div class="unlocked">1 Nov 2026</div>
+                                                <div>Dragonslayer</div>
+                                                <div class="unlocked">2 Nov 2026</div>
                                             </div>
-                                            <div class="description">Get a skill to 100</div>
+                                            <div class="description">Complete "Dragonslayer"</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAABAAMBAAAAAAAAAAAAAAAABwQFBgj/xAAoEAACAgIBBAEDBQEAAAAAAAABAgMEBREGABITISIkMTIHFBUWI0H/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8AzUuTs5TJ35Ggks5R6zWInSYRPWBadfMrH8Y4WjhBA0NFy3cT1Gr0s1+o3Hcm05m5M9OtJFXsx1xWhSwew/5b0ZX2F2WChVJ9EsOrODK0YuXEQUprwXJNlhWhYIz1f3Bj7Ax16Ev1OiQuh7/6elPh54/xmnHx/G2b8UTzd/dOjTLMzeie5dhZCNbB0rH8To66AZsUs1+nHHcY0Jm4y9ytHHYsyV1swvYHef8AX7tE/ttFQwZQPQKnqTFk7OLydCRYJK2USstiV3mEr2QGgXzMw/KOZpJgAdjQQr2kdLvMP6/yWnJgMlZvSRRz95aBGhWJ1Po9zemkA3oDaqT8joa6LbOWoz8w+ppzUu7JLlmrzMHeOr+4EfYW9+jL9RoEro+vWj0GArUrj54W1a54TiadRYKzBJLbTxrCYAxB7Qz+QMdb+LD7nrq7iPHq+HcRvUpy5WjFBQqyhA5SfwKZCrPsgKoA3vegd7PR7nuNz4e7/LYSsLsC2UuNR8fdJBKr+RZYCCrFfJ8mh3ptt26J91eD5xj8fwO9Xy+eppyKuMpbiXvdGkkmjk0pVwGVu510G9+jreugVeXcer5h+xKlOLK34Z8falKBC8/gYoWZNEhlJG/vojWvt1ynYp3EzxuM1zwjE3KjQWWDyVGgjaEQFgB3BX8YU638lH3HSvnucUMjwbHwYfPU35DMMXckBd3aKSKOPahUBZm2jbC+/Y3rfVngONTZe7/LZqqtKBrL3FoiLtknld/K0s5JYgGT5LDvS6Xu2R6D/9k=" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABQYHAQL/xAArEAACAgIBAwMDBAMBAAAAAAABAgMEBREGABIhBxMxFCJBFTJhoVFSY3H/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8AL5v1Y4diHeOTLCzMhIKVI2l8j8b/AG/31uGoT+o3IuN5HK8dyVLifdNF32rLV3tNJHuNlSNg3aCnyTo78b6GWqWaxzrxrj8GGnyVMGzhGyVGGX36pYB4BI42skLNsefKH+OqHj1yWRfGxch5dTs20aK7iLkFf2Unlbu+3sDASLpJV1rZRgykHyATMtWm9O+Q8nyGL47krvERLDD7lWy1h6rRxAyFkkYt2lnP3A6Gvx13g/Vbh2Ykjihyy153IUR2ozEdn8b/AG/30330yOMXJV+Ocup1rTSS3MtdsVxMkU4K7UpsiNT3xLrW1RSxJPzO6lLNZRW41n4MNBkbw+pzRxtGGL6aqHISEyINtJMyknz9qL/k9AG9T+YLjuXWZ4VEwwNeKMp/0sOolP8AB9kFAfkd5I89UH0uylixdjq5Q+7JVtRrXeTtPuxM57H18gOoMq/BDRyEfa2upzkOLWcDe5JeytO9bORmec5WGFLcMKdwaNmrkgho28nYcFfjXSnb5jRw3LjBQMeZsSW6Uti7YtKtZ5YovbMikf7CSQFi2hv48b6C3+qeUs17klTFsYXt23SxLHoezGsn3vrwSI1Ikb528kZP2qB0i+l/LRkeVwSyIkEedqOqIPH31XZY/wD0+wVUn8lN/npHpcpw+R5X9GrR4dK1vIyUrsEwFZWmRgJWDDYOlj0QdeB4G+nHFcXtZrLcZyOLoXaX6bIkv6lPFHUinj2WkK11JPdIxJBHYAp0Qeg//9k=" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>At the Summit of Apocrypha</div>
-                                                <div class="unlocked">1 Nov 2026</div>
+                                                <div>The Fallen</div>
+                                                <div class="unlocked">2 Nov 2026</div>
                                             </div>
-                                            <div class="description">Complete "At the Summit of Apocrypha"</div>
+                                            <div class="description">Complete "The Fallen"</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
                                         <div>
-                                            <div class="description ellipsis">+29 others...</div>
+                                            <div class="description ellipsis">+32 others...</div>
                                         </div>
                                     </div>
                                 </div>
