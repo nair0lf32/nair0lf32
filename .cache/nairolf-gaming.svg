@@ -49,7 +49,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        350 hours played
+                                        366 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -57,7 +57,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M4.75 0a.75.75 0 0 1 .75.75V2h5V.75a.75.75 0 0 1 1.5 0V2h1.25c.966 0 1.75.784 1.75 1.75v10.5A1.75 1.75 0 0 1 13.25 16H2.75A1.75 1.75 0 0 1 1 14.25V3.75C1 2.784 1.784 2 2.75 2H4V.75A.75.75 0 0 1 4.75 0ZM2.5 7.5v6.75c0 .138.112.25.25.25h10.5a.25.25 0 0 0 .25-.25V7.5Zm10.75-4H2.75a.25.25 0 0 0-.25.25V6h11V3.75a.25.25 0 0 0-.25-.25Z"/>
                                         </svg>
-                                        Last played on 10 Nov 2026
+                                        Last played on 11 Nov 2026
                                     </div>
                                 </div>
                                 <div class="achievements">
@@ -66,32 +66,32 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            36 / 75 achievements unlocked
+                                            38 / 75 achievements unlocked
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAABQYHBP/EACkQAAICAQMDBAICAwAAAAAAAAECAwQFBhESAAcxExQhQSIyFVIzQlH/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAf/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/AGTK5TE5DW8GAzHGXF4+m+WyUJ2PrAFVhh2Pndn5lfvivUT09S/hO/cOlZJ7mQ06mWNY1Emd45YCfx5KDsygFSfrYHf46sUupK+k5NVxe0ox6ivXY5qmQvqDWVGRFh9RvKKOEi7+Aw+SNx0Xy+RqN3H0zaxsUdKK5wqTVq4WGS+u42bmV34R82JjB5OOPwQN1CD9362Ssd48xpvS1fI08ekoWPH1TII1UIDJIsYOwX9m+Btt1ZMLWGjdQV8DDSlr4K7AjVZeRkiSyOSlOZH7SKnPb+wbbz1v9wyd27arkrcdLEKlc0FCzzrGBGOYkA5JFIE/xluXIbhTz6H3NRY2xgsZpbG3I8nPVfG1y9ZS0cdlLPqygSHbkfTViQB+PE7ncgdAR1xppNQ44+msXvY43RBLvwmRv3hfb54tsDuPlWCsPkdJ2kpbFjWuP95Rmr4ui1epFXsqJHrWI5dgj7fDjjxkXb7dWXYFgar0r5+GLCajxWql9wsFeVYskIWOxhI4rMVHkxEg7+eJb/nVQB7iWbFDuFatYys71GsTwW1gTi08zgIkaKfDMSdz5b0iSQmw6J9vdGxacpwyTxIlpIzHDCjc1rIxBYcv9pG2HN/vYKNlUDrbRWHUmtMnqYPJPQik9tjmZj6chXkJLCL42JYorf1B289M3Qf/2Q==" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABQYEB//EACoQAAICAgEDAgYCAwAAAAAAAAECAwQFEQYAEiEHMRMUIjJBUTNhQlLB/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAH/xAAVEQEBAAAAAAAAAAAAAAAAAAAAAf/aAAwDAQACEQMRAD8As+eQ3rHDsvFinZLhgJUq/YSoILAN/iSoYA/jfUXW4hjuSZLFS+nuTu8Xx1ikJMjXrKySuug8Z7e7XeVZdnfsyn8+dHrly+pg+G38fBaiOVvJ8usCuO9EcfU5HuB27AP7PQUa8igyCSYS1PSmjx6UZ5YIShgtssT/ADHkEPC5RI2YbCKPIAAJoXbitHjWWyieod3Icpxlask2PjshmZUaOR5dp3fyARnzs6CsfH4rvTyK7DwrEplJHks/B7gXcOwjJJjDMPchCoJ/rrnV187HkXs5mazkJRjJKlUyxM/zFqNZJTZJGhHEHZ0T/dfYdpJ6c9C+W08zwvH42W1CMpRQ12gLgO0a/awHuR2kDf8AXSCNpxYOtwaHLZvL5enkbphmeWjGJbmQnkRiUDHQVRsa/wCnpbHiS7mYXiq2HzKCJMjjFnSa8YxqMSWZfxGEG5IUVT3H69Bt9YOD5/B1KvF7Vi3SsWsbFHLHV28jCX4Pw9lIwW2pYkexBUH9daMFj8RgMvBlsfgs3TijdmN16Fgn6gQdkkvogkeRog+eoN2XisVMjfmnq2mzcUM60cYkqR3o6/lGnrMPuh+GSVhZSVI2n0qT1NNHirnBJc3ic5kMhdrGWxBNZjEVzHyxop7GYEh1bW9j3H6IPTuVgo5fkD5+fE56WUyrNHk69CdXVl0FZSCGAGhrxoa8dH81zeAnp8nsUrFCpYyUcs0lVe+ImYxdpIjcAgsQCR58tvx56D//2Q==" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Hero of Skyrim</div>
-                                                <div class="unlocked">9 Nov 2026</div>
+                                                <div>Hidden Knowledge</div>
+                                                <div class="unlocked">11 Nov 2026</div>
                                             </div>
-                                            <div class="description">Capture Solitude or Windhelm</div>
+                                            <div class="description">Learn the secrets of 5 Black Books</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQABAAIDAAAAAAAAAAAAAAAABQMGAgQH/8QAJhAAAgICAQMEAwEBAAAAAAAAAQIDBAURBgASIQcUIjETFUEyUf/EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwBvj/AeIckzXJ4OT0GOVW9KEmjI3LFajDxsDonvjEUhH/PP3vof1H9P8Dis1gb/ABTeAoJNZv38shC+1AARYFAGz842AXzrbb8db1BsNyTmWdqNmLePkneulK5BI9dJ2jhkisRJLrtZgHHxH3rx/eo85PU/f43DYLNWrXsYGvWZe82VnaSdi3n6n+QCbHa6EdykgOoAT014ZR5vyxLvKJXz9HM4yCVLoKqaltCsktftP+R4ZfiCCpP93p/nfB/T2lSNfiUEE+ffIQ0UMZBStI9ppWLMBoFViljA3vtAGv71jjshXqc+inzmZnp0szWnigarN2R1lEfczRlAB2qAG9y3+lYdqhdkGzYHE+nElXHDPfs1lz1XKzTpGWWtB7eRPyTuu1TveT4gn60fPk9A5mjDxvDVMHyGSlkuDW7civXuw9ktIlZZgyTKy7+Y0N6PyADdG4iHF8ox7W+F2aN5Ya5/FTroKlikFVnWuyAbMf5GfUo2R3tskgN1dOW05MhxbMU4IhNNPUljjjOvk5QhR58feuua8Bqyem3FVs1eIX4eTSRSJcztkxyx0lYHTJEjksint7vAOtnzoDoGpq0GDwlLN+oc9HETTRF3ilC2XkZu9ZYYYRsFGQhd+QiuVX6BEnH5anJcFkuPcQNHD8MeOA2Upwd89x5olklVpGdgmt9hHyZQNbHQfJRP6i8PkjzfHrmXzteEJS5DjjHFBLNr5AIzr3R7AHeAQx2VA8dXz06x0+J4NhKNyv7e1BWVZo9Davs73r+9B//Z" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAABAQADAAAAAAAAAAAAAAAABgcCAwj/xAAmEAABBAIBAwQDAQAAAAAAAAABAgMEBQYREgcTIQAiMVEIFUFS/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/ANX6tGbVuRZpaOTZFDFdTEra5EhbcaYgLDfcc4kHXcVzI8EjQ2PU5wWgRfXgVaYew1Aj2KIypaXDFZDhc49hxLi9L38cUaWD58/B6G6cTq6u/HF5i5irms1zcuvmREn3uOB5aO2D/CrknX1yH16nr+QQW+rOAV0WxfF9AtTGuIyCSwqQpAbU4FEDkvRKFq0ORSVaG9kAXULG00F+65T4aw7WO2S4glqcMpoOBzj2EIbXpsjWuK9rJ2fHwH/6tGE1uO5pWOTY9DKdVEsq5chTkaGgrLfcb5EnXcTzA8kDY36yXfwV9Xc8rpdi+b6dZojU0Ve0sJkJbLaXCoA8V69iF6PEqCteNh91HnV1j+OLLFNFXCZsW4lfDiKPvbcLyEdsn+lPFW/vifv0EHoepqMYy3N6O7aekY3bzny72QC7GdCyEuoBIBI0naSfPEfXml5zYU9w/iuV0sOvRKq76K9kT0WMlLwSeJQ8o65FtQOwT/oA+QdS2sxOtnWc+VYVs60tJU6QpVall9CmUdw8QVAJQCr5K1OaSNe1ROg2fEzHJ7jlpQvwoLziJ0l6O6ZkVUhC2kNlZCQpLLTZdWEL2OYB8gD0CLELGlqJ2WZXcQ65cmzvpTmOvyYwU6pKQruPJOuQaSE7JH+SB5I3Lr/qajJ8twijpGno+N1E6OWg8kB2S6VgKeWASATtWkg+OR+/DJJlZLZIcqaN+fBYfemxn33TEiB9bjqFqQSkqW0612llCABz2fAJ9BrPE62DZwJUCtnVdpFnR1JrVMvrU8juDkAohSCU/IWlzShv2pI0Q//Z" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>War Hero</div>
-                                                <div class="unlocked">8 Nov 2026</div>
+                                                <div>Delver</div>
+                                                <div class="unlocked">10 Nov 2026</div>
                                             </div>
-                                            <div class="description">Capture Fort Sungard or Fort Greenwall</div>
+                                            <div class="description">Clear 50 dungeons</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
                                         <div>
-                                            <div class="description ellipsis">+34 others...</div>
+                                            <div class="description ellipsis">+36 others...</div>
                                         </div>
                                     </div>
                                 </div>
