@@ -49,7 +49,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        442 hours played
+                                        454 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -57,7 +57,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M4.75 0a.75.75 0 0 1 .75.75V2h5V.75a.75.75 0 0 1 1.5 0V2h1.25c.966 0 1.75.784 1.75 1.75v10.5A1.75 1.75 0 0 1 13.25 16H2.75A1.75 1.75 0 0 1 1 14.25V3.75C1 2.784 1.784 2 2.75 2H4V.75A.75.75 0 0 1 4.75 0ZM2.5 7.5v6.75c0 .138.112.25.25.25h10.5a.25.25 0 0 0 .25-.25V7.5Zm10.75-4H2.75a.25.25 0 0 0-.25.25V6h11V3.75a.25.25 0 0 0-.25-.25Z"/>
                                         </svg>
-                                        Last played on 21 Nov 2026
+                                        Last played on 22 Nov 2026
                                     </div>
                                 </div>
                                 <div class="achievements">
@@ -66,32 +66,32 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            39 / 75 achievements unlocked
+                                            41 / 75 achievements unlocked
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAABAUGBwACA//EACwQAAICAQMEAQMCBwAAAAAAAAECAwQFBhESABMhMQcIIkEzYRQjMkJRcYH/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8Ad6l11JhM3ZqJhbFunSWBrliKQc4xM2yFI9t3G/jcEefHSA6XyGuJc7byKE2oplWCnLYEn8HAxA2MYkRBKvAhhz3/AJgDetunlHLNU+TtTT0seMiwxaU3qsC3eeNRK/r+0LLGu35Zgfx5jvx7q6LR3yL8k4ueCWLGYyS9kou0wcxsjcCux25KxMZC7jZgv++gXYi9qHT9jI6Uwt9mvUEmttRs4pjaiRUB7cSdxkZG8EANuATsP8Wjo/NtnMOktqB6mTgIhvVJEZGrzgAspDedvII/Y9V5S1NYm+pbT2ToUppKmSxUEqwNuZTE8BlYjc/1BuR9kHyPz1I1y4X5evWIkaCpqBYy0DtyZZBXEkMhO525osq7DwOA/PQG/CVSS98gXdTyxyw0Lte1dqmT12ZngRGYgbKT2H2XfcAeQPz0+NNOWYPqO15ftVO5ib9N5ILBiDQzq8se4VvIPlWBH7da3NBYaV3lom7jJy5lVqdl1RXJ3J7TExnc+xx2PQtnUWc0bHZmz1ljTSs4q36cXGqJhsyd+Bf0mLKF5Ie23L7lHvoHWoMEF+qTAZVkKY+lgzJJI6BYYv1YkXl6BJb0f+dJflzEtgtd19QVaxfD04KV2TsDYJBX70L8SftJHfi+3fcqTtvt4ytqHN6xSvNgLBWnJWQWr9yLlWMxHJ+zA36zBmK8nPbXj9qn30XT0FhonSW8buTnDiVmuWXZGcHcHtKRGNj6HHYdB//Z" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABgcEAgX/xAApEAACAgIBAwMDBQEAAAAAAAABAgMEBREGABIhBxMxFSJBFCMyUWFi/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAH/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwCoOyojM7BVUbLMdAD+yegfN+a0TVsYLjtr6jyO7C8deCjIrlD2klmcHS6UE/O+kGLq0OU8ot/WIXuYLF/tQVCu4rtxfMhf8MsQKr9329zHfkAdeXzDEYGTJUM9h8fRis0q8wuNjAkJ7JAIlicIdo3uONMdHtWQH4HVRi4PyPE4yEcevX0rWIQLFQ3Je02Ksw92FgzfJCuFI3vanp6jK6BkYMrDYZTsEf2D0W41jcd9QsZrlsGHvZaepEkM9jsmhfsZ1eOurnZHubG13pTGB4PW3KVqHFuUVPo0D08DlP2p6gXUVK43mMp+FWUdy/b9vco15JHQBMzyi3wr0Ww2YxShr9uOtXWV12I3YPJKx8/y7xL/AL3Pv5UECcJ6rW+WZmDF5fjmBkWzIkUBSN4oqoKGOV3Ct3SD2vwW8FAQN/NZ5HggcJlcJbx0+U4xkZDZ9qmyi3jbBPcZIQxAdC22KbBBLa2DrqScX4FZ45yqvfxs17JwwuG/TtgpkkkUEHtPugRxnwNMHOj5G+orrOeqtviWZmxeJ45gI1ru8cxaOSWK0vYI4nQM3dGPa/AbyXJI38NsNyi1zX0VzOYyqhb9SOzWaRBoSOvZJEw/67zD/vcm/liSK5Zwa1ybldjIZOa9i4JWJ/TjBTPLGCSdbiBjkbZO3LjuPk6+BWOO4IDCYrCVMbPiuMY6UWfauFTbyVgHuEkwUkIgbTBNkkqu9Aa6D//Z" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Beyond Death</div>
-                                                <div class="unlocked">16 Nov 2026</div>
+                                                <div>With Friends Like These…</div>
+                                                <div class="unlocked">22 Nov 2026</div>
                                             </div>
-                                            <div class="description">Complete "Beyond Death"</div>
+                                            <div class="description">Join the Dark Brotherhood</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABQYEB//EACoQAAICAgEDAgYCAwAAAAAAAAECAwQFEQYAEiEHMRMUIjJBUTNhQlLB/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAH/xAAVEQEBAAAAAAAAAAAAAAAAAAAAAf/aAAwDAQACEQMRAD8As+eQ3rHDsvFinZLhgJUq/YSoILAN/iSoYA/jfUXW4hjuSZLFS+nuTu8Xx1ikJMjXrKySuug8Z7e7XeVZdnfsyn8+dHrly+pg+G38fBaiOVvJ8usCuO9EcfU5HuB27AP7PQUa8igyCSYS1PSmjx6UZ5YIShgtssT/ADHkEPC5RI2YbCKPIAAJoXbitHjWWyieod3Icpxlask2PjshmZUaOR5dp3fyARnzs6CsfH4rvTyK7DwrEplJHks/B7gXcOwjJJjDMPchCoJ/rrnV187HkXs5mazkJRjJKlUyxM/zFqNZJTZJGhHEHZ0T/dfYdpJ6c9C+W08zwvH42W1CMpRQ12gLgO0a/awHuR2kDf8AXSCNpxYOtwaHLZvL5enkbphmeWjGJbmQnkRiUDHQVRsa/wCnpbHiS7mYXiq2HzKCJMjjFnSa8YxqMSWZfxGEG5IUVT3H69Bt9YOD5/B1KvF7Vi3SsWsbFHLHV28jCX4Pw9lIwW2pYkexBUH9daMFj8RgMvBlsfgs3TijdmN16Fgn6gQdkkvogkeRog+eoN2XisVMjfmnq2mzcUM60cYkqR3o6/lGnrMPuh+GSVhZSVI2n0qT1NNHirnBJc3ic5kMhdrGWxBNZjEVzHyxop7GYEh1bW9j3H6IPTuVgo5fkD5+fE56WUyrNHk69CdXVl0FZSCGAGhrxoa8dH81zeAnp8nsUrFCpYyUcs0lVe+ImYxdpIjcAgsQCR58tvx56D//2Q==" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABQYHBAL/xAAqEAABBAEEAgIBAwUAAAAAAAABAgMEBREGEiExACIHExQVQVEIFiNxkf/EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwBw1lqyBpaCHZIXJmunbHgsezz6j0Ep7xx3j/p48jVhavWNhJXq6cYNtYuxHa+BEmvOfS0SQWVobWAlSgE8q5G4ngkDztKJuqby9sKRqJIeky0PUtlKlohymV42gpJWDsTg4T3nacd+MOmfj2L8iUtbf6bqGae7gOxSuQZqXW5riCkPfY1klpXqVp63DORznwBDTrUTVM+FoW3Su9hWkkMxZ8iQfzGR6iME7lJWoHOF+pVj+RzQNF/I1ZfOIr7FJqdQBZZcr5GQSsDPoSOQf2zz/vxX1FoFPx3US7m2p022p7JUlTMtqcGhCkOFQaDLW4FwjdvUrnb646JAObHs06IjyJ0b8p+CmI3ZTHA2iQYbS/s/xe2SUK2p3n3IxgBIOQya9p22Wdf031sR1Cwh3URWUpJbKXEuYSPYpSFknaCBt57HjT8BrrdK3snSGoEx5moETkT4DcVwhKXEMKVuL+QDltZARjHYPZwe1zpG4t9W111VLqVGDGKWETkrIbe3lQVhPCwfXhR2jHRz5G7qJCGt25N3C/Rrdh9Dk+NJkpdjzTwVKSdyClK+QQCQAcDHXgOP9Sk+ttJTVDQRgm0hzHZVhE2qecLzraXFOIcydyQlOFDACdo/YeKlRpdVZV/2847Vz5eoZlc5FfiufcCwn7S8UKCduEqyhft2nojnzbp+FEqNTLs9P2drYXMxt1caBRfUEtHcMIeX9jmGRkcEchODx5RtCaRuU6k/Xr9LFcmOXExKyOltSGwttCFEKT0n04T3/JznIf/Z" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Hidden Knowledge</div>
-                                                <div class="unlocked">11 Nov 2026</div>
+                                                <div>Thu'um Master</div>
+                                                <div class="unlocked">21 Nov 2026</div>
                                             </div>
-                                            <div class="description">Learn the secrets of 5 Black Books</div>
+                                            <div class="description">Learn 20 shouts</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
                                         <div>
-                                            <div class="description ellipsis">+37 others...</div>
+                                            <div class="description ellipsis">+39 others...</div>
                                         </div>
                                     </div>
                                 </div>
